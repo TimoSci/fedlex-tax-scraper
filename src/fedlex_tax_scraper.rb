@@ -422,7 +422,7 @@ module Fedlex
       LIMIT 1
     SPARQL
 
-    encoded = CGI.escape(query)
+    encoded = CGI.escape(query.gsub(/\s+/, ' ').strip)
     sparql_url = "#{SPARQL_ENDPOINT}?query=#{encoded}&format=application%2Fsparql-results%2Bjson"
 
     body = HTTP.get(sparql_url)
@@ -455,7 +455,7 @@ module Fedlex
       LIMIT 1
     SPARQL
 
-    encoded = CGI.escape(query)
+    encoded = CGI.escape(query.gsub(/\s+/, ' ').strip)
     sparql_url = "#{SPARQL_ENDPOINT}?query=#{encoded}&format=application%2Fsparql-results%2Bjson"
 
     body = HTTP.get(sparql_url)
@@ -494,7 +494,7 @@ module Fedlex
       ORDER BY ?rsNumber
     SPARQL
 
-    encoded = CGI.escape(query)
+    encoded = CGI.escape(query.gsub(/\s+/, ' ').strip)
     sparql_url = "#{SPARQL_ENDPOINT}?query=#{encoded}&format=application%2Fsparql-results%2Bjson"
 
     Log.info("Running SPARQL discovery query...")
