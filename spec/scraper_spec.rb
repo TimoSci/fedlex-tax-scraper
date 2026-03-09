@@ -84,7 +84,7 @@ RSpec.describe 'Scraper' do
 
     it 'fetches, extracts, and saves law text' do
       # Stub SPARQL lookup
-      stub_request(:get, /fedlex\.data\.admin\.ch\/sparql/)
+      stub_request(:get, /fedlex\.data\.admin\.ch\/sparqlendpoint/)
         .to_return(
           { status: 200, body: sparql_html_response('https://www.fedlex.admin.ch/eli/cc/test/de/html') },
           { status: 200, body: empty_sparql_response }
@@ -109,7 +109,7 @@ RSpec.describe 'Scraper' do
     end
 
     it 'marks the law as failed when text extraction returns empty' do
-      stub_request(:get, /fedlex\.data\.admin\.ch\/sparql/)
+      stub_request(:get, /fedlex\.data\.admin\.ch\/sparqlendpoint/)
         .to_return(status: 200, body: empty_sparql_response)
 
       scraper = Scraper.new
@@ -159,7 +159,7 @@ RSpec.describe 'Scraper' do
 
   describe '#fetch_law_text (via send)' do
     it 'prefers HTML when available' do
-      stub_request(:get, /fedlex\.data\.admin\.ch\/sparql/)
+      stub_request(:get, /fedlex\.data\.admin\.ch\/sparqlendpoint/)
         .to_return(status: 200, body: sparql_html_response('https://www.fedlex.admin.ch/test.html'))
 
       stub_request(:get, 'https://www.fedlex.admin.ch/test.html')
@@ -175,7 +175,7 @@ RSpec.describe 'Scraper' do
       pdf_sparql = sparql_html_response('https://www.fedlex.admin.ch/test.pdf')
 
       call_count = 0
-      stub_request(:get, /fedlex\.data\.admin\.ch\/sparql/)
+      stub_request(:get, /fedlex\.data\.admin\.ch\/sparqlendpoint/)
         .to_return do
           call_count += 1
           if call_count == 1
@@ -197,7 +197,7 @@ RSpec.describe 'Scraper' do
     end
 
     it 'returns nil when neither HTML nor PDF is available' do
-      stub_request(:get, /fedlex\.data\.admin\.ch\/sparql/)
+      stub_request(:get, /fedlex\.data\.admin\.ch\/sparqlendpoint/)
         .to_return(status: 200, body: empty_sparql_response)
 
       scraper = Scraper.new
@@ -217,7 +217,7 @@ RSpec.describe 'Scraper' do
       discovery_response = { 'results' => { 'bindings' => [] } }.to_json
 
       call_count = 0
-      stub_request(:get, /fedlex\.data\.admin\.ch\/sparql/)
+      stub_request(:get, /fedlex\.data\.admin\.ch\/sparqlendpoint/)
         .to_return do
           call_count += 1
           if call_count == 1

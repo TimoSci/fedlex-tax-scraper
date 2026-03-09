@@ -31,7 +31,7 @@ RSpec.describe 'Fedlex' do
 
   describe '.current_html_url' do
     it 'returns the HTML URL from a SPARQL response' do
-      stub_request(:get, /fedlex\.data\.admin\.ch\/sparql/)
+      stub_request(:get, /fedlex\.data\.admin\.ch\/sparqlendpoint/)
         .to_return(status: 200, body: sparql_json_response('https://www.fedlex.admin.ch/eli/cc/1991/1184/de/html'))
 
       result = Fedlex.current_html_url('https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184')
@@ -39,7 +39,7 @@ RSpec.describe 'Fedlex' do
     end
 
     it 'returns nil when no bindings are returned' do
-      stub_request(:get, /fedlex\.data\.admin\.ch\/sparql/)
+      stub_request(:get, /fedlex\.data\.admin\.ch\/sparqlendpoint/)
         .to_return(status: 200, body: empty_sparql_response)
 
       result = Fedlex.current_html_url('https://fedlex.data.admin.ch/eli/cc/nonexistent')
@@ -47,7 +47,7 @@ RSpec.describe 'Fedlex' do
     end
 
     it 'returns nil and logs a warning on SPARQL failure' do
-      stub_request(:get, /fedlex\.data\.admin\.ch\/sparql/)
+      stub_request(:get, /fedlex\.data\.admin\.ch\/sparqlendpoint/)
         .to_return(status: 500, body: 'error')
 
       allow_any_instance_of(Object).to receive(:sleep)
@@ -58,7 +58,7 @@ RSpec.describe 'Fedlex' do
 
   describe '.current_pdf_url' do
     it 'returns the PDF URL from a SPARQL response' do
-      stub_request(:get, /fedlex\.data\.admin\.ch\/sparql/)
+      stub_request(:get, /fedlex\.data\.admin\.ch\/sparqlendpoint/)
         .to_return(status: 200, body: sparql_json_response('https://www.fedlex.admin.ch/eli/cc/1991/1184/de/pdf-a'))
 
       result = Fedlex.current_pdf_url('https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184')
@@ -66,7 +66,7 @@ RSpec.describe 'Fedlex' do
     end
 
     it 'returns nil when no bindings are returned' do
-      stub_request(:get, /fedlex\.data\.admin\.ch\/sparql/)
+      stub_request(:get, /fedlex\.data\.admin\.ch\/sparqlendpoint/)
         .to_return(status: 200, body: empty_sparql_response)
 
       result = Fedlex.current_pdf_url('https://fedlex.data.admin.ch/eli/cc/nonexistent')
@@ -74,7 +74,7 @@ RSpec.describe 'Fedlex' do
     end
 
     it 'returns nil on failure without raising' do
-      stub_request(:get, /fedlex\.data\.admin\.ch\/sparql/)
+      stub_request(:get, /fedlex\.data\.admin\.ch\/sparqlendpoint/)
         .to_return(status: 500, body: 'error')
 
       allow_any_instance_of(Object).to receive(:sleep)
@@ -102,7 +102,7 @@ RSpec.describe 'Fedlex' do
         }
       }.to_json
 
-      stub_request(:get, /fedlex\.data\.admin\.ch\/sparql/)
+      stub_request(:get, /fedlex\.data\.admin\.ch\/sparqlendpoint/)
         .to_return(status: 200, body: response_body)
 
       results = Fedlex.discover_tax_laws
@@ -124,7 +124,7 @@ RSpec.describe 'Fedlex' do
         }
       }.to_json
 
-      stub_request(:get, /fedlex\.data\.admin\.ch\/sparql/)
+      stub_request(:get, /fedlex\.data\.admin\.ch\/sparqlendpoint/)
         .to_return(status: 200, body: response_body)
 
       results = Fedlex.discover_tax_laws
@@ -132,7 +132,7 @@ RSpec.describe 'Fedlex' do
     end
 
     it 'returns empty array on failure' do
-      stub_request(:get, /fedlex\.data\.admin\.ch\/sparql/)
+      stub_request(:get, /fedlex\.data\.admin\.ch\/sparqlendpoint/)
         .to_return(status: 500, body: 'error')
 
       allow_any_instance_of(Object).to receive(:sleep)

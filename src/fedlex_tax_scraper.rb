@@ -49,7 +49,7 @@ LOG_FILE     = File.join(OUTPUT_DIR, 'scraper.log')
 STATE_FILE   = File.join(OUTPUT_DIR, 'state.json')
 MASTER_FILE  = File.join(OUTPUT_DIR, 'swiss_federal_tax_laws_FULLTEXT.txt')
 
-SPARQL_ENDPOINT = 'https://fedlex.data.admin.ch/sparql'
+SPARQL_ENDPOINT = 'https://fedlex.data.admin.ch/sparqlendpoint'
 FEDLEX_BASE     = 'https://fedlex.data.admin.ch'
 
 # Delay between HTTP requests (seconds). Be a polite scraper.
@@ -353,7 +353,7 @@ end
 # =============================================================================
 
 module HTTP
-  def self.get(url, retries: MAX_RETRIES)
+  def self.get(url, retries: MAX_RETRIES, accept: nil)
     uri = URI.parse(url)
     attempt = 0
     begin
@@ -364,7 +364,7 @@ module HTTP
       http.read_timeout = HTTP_TIMEOUT
       req = Net::HTTP::Get.new(uri.request_uri)
       req['User-Agent'] = 'FedlexTaxScraper/1.0 (educational; contact: scraper@example.com)'
-      req['Accept'] = 'text/html,application/xhtml+xml,application/sparql-results+json'
+      req['Accept'] = accept || 'text/html,application/xhtml+xml,application/sparql-results+json'
       response = http.request(req)
 
       case response.code.to_i
@@ -409,23 +409,22 @@ module Fedlex
       PREFIX jolux: <#{JOLUX}>
 
       SELECT ?url WHERE {
-        <#{work_uri}> jolux:hasExpression ?expression .
-        ?expression jolux:language
-          <http://publications.europa.eu/resource/authority/language/DEU> ;
-          jolux:isRealizedBy ?manifestation .
-        ?manifestation
-          jolux:format <http://publications.europa.eu/resource/authority/file-type/HTML> ;
-          jolux:isEmbodiedBy ?item .
-        ?item jolux:url ?url .
+        ?expr jolux:language
+          <http://publications.europa.eu/resource/authority/language/DEU> .
+        ?expr jolux:isEmbodiedBy ?manif .
+        ?manif jolux:userFormat
+          <https://fedlex.data.admin.ch/vocabulary/user-format/html> .
+        ?manif jolux:isExemplifiedBy ?url .
+        FILTER(STRSTARTS(STR(?expr), "#{work_uri}/"))
       }
-      ORDER BY DESC(?url)
+      ORDER BY DESC(?expr)
       LIMIT 1
     SPARQL
 
     encoded = CGI.escape(query.gsub(/\s+/, ' ').strip)
-    sparql_url = "#{SPARQL_ENDPOINT}?query=#{encoded}&format=application%2Fsparql-results%2Bjson"
+    sparql_url = "#{SPARQL_ENDPOINT}?query=#{encoded}"
 
-    body = HTTP.get(sparql_url)
+    body = HTTP.get(sparql_url, accept: 'application/sparql-results+json')
     result = JSON.parse(body)
     bindings = result.dig('results', 'bindings') || []
     return nil if bindings.empty?
@@ -442,23 +441,22 @@ module Fedlex
       PREFIX jolux: <#{JOLUX}>
 
       SELECT ?url WHERE {
-        <#{work_uri}> jolux:hasExpression ?expression .
-        ?expression jolux:language
-          <http://publications.europa.eu/resource/authority/language/DEU> ;
-          jolux:isRealizedBy ?manifestation .
-        ?manifestation
-          jolux:format <http://publications.europa.eu/resource/authority/file-type/PDF_A> ;
-          jolux:isEmbodiedBy ?item .
-        ?item jolux:url ?url .
+        ?expr jolux:language
+          <http://publications.europa.eu/resource/authority/language/DEU> .
+        ?expr jolux:isEmbodiedBy ?manif .
+        ?manif jolux:userFormat
+          <https://fedlex.data.admin.ch/vocabulary/user-format/pdf-a> .
+        ?manif jolux:isExemplifiedBy ?url .
+        FILTER(STRSTARTS(STR(?expr), "#{work_uri}/"))
       }
-      ORDER BY DESC(?url)
+      ORDER BY DESC(?expr)
       LIMIT 1
     SPARQL
 
     encoded = CGI.escape(query.gsub(/\s+/, ' ').strip)
-    sparql_url = "#{SPARQL_ENDPOINT}?query=#{encoded}&format=application%2Fsparql-results%2Bjson"
+    sparql_url = "#{SPARQL_ENDPOINT}?query=#{encoded}"
 
-    body = HTTP.get(sparql_url)
+    body = HTTP.get(sparql_url, accept: 'application/sparql-results+json')
     result = JSON.parse(body)
     bindings = result.dig('results', 'bindings') || []
     return nil if bindings.empty?
@@ -473,32 +471,32 @@ module Fedlex
   def self.discover_tax_laws
     query = <<~SPARQL
       PREFIX jolux: <#{JOLUX}>
-      PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
 
       SELECT DISTINCT ?work ?rsNumber ?titleDe WHERE {
-        ?work a jolux:Work ;
-              jolux:rsNumber ?rsNumber .
+        ?work jolux:historicalLegalId ?rsNumber .
         OPTIONAL {
-          ?work jolux:titleShort ?titleDe .
-          FILTER(LANG(?titleDe) = "de")
+          ?work jolux:isRealizedBy ?expr .
+          ?expr jolux:language
+            <http://publications.europa.eu/resource/authority/language/DEU> .
+          ?expr jolux:titleShort ?titleDe .
         }
         FILTER(
-          (xsd:decimal(?rsNumber) >= 640 && xsd:decimal(?rsNumber) < 700)
-          || regex(?rsNumber, "^64[0-9]")
-          || regex(?rsNumber, "^65[0-9]")
-          || regex(?rsNumber, "^313\\.0")
-          || regex(?rsNumber, "^68[0-9]")
-          || regex(?rsNumber, "^741\\.71")
+          STRSTARTS(?rsNumber, "64")
+          || STRSTARTS(?rsNumber, "65")
+          || STRSTARTS(?rsNumber, "313.0")
+          || STRSTARTS(?rsNumber, "68")
+          || STRSTARTS(?rsNumber, "741.71")
         )
+        FILTER(STRSTARTS(STR(?work), "https://fedlex.data.admin.ch/eli/cc/"))
       }
       ORDER BY ?rsNumber
     SPARQL
 
     encoded = CGI.escape(query.gsub(/\s+/, ' ').strip)
-    sparql_url = "#{SPARQL_ENDPOINT}?query=#{encoded}&format=application%2Fsparql-results%2Bjson"
+    sparql_url = "#{SPARQL_ENDPOINT}?query=#{encoded}"
 
     Log.info("Running SPARQL discovery query...")
-    body = HTTP.get(sparql_url)
+    body = HTTP.get(sparql_url, accept: 'application/sparql-results+json')
     result = JSON.parse(body)
     (result.dig('results', 'bindings') || []).map do |b|
       {

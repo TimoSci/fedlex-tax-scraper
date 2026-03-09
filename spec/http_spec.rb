@@ -67,6 +67,15 @@ RSpec.describe 'HTTP' do
       expect(result).to eq('ok')
     end
 
+    it 'uses custom Accept header when provided' do
+      stub_request(:get, 'https://example.com/sparql')
+        .with(headers: { 'Accept' => 'application/sparql-results+json' })
+        .to_return(status: 200, body: '{"results":{}}')
+
+      result = HTTP.get('https://example.com/sparql', accept: 'application/sparql-results+json')
+      expect(result).to eq('{"results":{}}')
+    end
+
     it 'handles rate limiting (429) with Retry-After' do
       call_count = 0
       stub_request(:get, 'https://example.com/ratelimit')
