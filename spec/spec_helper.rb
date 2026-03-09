@@ -25,7 +25,7 @@ def load_scraper_code(tmp_output_dir)
   modified.sub!(/^LAWS_DIR\s*=.*$/, "LAWS_DIR = File.join(OUTPUT_DIR, 'laws')")
   modified.sub!(/^LOG_FILE\s*=.*$/, "LOG_FILE = File.join(OUTPUT_DIR, 'scraper.log')")
   modified.sub!(/^STATE_FILE\s*=.*$/, "STATE_FILE = File.join(OUTPUT_DIR, 'state.json')")
-  modified.sub!(/^MASTER_FILE\s*=.*$/, "MASTER_FILE = File.join(OUTPUT_DIR, 'swiss_federal_tax_laws_FULLTEXT.txt')")
+  modified.sub!(/^MASTER_FILE\s*=.*$/, "MASTER_FILE = File.join(OUTPUT_DIR, 'swiss_federal_tax_laws_FULLTEXT.md')")
 
   # Reduce delays for fast tests
   modified.sub!(/^REQUEST_DELAY\s*=.*$/, 'REQUEST_DELAY = 0')

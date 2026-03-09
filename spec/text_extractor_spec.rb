@@ -68,12 +68,13 @@ RSpec.describe 'TextExtractor' do
       expect(text).not_to include('Site footer')
     end
 
-    it 'formats headings with separator lines' do
+    it 'formats headings as Markdown' do
       html = <<~HTML
         <html>
         <body>
           <article>
             <h1>Erster Titel</h1>
+            <h2>Zweiter Titel</h2>
             <p>Inhalt</p>
           </article>
         </body>
@@ -81,8 +82,8 @@ RSpec.describe 'TextExtractor' do
       HTML
 
       text = TextExtractor.from_html(html)
-      expect(text).to include('=' * 60)
-      expect(text).to include('Erster Titel')
+      expect(text).to include('# Erster Titel')
+      expect(text).to include('## Zweiter Titel')
     end
 
     it 'returns empty string when no body node is found' do

@@ -51,12 +51,12 @@ RSpec.describe 'Scraper' do
     it 'builds a formatted header string' do
       scraper = Scraper.new
       header = scraper.send(:build_header, 'DBG', '642.11', 'Bundessteuer', 'https://example.com')
-      expect(header).to include('LAW: DBG')
-      expect(header).to include('SR:  642.11')
-      expect(header).to include('TITLE: Bundessteuer')
-      expect(header).to include('SOURCE: https://example.com')
-      expect(header).to include('SCRAPED:')
-      expect(header).to include('=' * 80)
+      expect(header).to include('law: DBG')
+      expect(header).to include('sr: 642.11')
+      expect(header).to include('title: Bundessteuer')
+      expect(header).to include('source: https://example.com')
+      expect(header).to include('scraped:')
+      expect(header).to include('---')
     end
   end
 
@@ -99,11 +99,11 @@ RSpec.describe 'Scraper' do
 
       scraper.send(:process_law, law)
 
-      output_file = File.join(tmp_dir, 'laws', 'TestLaw.txt')
+      output_file = File.join(tmp_dir, 'laws', 'TestLaw.md')
       expect(File.exist?(output_file)).to be true
 
       content = File.read(output_file)
-      expect(content).to include('LAW: TestLaw')
+      expect(content).to include('law: TestLaw')
       expect(content).to include('Testgesetz')
       expect(content).to include('Art. 1 Dies ist ein Testgesetz.')
     end
@@ -123,17 +123,17 @@ RSpec.describe 'Scraper' do
   end
 
   describe '#compile_master_file (via send)' do
-    it 'compiles all law .txt files into one master file' do
+    it 'compiles all law .md files into one master file' do
       laws_dir = File.join(tmp_dir, 'laws')
       FileUtils.mkdir_p(laws_dir)
 
-      File.write(File.join(laws_dir, 'AAA.txt'), "Law A content")
-      File.write(File.join(laws_dir, 'BBB.txt'), "Law B content")
+      File.write(File.join(laws_dir, 'AAA.md'), "Law A content")
+      File.write(File.join(laws_dir, 'BBB.md'), "Law B content")
 
       scraper = Scraper.new
       scraper.send(:compile_master_file)
 
-      master = File.join(tmp_dir, 'swiss_federal_tax_laws_FULLTEXT.txt')
+      master = File.join(tmp_dir, 'swiss_federal_tax_laws_FULLTEXT.md')
       expect(File.exist?(master)).to be true
 
       content = File.read(master)
@@ -143,17 +143,17 @@ RSpec.describe 'Scraper' do
       expect(content).to include('BBB')
       expect(content).to include('Law A content')
       expect(content).to include('Law B content')
-      expect(content).to include('Laws included: 2')
+      expect(content).to include('Laws included:** 2')
     end
 
     it 'handles empty laws directory' do
       scraper = Scraper.new
       scraper.send(:compile_master_file)
 
-      master = File.join(tmp_dir, 'swiss_federal_tax_laws_FULLTEXT.txt')
+      master = File.join(tmp_dir, 'swiss_federal_tax_laws_FULLTEXT.md')
       expect(File.exist?(master)).to be true
       content = File.read(master)
-      expect(content).to include('Laws included: 0')
+      expect(content).to include('Laws included:** 0')
     end
   end
 
@@ -170,7 +170,7 @@ RSpec.describe 'Scraper' do
       expect(text).to include('Testgesetz')
     end
 
-    it 'falls back to PDF lookup when HTML is empty' do
+    it 'falls back to PDF URL when HTML is empty' do
       html_sparql = sparql_html_response('https://www.fedlex.admin.ch/empty.html')
       pdf_sparql = sparql_html_response('https://www.fedlex.admin.ch/test.pdf')
 
@@ -188,12 +188,22 @@ RSpec.describe 'Scraper' do
       stub_request(:get, 'https://www.fedlex.admin.ch/empty.html')
         .to_return(status: 200, body: '<html><body></body></html>')
 
+      # Verify the PDF URL is looked up after empty HTML
+      scraper = Scraper.new
+      pdf_url = nil
+      allow(Fedlex).to receive(:current_pdf_url).and_wrap_original do |method, *args|
+        result = method.call(*args)
+        pdf_url = result
+        result
+      end
+
+      # Stub the PDF fetch to return minimal valid content
       stub_request(:get, 'https://www.fedlex.admin.ch/test.pdf')
         .to_return(status: 200, body: '%PDF-1.4 fake pdf')
 
-      scraper = Scraper.new
-      text = scraper.send(:fetch_law_text, 'Test', '999', 'https://fedlex.data.admin.ch/eli/cc/test')
-      expect(text).to include('PDF available at')
+      # The PDF will fail to parse, but the fallback to PDF was attempted
+      scraper.send(:fetch_law_text, 'Test', '999', 'https://fedlex.data.admin.ch/eli/cc/test')
+      expect(pdf_url).to eq('https://www.fedlex.admin.ch/test.pdf')
     end
 
     it 'returns nil when neither HTML nor PDF is available' do
@@ -265,8 +275,8 @@ RSpec.describe 'Scraper' do
       scraper = Scraper.new
       scraper.run
 
-      expect(File.exist?(File.join(tmp_dir, 'laws', 'TestOnly.txt'))).to be true
-      expect(File.exist?(File.join(tmp_dir, 'swiss_federal_tax_laws_FULLTEXT.txt'))).to be true
+      expect(File.exist?(File.join(tmp_dir, 'laws', 'TestOnly.md'))).to be true
+      expect(File.exist?(File.join(tmp_dir, 'swiss_federal_tax_laws_FULLTEXT.md'))).to be true
     end
   end
 end

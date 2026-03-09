@@ -47,7 +47,7 @@ OUTPUT_DIR   = File.join(__dir__, 'output')
 LAWS_DIR     = File.join(OUTPUT_DIR, 'laws')
 LOG_FILE     = File.join(OUTPUT_DIR, 'scraper.log')
 STATE_FILE   = File.join(OUTPUT_DIR, 'state.json')
-MASTER_FILE  = File.join(OUTPUT_DIR, 'swiss_federal_tax_laws_FULLTEXT.txt')
+MASTER_FILE  = File.join(OUTPUT_DIR, 'swiss_federal_tax_laws_FULLTEXT.md')
 
 SPARQL_ENDPOINT = 'https://fedlex.data.admin.ch/sparqlendpoint'
 FEDLEX_BASE     = 'https://fedlex.data.admin.ch'
@@ -562,29 +562,98 @@ module TextExtractor
     body_node = doc.at_css('article, .page-content, main, #content, body')
     return '' unless body_node
 
-    # Extract text, preserving some structure
+    # Convert HTML to Markdown, preserving structure
     lines = []
-    body_node.traverse do |node|
-      next unless node.text?
-      text = node.text.strip
-      next if text.empty?
+    convert_node(body_node, lines)
+    lines.join("\n").gsub(/\n{3,}/, "\n\n").strip
+  end
 
-      # Add spacing around block-level parents
-      parent = node.parent
-      tag = parent&.name&.downcase
-      if %w[h1 h2 h3 h4 h5 h6].include?(tag)
-        lines << "\n#{'=' * 60}"
-        lines << text
-        lines << '=' * 60
-      elsif %w[p li dt dd td th].include?(tag)
-        lines << text
-      else
-        lines << text
+  def self.convert_node(node, lines, list_depth: 0)
+    node.children.each do |child|
+      if child.text?
+        text = child.text.strip
+        lines << text unless text.empty?
+      elsif child.element?
+        tag = child.name.downcase
+        case tag
+        when 'h1'
+          lines << ""
+          lines << "# #{child.text.strip}"
+          lines << ""
+        when 'h2'
+          lines << ""
+          lines << "## #{child.text.strip}"
+          lines << ""
+        when 'h3'
+          lines << ""
+          lines << "### #{child.text.strip}"
+          lines << ""
+        when 'h4'
+          lines << ""
+          lines << "#### #{child.text.strip}"
+          lines << ""
+        when 'h5', 'h6'
+          lines << ""
+          lines << "##### #{child.text.strip}"
+          lines << ""
+        when 'p'
+          lines << ""
+          convert_node(child, lines, list_depth: list_depth)
+          lines << ""
+        when 'ul', 'ol'
+          lines << ""
+          convert_node(child, lines, list_depth: list_depth + 1)
+          lines << ""
+        when 'li'
+          indent = '  ' * [list_depth - 1, 0].max
+          prefix = child.parent&.name&.downcase == 'ol' ? "1. " : "- "
+          text = child.text.strip
+          lines << "#{indent}#{prefix}#{text}" unless text.empty?
+        when 'table'
+          convert_table(child, lines)
+        when 'br'
+          lines << "  "
+        when 'strong', 'b'
+          lines << "**#{child.text.strip}**"
+        when 'em', 'i'
+          lines << "*#{child.text.strip}*"
+        when 'blockquote'
+          child.text.strip.split("\n").each do |line|
+            lines << "> #{line.strip}"
+          end
+        when 'hr'
+          lines << ""
+          lines << "---"
+          lines << ""
+        else
+          convert_node(child, lines, list_depth: list_depth)
+        end
       end
     end
-
-    lines.join("\n").squeeze("\n").strip
   end
+
+  def self.convert_table(table_node, lines)
+    rows = table_node.css('tr')
+    return if rows.empty?
+
+    table_data = rows.map do |row|
+      row.css('th, td').map { |cell| cell.text.strip.gsub('|', '\\|') }
+    end
+    return if table_data.empty?
+
+    max_cols = table_data.map(&:length).max
+    table_data.each { |row| row.fill('', row.length...max_cols) }
+
+    lines << ""
+    lines << "| #{table_data.first.join(' | ')} |"
+    lines << "| #{(['---'] * max_cols).join(' | ')} |"
+    table_data.drop(1).each do |row|
+      lines << "| #{row.join(' | ')} |"
+    end
+    lines << ""
+  end
+
+  private_class_method :convert_node, :convert_table
 end
 
 # =============================================================================
@@ -668,7 +737,7 @@ class Scraper
         raise "Empty text returned"
       end
 
-      output_path = File.join(LAWS_DIR, "#{safe_filename(name)}.txt")
+      output_path = File.join(LAWS_DIR, "#{safe_filename(name)}.md")
       header = build_header(name, sr, desc, work_uri)
       File.write(output_path, header + "\n\n" + text)
 
@@ -740,6 +809,9 @@ class Scraper
       rescue LoadError
         Log.warn("  pdf-reader gem not available. Saving PDF URL instead.")
         return "[PDF available at: #{pdf_url}]\n[Install pdf-reader gem to extract text: gem install pdf-reader]"
+      rescue => e
+        Log.warn("  PDF parsing failed: #{e.message}")
+        return nil
       end
     end
 
@@ -749,32 +821,36 @@ class Scraper
   def compile_master_file
     Log.info("\n--- PHASE 3: Compiling master file ---")
 
-    files = Dir.glob(File.join(LAWS_DIR, '*.txt')).sort
+    files = Dir.glob(File.join(LAWS_DIR, '*.md')).sort
     Log.info("Compiling #{files.length} law files into #{MASTER_FILE}")
 
     File.open(MASTER_FILE, 'w') do |f|
-      f.puts "=" * 80
-      f.puts "SWISS FEDERAL TAX LAWS — FULL TEXT COMPILATION"
-      f.puts "Scraped from fedlex.admin.ch"
-      f.puts "Generated: #{Time.now.strftime('%Y-%m-%d %H:%M:%S')}"
-      f.puts "Laws included: #{files.length}"
-      f.puts "=" * 80
+      f.puts "# SWISS FEDERAL TAX LAWS"
+      f.puts ""
+      f.puts "Full text compilation scraped from fedlex.admin.ch"
+      f.puts ""
+      f.puts "- **Generated:** #{Time.now.strftime('%Y-%m-%d %H:%M:%S')}"
+      f.puts "- **Laws included:** #{files.length}"
+      f.puts ""
+      f.puts "---"
       f.puts ""
 
       # Table of contents
-      f.puts "TABLE OF CONTENTS"
-      f.puts "-" * 40
+      f.puts "## TABLE OF CONTENTS"
+      f.puts ""
       files.each_with_index do |file, i|
-        f.puts "#{(i + 1).to_s.rjust(3)}. #{File.basename(file, '.txt')}"
+        f.puts "#{i + 1}. #{File.basename(file, '.md')}"
       end
       f.puts ""
-      f.puts "=" * 80
+      f.puts "---"
       f.puts ""
 
       files.each do |file|
         content = File.read(file)
         f.puts content
-        f.puts "\n\n" + "=" * 80 + "\n\n"
+        f.puts ""
+        f.puts "---"
+        f.puts ""
       end
     end
 
@@ -784,13 +860,13 @@ class Scraper
 
   def build_header(name, sr, desc, work_uri)
     [
-      "=" * 80,
-      "LAW: #{name}",
-      "SR:  #{sr}",
-      "TITLE: #{desc}",
-      "SOURCE: #{work_uri}",
-      "SCRAPED: #{Time.now.strftime('%Y-%m-%d %H:%M:%S')}",
-      "=" * 80,
+      "---",
+      "law: #{name}",
+      "sr: #{sr}",
+      "title: #{desc}",
+      "source: #{work_uri}",
+      "scraped: #{Time.now.strftime('%Y-%m-%d %H:%M:%S')}",
+      "---",
     ].join("\n")
   end
 
