@@ -402,17 +402,18 @@ end
 module Fedlex
   JOLUX = 'http://data.legilux.public.lu/resource/ontology/jolux#'
 
-  # Look up the canonical work URI for a given SR number.
-  # Returns nil when no matching work is found.
-  def self.work_uri_for_sr(sr_number)
+  # Look up all candidate work URIs for a given SR number.
+  # Returns an array of distinct work URIs (newest first), or empty array.
+  def self.work_uris_for_sr(sr_number)
     query = <<~SPARQL
       PREFIX jolux: <#{JOLUX}>
 
-      SELECT ?work WHERE {
+      SELECT DISTINCT ?work WHERE {
+        ?work a jolux:ConsolidationAbstract .
         ?work jolux:historicalLegalId '#{sr_number}' .
         FILTER(STRSTARTS(STR(?work), "https://fedlex.data.admin.ch/eli/cc/"))
       }
-      LIMIT 1
+      ORDER BY DESC(?work)
     SPARQL
 
     encoded = CGI.escape(query.gsub(/\s+/, ' ').strip)
@@ -421,12 +422,11 @@ module Fedlex
     body = HTTP.get(sparql_url, accept: 'application/sparql-results+json')
     result = JSON.parse(body)
     bindings = result.dig('results', 'bindings') || []
-    return nil if bindings.empty?
 
-    bindings.first.dig('work', 'value')
+    bindings.map { |b| b.dig('work', 'value') }.uniq
   rescue => e
     Log.warn("  SPARQL work URI lookup failed for SR #{sr_number}: #{e.message}")
-    nil
+    []
   end
 
   # Returns the URL of the current German HTML manifestation for a given
@@ -500,6 +500,7 @@ module Fedlex
       PREFIX jolux: <#{JOLUX}>
 
       SELECT DISTINCT ?work ?rsNumber ?titleDe WHERE {
+        ?work a jolux:ConsolidationAbstract .
         ?work jolux:historicalLegalId ?rsNumber .
         OPTIONAL {
           ?work jolux:isRealizedBy ?expr .
@@ -516,7 +517,7 @@ module Fedlex
         )
         FILTER(STRSTARTS(STR(?work), "https://fedlex.data.admin.ch/eli/cc/"))
       }
-      ORDER BY ?rsNumber
+      ORDER BY ?rsNumber DESC(?work)
     SPARQL
 
     encoded = CGI.escape(query.gsub(/\s+/, ' ').strip)
@@ -525,13 +526,18 @@ module Fedlex
     Log.info("Running SPARQL discovery query...")
     body = HTTP.get(sparql_url, accept: 'application/sparql-results+json')
     result = JSON.parse(body)
-    (result.dig('results', 'bindings') || []).map do |b|
-      {
+    seen = {}
+    (result.dig('results', 'bindings') || []).each do |b|
+      sr = b.dig('rsNumber', 'value')
+      next if seen.key?(sr)
+
+      seen[sr] = {
         'work_uri' => b.dig('work', 'value'),
-        'sr'       => b.dig('rsNumber', 'value'),
+        'sr'       => sr,
         'title'    => b.dig('titleDe', 'value') || '(no title)'
       }
     end
+    seen.values
   rescue => e
     Log.warn("SPARQL discovery failed: #{e.message}")
     []
@@ -681,14 +687,16 @@ class Scraper
     result = try_fetch_law(name, work_uri)
     return result if result
 
-    # The hardcoded CC path may be wrong — resolve the work URI from the SR number
+    # The hardcoded CC path may be wrong — resolve work URIs from the SR number
     Log.info("  Resolving work URI from SR number #{sr}...")
-    resolved_uri = Fedlex.work_uri_for_sr(sr)
+    candidates = Fedlex.work_uris_for_sr(sr)
     sleep(REQUEST_DELAY)
 
-    if resolved_uri && resolved_uri != work_uri
-      Log.info("  Found work URI: #{resolved_uri}")
-      result = try_fetch_law(name, resolved_uri)
+    candidates.each do |uri|
+      next if uri == work_uri
+
+      Log.info("  Trying work URI: #{uri}")
+      result = try_fetch_law(name, uri)
       return result if result
     end
 

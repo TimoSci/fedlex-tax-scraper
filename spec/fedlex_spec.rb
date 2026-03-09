@@ -131,6 +131,32 @@ RSpec.describe 'Fedlex' do
       expect(results.first['title']).to eq('(no title)')
     end
 
+    it 'deduplicates results by SR number' do
+      response_body = {
+        'results' => {
+          'bindings' => [
+            {
+              'work' => { 'value' => 'https://fedlex.data.admin.ch/eli/cc/2009/615' },
+              'rsNumber' => { 'value' => '641.20' },
+              'titleDe' => { 'value' => 'Mehrwertsteuergesetz' }
+            },
+            {
+              'work' => { 'value' => 'https://fedlex.data.admin.ch/eli/cc/old/123' },
+              'rsNumber' => { 'value' => '641.20' },
+              'titleDe' => { 'value' => 'Old MWSTG' }
+            }
+          ]
+        }
+      }.to_json
+
+      stub_request(:get, /fedlex\.data\.admin\.ch\/sparqlendpoint/)
+        .to_return(status: 200, body: response_body)
+
+      results = Fedlex.discover_tax_laws
+      expect(results.length).to eq(1)
+      expect(results.first['work_uri']).to eq('https://fedlex.data.admin.ch/eli/cc/2009/615')
+    end
+
     it 'returns empty array on failure' do
       stub_request(:get, /fedlex\.data\.admin\.ch\/sparqlendpoint/)
         .to_return(status: 500, body: 'error')
@@ -141,12 +167,14 @@ RSpec.describe 'Fedlex' do
     end
   end
 
-  describe '.work_uri_for_sr' do
-    it 'returns the work URI for a given SR number' do
+  describe '.work_uris_for_sr' do
+    it 'returns all distinct work URIs for a given SR number' do
       response_body = {
         'results' => {
           'bindings' => [
-            { 'work' => { 'value' => 'https://fedlex.data.admin.ch/eli/cc/1992/468_468_468' } }
+            { 'work' => { 'value' => 'https://fedlex.data.admin.ch/eli/cc/2009/828' } },
+            { 'work' => { 'value' => 'https://fedlex.data.admin.ch/eli/cc/2009/828' } },
+            { 'work' => { 'value' => 'https://fedlex.data.admin.ch/eli/cc/1994/1464' } }
           ]
         }
       }.to_json
@@ -154,16 +182,19 @@ RSpec.describe 'Fedlex' do
       stub_request(:get, /fedlex\.data\.admin\.ch\/sparqlendpoint/)
         .to_return(status: 200, body: response_body)
 
-      result = Fedlex.work_uri_for_sr('642.118')
-      expect(result).to eq('https://fedlex.data.admin.ch/eli/cc/1992/468_468_468')
+      result = Fedlex.work_uris_for_sr('641.201')
+      expect(result).to eq([
+        'https://fedlex.data.admin.ch/eli/cc/2009/828',
+        'https://fedlex.data.admin.ch/eli/cc/1994/1464'
+      ])
     end
 
-    it 'returns nil when no work is found' do
+    it 'returns empty array when no work is found' do
       stub_request(:get, /fedlex\.data\.admin\.ch\/sparqlendpoint/)
         .to_return(status: 200, body: empty_sparql_response)
 
-      result = Fedlex.work_uri_for_sr('999.999')
-      expect(result).to be_nil
+      result = Fedlex.work_uris_for_sr('999.999')
+      expect(result).to eq([])
     end
   end
 end

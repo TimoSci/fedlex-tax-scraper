@@ -205,10 +205,11 @@ RSpec.describe 'Scraper' do
       expect(text).to be_nil
     end
 
-    it 'falls back to SR-based work URI lookup when hardcoded CC fails' do
-      work_uri_response = {
+    it 'tries all SR-resolved work URIs until one succeeds' do
+      work_uris_response = {
         'results' => { 'bindings' => [
-          { 'work' => { 'value' => 'https://fedlex.data.admin.ch/eli/cc/1992/468' } }
+          { 'work' => { 'value' => 'https://fedlex.data.admin.ch/eli/cc/2009/828' } },
+          { 'work' => { 'value' => 'https://fedlex.data.admin.ch/eli/cc/1994/old' } }
         ] }
       }.to_json
 
@@ -219,9 +220,9 @@ RSpec.describe 'Scraper' do
           case call_count
           when 1, 2 # HTML + PDF lookups with wrong work_uri → empty
             { status: 200, body: empty_sparql_response }
-          when 3 # work_uri_for_sr lookup
-            { status: 200, body: work_uri_response }
-          when 4 # HTML lookup with resolved work_uri
+          when 3 # work_uris_for_sr lookup
+            { status: 200, body: work_uris_response }
+          when 4 # HTML lookup with first resolved URI → found
             { status: 200, body: sparql_html_response('https://www.fedlex.admin.ch/resolved.html') }
           else
             { status: 200, body: empty_sparql_response }
@@ -232,7 +233,7 @@ RSpec.describe 'Scraper' do
         .to_return(status: 200, body: sample_law_html)
 
       scraper = Scraper.new
-      text = scraper.send(:fetch_law_text, 'DBV', '642.118', 'https://fedlex.data.admin.ch/eli/cc/wrong')
+      text = scraper.send(:fetch_law_text, 'MWSTV', '641.201', 'https://fedlex.data.admin.ch/eli/cc/wrong')
       expect(text).to include('Testgesetz')
     end
   end
