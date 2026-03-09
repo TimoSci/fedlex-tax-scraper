@@ -378,7 +378,7 @@ module HTTP
         wait = (response['Retry-After'] || 30).to_i
         Log.warn("  Rate limited, waiting #{wait}s...")
         sleep(wait)
-        retry if attempt <= retries
+        raise "HTTP 429: rate limited (#{url})"
       else
         raise "HTTP #{response.code}: #{url}"
       end
