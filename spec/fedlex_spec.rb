@@ -140,4 +140,30 @@ RSpec.describe 'Fedlex' do
       expect(results).to eq([])
     end
   end
+
+  describe '.work_uri_for_sr' do
+    it 'returns the work URI for a given SR number' do
+      response_body = {
+        'results' => {
+          'bindings' => [
+            { 'work' => { 'value' => 'https://fedlex.data.admin.ch/eli/cc/1992/468_468_468' } }
+          ]
+        }
+      }.to_json
+
+      stub_request(:get, /fedlex\.data\.admin\.ch\/sparqlendpoint/)
+        .to_return(status: 200, body: response_body)
+
+      result = Fedlex.work_uri_for_sr('642.118')
+      expect(result).to eq('https://fedlex.data.admin.ch/eli/cc/1992/468_468_468')
+    end
+
+    it 'returns nil when no work is found' do
+      stub_request(:get, /fedlex\.data\.admin\.ch\/sparqlendpoint/)
+        .to_return(status: 200, body: empty_sparql_response)
+
+      result = Fedlex.work_uri_for_sr('999.999')
+      expect(result).to be_nil
+    end
+  end
 end

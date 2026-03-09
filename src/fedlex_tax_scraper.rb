@@ -402,6 +402,33 @@ end
 module Fedlex
   JOLUX = 'http://data.legilux.public.lu/resource/ontology/jolux#'
 
+  # Look up the canonical work URI for a given SR number.
+  # Returns nil when no matching work is found.
+  def self.work_uri_for_sr(sr_number)
+    query = <<~SPARQL
+      PREFIX jolux: <#{JOLUX}>
+
+      SELECT ?work WHERE {
+        ?work jolux:historicalLegalId '#{sr_number}' .
+        FILTER(STRSTARTS(STR(?work), "https://fedlex.data.admin.ch/eli/cc/"))
+      }
+      LIMIT 1
+    SPARQL
+
+    encoded = CGI.escape(query.gsub(/\s+/, ' ').strip)
+    sparql_url = "#{SPARQL_ENDPOINT}?query=#{encoded}"
+
+    body = HTTP.get(sparql_url, accept: 'application/sparql-results+json')
+    result = JSON.parse(body)
+    bindings = result.dig('results', 'bindings') || []
+    return nil if bindings.empty?
+
+    bindings.first.dig('work', 'value')
+  rescue => e
+    Log.warn("  SPARQL work URI lookup failed for SR #{sr_number}: #{e.message}")
+    nil
+  end
+
   # Returns the URL of the current German HTML manifestation for a given
   # work URI (e.g. https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
   def self.current_html_url(work_uri)
@@ -651,7 +678,25 @@ class Scraper
   end
 
   def fetch_law_text(name, sr, work_uri)
-    # Try HTML first (cleanest for text extraction)
+    result = try_fetch_law(name, work_uri)
+    return result if result
+
+    # The hardcoded CC path may be wrong — resolve the work URI from the SR number
+    Log.info("  Resolving work URI from SR number #{sr}...")
+    resolved_uri = Fedlex.work_uri_for_sr(sr)
+    sleep(REQUEST_DELAY)
+
+    if resolved_uri && resolved_uri != work_uri
+      Log.info("  Found work URI: #{resolved_uri}")
+      result = try_fetch_law(name, resolved_uri)
+      return result if result
+    end
+
+    Log.warn("  No URL found for #{name}")
+    nil
+  end
+
+  def try_fetch_law(name, work_uri)
     Log.info("  Looking up HTML URL via SPARQL...")
     html_url = Fedlex.current_html_url(work_uri)
     sleep(REQUEST_DELAY)
@@ -667,14 +712,11 @@ class Scraper
       Log.warn("  No HTML URL found via SPARQL, trying PDF...")
     end
 
-    # Fallback: PDF
     pdf_url = Fedlex.current_pdf_url(work_uri)
     sleep(REQUEST_DELAY)
 
     if pdf_url
       Log.info("  Fetching PDF: #{pdf_url}")
-      # Note: PDF text extraction requires pdf-reader gem.
-      # If not available, save the raw PDF and note it.
       begin
         require 'pdf-reader'
         pdf_body = HTTP.get(pdf_url)
@@ -693,7 +735,6 @@ class Scraper
       end
     end
 
-    Log.warn("  No URL found for #{name}")
     nil
   end
 
