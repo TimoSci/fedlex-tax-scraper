@@ -25,6 +25,13 @@ Requires Ruby (tested with 4.x).
 bundle install
 ```
 
+Or run the script:
+
+```sh
+./install.sh
+```
+
+
 Or install gems manually:
 
 ```sh
@@ -37,6 +44,12 @@ gem install nokogiri pdf-reader
 
 ```sh
 ruby src/fedlex_tax_scraper.rb
+```
+
+Or:
+
+```sh
+./run.sh
 ```
 
 The scraper can be interrupted with Ctrl+C at any time. Re-run the same command to resume where it left off.
