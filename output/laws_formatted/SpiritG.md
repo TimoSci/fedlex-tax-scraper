@@ -1,0 +1,1149 @@
+---
+law: SpiritG
+sr: 680
+title: "Bundesgesetz über die Besteuerung von Spirituosen"
+source: https://fedlex.data.admin.ch/eli/cc/2016/188
+scraped: "2026-03-10 00:43:54 +0100"
+---
+
+# Bundesgesetz über die gebrannten Wasser (Alkoholgesetz, AlkG)1
+
+vom 21. Juni 1932 (Stand am 1. Juni 2024)
+
+Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
+
+gestützt auf die Artikel 105 und 131 Absatz 1 Buchstabe b der Bundesverfassung
+  
+nach Einsicht in eine Botschaft des Bundesrates vom 1. Juni 1931
+
+beschliesst:
+
+# Erster Abschnitt:  Allgemeine Bestimmungen
+
+I.  Geltungsbereich des
+  
+Gesetzes
+
+##### Art. 1
+
+Den Vorschriften dieses Gesetzes sind unterstellt die Herstellung gebrannter Wasser, ihre Reinigung, ihre Einfuhr, Ausfuhr und Durchfuhr, ihr Verkauf und ihre fiskalische Belastung. Vorbehalten bleibt die Gesetzgebung über das Zollwesen und den Verkehr mit Lebensmitteln und Gebrauchsgegenständen, soweit nicht dieses Gesetz davon abweichende Bestimmungen aufstellt.
+
+II.  Begriffs-
+  
+umschreibung
+
+##### Art. 2
+
+ Als «gebrannte Wasser» im Sinne dieses Gesetzes gilt der Ethylalkohol in jeder Form und ohne Rücksicht auf die Art seiner Herstellung.
+
+ Die ausschliesslich durch Vergärung gewonnenen alkoholischen Erzeugnisse sind, unter Vorbehalt der Vorschrift in Absatz 3, den Bestimmungen dieses Gesetzes nicht unterworfen, sofern ihr Alkoholgehalt 15 Volumenprozente, bei Naturweinen aus frischen Weintrauben 18 Volumenprozente nicht übersteigt.
+
+ Auf Erzeugnisse, die neben andern Stoffen gebrannte Wasser enthalten, werden die Bestimmungen dieses Gesetzes entsprechend angewendet.
+
+ Jede andere Alkoholart, die zu Trinkzwecken dienen kann und den Ethylalkohol zu ersetzen vermag, wird durch Verordnung des Bundesrates diesem Gesetz unterstellt.
+
+# Zweiter Abschnitt:  Herstellung gebrannter Wasser im Inland
+
+I.  Hoheitsrecht des Bundes
+
+##### Art. 3
+
+ Das Recht zur Herstellung und zur Reinigung gebrannter Wasser steht ausschliesslich dem Bunde zu.
+
+ Die Ausübung dieses Rechtes wird in der Regel genossenschaftlichen und anderen privatwirtschaftlichen Unternehmungen durch Brennereikonzessionen übertragen.
+
+ Die nicht gewerbsmässige Herstellung gebrannter Wasser zu Trinkzwecken
+aus Obst und Obstabfällen, Obstwein, Most, Trauben, Wein, Traubentrestern, Weinhefe, Enzianwurzeln, Beerenfrüchten und ähnlichen Stoffen ist gestattet, wenn diese Stoffe ausschliesslich inländisches Eigengewächs oder selbst gesammeltes inländisches Wildgewächs sind; sie darf jedoch ausschliesslich in hierzu konzessionierten Hausbrennereien oder im Brennauftrag erfolgen.
+
+ Als Eigengewächs gelten nur die Rohstoffe aus dem Boden, den der Hausbrenner oder der Erteiler des Brennauftrages an die Lohnbrennerei selbst bewirtschaftet.
+
+ Der Bundesrat wird durch Verordnung näher bestimmen, was unter der nicht gewerbsmässigen Herstellung zu verstehen ist, und die Rohstoffe bezeichnen, die durch die Hausbrenner gebrannt werden dürfen.
+
+II.  Gewerbebrennereien
+1.  Arten der Konzessionen
+
+##### Art. 4
+
+ Der Bund erteilt Brennereikonzessionen zur Herstellung und Reinigung gebrannter Wasser, welche das Bundesamt für Zoll und
+  
+Grenzsicherheit (BAZG) übernehmen kann (Konzessionen mit Übernahmerecht), und Brennereikonzessionen zur Herstellung von Spezialitätenbrand und zur Herstellung gebrannter Wasser auf fremde Rechnung, welche das BAZG nicht übernimmt (Konzessionen ohne Übernahmerecht).
+
+ Die Konzessionen mit Übernahmerecht werden erteilt:
+
+a.
+für Hackfruchtbrennereien, d.h. feststehende Brennereien, die inländische Kartoffeln oder Rückstände der Rübenzuckerfabrikation aus inländischen Rohstoffen verarbeiten;
+b.
+für Kernobstbrennereien, d.h. feststehende oder fahrbare Brennereien, die für eigene Rechnung brennen und folgende einheimische Rohstoffe verwenden: Äpfel, Birnen, die daraus gewonnenen Obstweine und Obsttrester sowie andere Abfälle dieser Rohstoffe;
+c.
+für Industriebrennereien, d.h. Betriebe, die Rückstände der Presshefe- und Zuckerfabrikation oder andere Rohstoffe in- oder ausländischer Herkunft verarbeiten;
+d.
+für Rektifikationsanstalten, d.h. Betriebe, die das Hochgrädigbrennen gebrannter Wasser
+, die Reinigung gebrannter Wasser oder die Herstellung von absolutem Alkohol besorgen;
+e.
+für Alkoholfabriken, d.h. Betriebe, die auf chemischem Wege Alkohol gewinnen.
+
+ Die Konzessionen ohne Übernahmerecht werden erteilt:
+
+a.
+für Spezialitätenbrennereien, d. h. feststehende oder fahrbare Brennereien, die Steinobst, Kernobst, ausser Äpfel und Birnen und deren Erzeugnisse und Abfälle, oder Wein und dessen Rückstände und Abfälle, Enzianwurzeln, Beerenfrüchte und ähnliche Rohstoffe brennen;
+b.
+für Lohnbrennereien, d. h. feststehende oder fahrbare Brennereien, die für Dritte gegen Lohn die in Artikel 3 Absatz 3 genannten Rohstoffe brennen.
+
+ Unter den vom Bundesrat aufzustellenden Bedingungen können für den gleichen Brennereibetrieb verschiedene Konzessionen nebeneinander erteilt werden.
+
+2.  Konzessionserteilung
+a.  Voraussetzungen
+
+##### Art. 5
+
+ Brennereikonzessionen sollen erteilt werden, soweit dies den wirtschaftlichen Bedürfnissen des Landes entspricht.
+
+ Die Konzessionen sollen die rechtzeitige Verwertung der Abfälle und Rückstände des Obst-, Wein- und Zuckerrübenbaues und der Überschüsse des Obst- und Kartoffelbaues ermöglichen, soweit diese Rohstoffe nicht anders zweckmässig verwendet werden können.
+
+ Bei der Erteilung der Konzessionen zum Brennen einheimischer Rohstoffe sind Landesgegenden, wo sich in der Regel Überschüsse über den Ernährungs- und Fütterungsbedarf hinaus ergeben, vorzugsweise zu berücksichtigen.
+
+ Die Konzessionen werden auf höchstens zehn Jahre erteilt. Sie sollen nur erteilt werden, wenn der Konzessionsbewerber sowie die baulichen und technischen Einrichtungen seiner Brennerei die ordnungsgemässe Führung des Betriebes gewährleisten. Der Bundesrat stellt hierüber die erforderlichen Bestimmungen auf. Er kann auch den gleichzeitigen Betrieb einer Brennerei mit andern Gewerben als unvereinbar erklären, sofern durch die Verbindung die Aufsicht über den Brennereibetrieb oder den Handel mit gebrannten Wassern erschwert wird.
+
+ Die Übertragung von Konzessionen auf einen neuen Inhaber oder eine andere Brennerei ist nur mit Bewilligung des BAZG
+zulässig. Diese Bewilligung muss erteilt werden, wenn es sich um erbweisen Übergang des Brennereibetriebes handelt und der Erbe die Voraussetzungen für die Erteilung einer Konzession erfüllt.
+
+b.  Verfahren
+
+##### Art. 6
+
+ Die Konzessionen werden auf Gesuch hin durch das BAZG erteilt und erneuert. Sie sind gebührenfrei.
+
+ Über die Erteilung und Erneuerung der Konzession wird eine Urkunde ausgestellt.
+
+ Werden Konzessionsbedingungen nicht eingehalten oder fällt eine Voraussetzung der Konzessionserteilung weg, so kann das BAZG die Konzession nach Anhörung des Inhabers vor Ablauf der Konzessionsdauer entziehen.
+
+ …
+
+3.  Kontrolle
+
+##### Art. 7
+
+ Die konzessionspflichtigen Brennereien stehen unter der Kontrolle des BAZG. Dieses kann die Kantons- und die Gemeindebehörden zur Mitwirkung heranziehen.
+
+ Der Konzessionsinhaber hat über die Herkunft der Rohstoffe, die Art, Menge und Verwendung der daraus hergestellten gebrannten Wasser Buch zu führen. Er ist ferner verpflichtet, den mit der Durchführung dieses Gesetzes betrauten Organen jederzeit Zutritt zu seinen Geschäftsräumlichkeiten sowie Einsicht in seine Buchführung zu gewähren und ihnen jede erforderliche Auskunft zu erteilen.
+
+ Brennapparate und Brennanlagen dürfen nur mit Bewilligung des BAZG erworben, aufgestellt, an einen neuen Standort verbracht, ersetzt oder umgeändert werden.
+
+ Der Bundesrat ist befugt, der Kontrolle des BAZG auch die Einrichtungen zu unterstellen, die zur Herstellung gebrannter Wasser dienen können und für welche eine Konzession nicht besteht. Auf solche Einrichtungen kann Absatz 3 anwendbar erklärt werden.
+
+##### Art. 818
+
+4.  Konzessionen mit Übernahmerecht
+a.  Brennrechte
+
+##### Art. 9
+
+ Das Brennrecht der Hackfruchtbrennereien, die Rückstände der Rübenzuckerfabrikation verarbeiten, wird in der Konzessionsurkunde festgesetzt.
+
+ Für die Kernobstbrennereien wird in der Regel kein Kontingent festgesetzt. Der Bundesrat ist aber befugt, alle Massnahmen zu treffen, um das Brennen einzuschränken, soweit dadurch eine zweckmässige und rechtzeitige Verwertung des Obstes nicht beeinträchtigt wird.
+
+ Für Industriebrennereien, Rektifikationsanstalten und Alkoholfabriken wird das Kontingent von Fall zu Fall in der Konzessionsurkunde festgesetzt.
+
+b.  Übernahmerecht
+aa. Grundsätze
+
+##### Art. 1020
+
+ Das BAZG legt jedes Jahr die Menge der gebrannten Wasser fest, die es zur Deckung seines Bedarfs übernimmt.
+
+ Es kann zur Entlastung des Marktes zusätzliche Mengen gebrannter Wasser übernehmen.
+
+ Es gibt die zu übernehmende Menge mit Angabe des Übernahmepreises vor Beginn der Ernte den Brennereien, die eine Konzession mit Übernahmerecht besitzen, bekannt. Aufgrund dieser Bekanntgabe können diese Brennereien Angebote einreichen. Überschreiten die Angebote die Übernahmemenge, so wird die Zuteilung anteilsmässig gekürzt.
+
+ Der Bundesrat regelt die Anforderungen an die gebrannten Wasser, die vom BAZG übernommen werden, und das Übernahmeverfahren.
+
+ Die aus Kernobstrohstoffen hergestellten gebrannten Wasser unterliegen der Besteuerung nach den Artikeln 20–23.
+
+bb. Übernahmepreise
+
+##### Art. 11
+
+ Die Übernahmepreise werden durch den Bundesrat festgesetzt.
+
+ Die Preise für die vom BAZG zur Deckung ihres Bedarfs übernommenen gebrannten Wasser werden unter Berücksichtigung der Überschuss- und Abfallverwertung sowie der Gestehungskosten bei rationeller Herstellung festgesetzt. Für das Brennen im Hafen und in der Kolonne können unterschiedliche Preise festgesetzt werden.
+
+ Die Preise für gebrannte Wasser, welche das BAZG zur Marktentlastung übernimmt, werden nach der Menge gestaffelt festgesetzt. Sie müssen tiefer sein als die nach Absatz 2 festgesetzten Preise.
+
+4–5
+ …
+
+ Der den Industriebrennereien und Alkoholfabriken zu bezahlende Übernahmepreis soll in der Regel den mittleren Einstandskosten des vom BAZG eingeführten Auslandethanols gleicher Qualität entsprechen. Dabei können die nachgewiesenen Herstellungskosten einschliesslich Verzinsung und Abschreibung des Anlagekapitals angemessen berücksichtigt werden.
+
+ Den Rektifikationsanstalten soll eine Vergütung entrichtet werden, die die Reinigungskosten deckt.
+
+ Qualitätsunterschiede können bei der Festsetzung des Übernahmepreises angemessen berücksichtigt werden.
+
+5.  Konzessionen ohne Übernahmerecht
+a.  Spezialitätenbrennerei
+
+##### Art. 12
+
+ Das Brennrecht der Spezialitätenbrennereien ist weder nach der Menge der Erzeugnisse, noch nach der Herkunft der Rohstoffe beschränkt.
+
+ Das BAZG übernimmt keine Erzeugnisse der Spezialitätenbrennereien.
+
+ Die aus inländischen Rohstoffen hergestellten Erzeugnisse der Spezialitätenbrennereien unterliegen der Besteuerung gemäss den Artikeln 20–23.
+
+…
+
+ …
+
+b.  Lohnbrennerei
+
+##### Art. 13
+
+ Konzessionen zum Betrieb einer Lohnbrennerei werden für fahrbare Brennereien, und nur soweit diese nicht ausreichen oder wo örtliche oder bereits bestehende sonstige Verhältnisse es rechtfertigen, auch für feststehende Brennereien erteilt.
+
+ Lohnbrennereien dürfen, soweit sie nicht eine weitere Konzession gemäss Artikel 4 besitzen, nicht auf eigene Rechnung, sondern nur kraft Brennauftrages brennen. Sie dürfen für ihre Auftraggeber nur die in Artikel 14 genannten Rohstoffe brennen.
+
+ Das Brennerzeugnis ist dem Auftraggeber auszuhändigen.
+
+ …
+
+III.  Hausbrennerei
+1.  Rechtliche Stellung
+
+##### Art. 14
+
+ Die nicht gewerbsmässige Herstellung von gebrannten Wassern zu Trinkzwecken aus Obst und Obstabfällen, Obstwein, Most, Trauben, Wein, Traubentrestern, Weinhefe, Enzianwurzeln, Beerenfrüchten und ähnlichen Stoffen, wenn diese Stoffe ausschliesslich inländisches Eigengewächs oder selbst gesammeltes, inländisches Wildgewächs sind, darf nur in konzessionierten Hausbrennereien stattfinden.
+
+ Das BAZG kann Hausbrennern, die durch Hagel oder andere Naturschäden einen erheblichen Ausfall an Eigengewächs erlitten haben, auf die Dauer eines Brennjahres eine Konzession zum Brennen eigener und zugekaufter Rohstoffe erteilen, ohne dass deshalb das Recht auf den steuerfreien Eigenbedarf gemäss Artikel 16 verloren geht.
+
+ …
+
+ …
+
+ Die Brennereianlage kann in der Regel nur zusammen mit der Liegenschaft ihres Standortes (Brennereiliegenschaft) auf Dritte übertragen werden. Wird die Brennereiliegenschaft zerstückelt, so darf die Hausbrennerei nur auf dem Teil weiterbetrieben werden, auf welchem sie bisher bestand.
+
+ Die Brennapparate oder ‑anlagen dürfen nur mit Bewilligung des BAZG ersetzt, anders als in Verbindung mit der Liegenschaft übertragen oder so umgeändert werden, dass sich eine Erhöhung der Leistungsfähigkeit ergibt. In der Bewilligung kann vorgeschrieben werden, auf welche Weise der Ersatz oder die Umänderung vorzunehmen ist.
+
+ …
+
+2.  Aufsicht
+
+##### Art. 1536
+
+ Die Hausbrennerei steht unter der Aufsicht des BAZG. Diese kann die Kantons- und die Gemeindebehörden zur Mitwirkung heranziehen.
+
+ Vor jeder Änderung der Brennereianlage hat der Inhaber gegenüber dem BAZG die vorgeschriebenen Angaben zu machen.
+
+3.  Verwendung des Branntweins
+a.  Eigenbedarf
+
+##### Art. 16
+
+Der Hausbrenner kann lediglich die in seinem Haushalt und Landwirtschaftsbetrieb erforderlichen gebrannten Wasser aus Eigengewächs oder aus selbst gesammeltem inländischem Wildgewächs als Eigenbedarf steuerfrei zurückbehalten. Der Bundesrat wird Vorschriften aufstellen, um die Umgehung dieser Bestimmung und die missbräuchliche Verwendung des zurückbehaltenen Eigenbedarfs zu verhindern.
+
+b.  Übernahmerecht für Kernobstbrand
+
+##### Art. 1737
+
+ Das BAZG kann den im Haushalt und Landwirtschaftsbetrieb des Hausbrenners nicht erforderlichen Kernobstbrand übernehmen. Dabei gelten die Artikel 10 und 11 sinngemäss.
+
+ Wird solcher Kernobstbrand entgeltlich oder unentgeltlich an Drittpersonen abgegeben, so unterliegt er der Besteuerung nach den Artikeln 20–23.
+
+c.  Spezialitätenbrand
+
+##### Art. 1838
+
+ Das BAZG übernimmt keinen in Hausbrennereien hergestellten Spezialitätenbrand.
+
+ Wird solcher Spezialitätenbrand entgeltlich oder unentgeltlich an Drittpersonen abgegeben, so unterliegt er der Besteuerung nach den Artikeln 20–23.
+
+IV.  Brennaufträge
+
+##### Art. 1939
+
+ Wer Kernobstbrand
+oder Spezialitätenbrand herstellen lassen will, kann einer Lohnbrennerei einen Brennauftrag erteilen.
+
+ Produzenten, die ausschliesslich inländisches Eigengewächs oder selbst gesammeltes inländisches Wildgewächs brennen lassen, werden als den Hausbrennern gleichgestellte Brennauftraggeber mit Anspruch auf steuerfreien Eigenbedarf (Hausbrennauftraggeber) anerkannt, sofern sie den Anforderungen entsprechen, die der Bundesrat auf Grund von Artikel 3 Absatz 5 an die nicht gewerbsmässige Herstellung gebrannter Wasser stellt. Der Bundesrat ist jedoch befugt, die Zulassung von Hausbrennauftraggebern einzuschränken, soweit sich dies zur Vermeidung von Missbräuchen als notwendig erweist.
+
+ Wo besondere Verhältnisse die Benützung einer Lohnbrennerei nicht gestatten, kann das BAZG den Inhaber einer bestimmten Hausbrennerei zur Übernahme von Brennaufträgen oder zur mietweisen Überlassung seiner Brennerei an einen Hausbrennauftraggeber ermächtigen.
+
+ Die Bestimmungen für die Hausbrennerei über die Aufsicht sowie über die Verwendung und Besteuerung des Brennerzeugnisses gelten auch für die Hausbrennauftraggeber.
+
+ Brennauftraggeber, welche nicht unter Absatz 2 fallen, unterstehen hinsichtlich der Zulassung zum Brennen, der Kontrolle sowie der Verwendung und Besteuerung des Brennerzeugnisses den Bestimmungen für die Gewerbebrenner. Brennauftraggebern mit kleiner Erzeugung können Erleichterungen in der Kontrolle eingeräumt werden.
+
+ Das BAZG kann die Erteilung von Brennaufträgen gemäss Absatz 5 untersagen, wenn der Auftraggeber wegen schwerer Widerhandlung gegen die Alkoholgesetzgebung oder wegen Widerhandlung im Rückfall bestraft worden ist oder wenn Trunksucht vorliegt. Ferner kann der Bundesrat die Erteilung von Brennaufträgen als mit bestimmten Gewerben unvereinbar erklären, wenn die Kontrolle über die Brennereirohstoffe und über die Erzeugung oder Verwendung der gebrannten Wasser erschwert wird.
+
+V.  Besteuerung des Spezialitätenbrandes
+1.  Steuerpflicht
+
+##### Art. 20
+
+ Die Steuer auf Spezialitätenbrand ist zu entrichten für gebrannte Wasser aus Steinobst, Kernobst, ausser Äpfel und Birnen und deren Erzeugnisse und Abfälle, aus Trauben, Wein, Traubentrestern, Weinhefe, Enzianwurzeln, Beerenfrüchten und ähnlichen Stoffen. Werden diese gebrannten Wasser in konzessionierten Spezialitätenbrennereien hergestellt, so unterliegen sie in vollem Umfang der Besteuerung; werden sie in der Hausbrennerei oder kraft Brennauftrags hergestellt, so unterliegen der Besteuerung nur die Mengen, die entgeltlich oder unentgeltlich an Dritte abgegeben werden.
+
+ Die Steuer ist zu entrichten:
+
+a.
+vom Inhaber der konzessionierten Spezialitätenbrennerei (Art. 12);
+b.
+vom Hausbrenner (Art. 18 Abs. 2) oder vom Brennauftraggeber (Art. 19).
+
+ …
+
+2.  Veranlagung
+
+##### Art. 21
+
+ Für die durch konzessionierte Spezialitätenbrennereien hergestellten gebrannten Wasser geschieht die Veranlagung der Steuer nach der Menge des erzeugten Branntweins.
+
+ Für kleinere Betriebe kann die Veranlagung nach der zu verarbeitenden Rohstoffmenge und der zu erwartenden durchschnittlichen Ausbeute oder pauschal erfolgen.
+
+ Für die in Hausbrennereien oder kraft Brennauftrages hergestellten gebrannten Wasser wird die Steuer nach der an Drittpersonen abgegebenen Menge veranlagt. Diese Veranlagung kann auch pauschal erfolgen.
+
+3.  Steuersatz
+
+##### Art. 2243
+
+ Der Bundesrat legt den Steuersatz nach Anhörung der Beteiligten fest. Er berücksichtigt dabei insbesondere die in den Nachbarländern geltenden Steuersätze.
+
+ Er begünstigt Kleinproduzenten für eine bestimmte Produktionsmenge, unter Vorbehalt, dass die gebrannten Rohstoffe im Sinne von Artikel 14 Absatz 1 ausschliesslich inländisches Eigengewächs oder selbst gesammeltes inländisches Wildgewächs sind.
+
+ Die Steuer wird je Hektoliter reinen Alkohols bei einer Temperatur von 20° C festgesetzt.
+
+4.  Verfahren. Fälligkeit
+
+##### Art. 23
+
+ Das BAZG kann die Form für die Anmeldung der hergestellten oder der aus Steuerlagern ausgelagerten Alkoholmenge vorschreiben sowie namentlich den Einsatz der elektronischen Datenverarbeitung (EDV) anordnen und diesen von einer Prüfung des EDV‑Systems abhängig machen.
+
+1bis
+ Der Bundesrat regelt das Veranlagungsverfahren.
+
+ Jeder Steuerpflichtige ist gehalten, die Aufzeichnungen zu machen, die Formulare auszufüllen und die Anzeigen zu erstatten, die zur Veranlagung erforderlich sind.
+
+ Die zuständigen Organe dürfen jederzeit und ohne Voranmeldung Kontrollen durchführen. Der Inhaber einer Brennerei muss den zuständigen Organen den Zutritt zu den Geschäfts- und Lagerräumen gestatten, ihnen jede erforderliche Auskunft erteilen, die Vorräte vorzeigen und Einsicht in die Geschäftsbücher und Belege gewähren.
+
+ Der Zeitpunkt der Fälligkeit der Steuer wird durch das BAZG festgesetzt.
+
+V
+*a.*
+Besteuerung von alkoholhaltigen
+  
+Erzeugnissen
+  
+zu Trink- und
+  
+Genusszwecken
+
+##### Art. 23bis 47
+
+ Der Besteuerung für Spezialitätenbrand unterliegen:
+
+a.
+Erzeugnisse mit Zusatz von gebrannten Wassern;
+b.
+Naturweine aus frischen Weintrauben mit einem Alkoholgehalt von mehr als 18 Volumenprozenten und Weine aus Früchten, Beeren oder anderen Rohstoffen mit einem Alkoholgehalt von mehr als 15 Volumenprozenten sowie Weinspezialitäten, Süssweine und Mistellen;
+c.
+Wermutwein und andere Weine aus frischen Weintrauben, mit Pflanzen oder anderen Stoffen aromatisiert.
+
+ Die Steuer wird um 50 Prozent ermässigt für:
+
+a.
+Naturweine aus frischen Weintrauben mit einem Alkoholgehalt von mehr als 18, aber höchstens 22 Volumenprozenten und Weine aus Früchten, Beeren oder anderen Rohstoffen mit einem Alkoholgehalt von mehr als 15, aber höchstens 22 Volumenprozenten;
+b.
+Weinspezialitäten, Süssweine und Mistellen, mit einem Alkoholgehalt von höchstens 22 Volumenprozenten;
+c.
+Wermutwein und andere Weine aus frischen Weintrauben, mit Pflanzen oder anderen Stoffen aromatisiert, mit einem Alkoholgehalt von höchstens 22 Volumenprozenten.
+
+2bis
+ Die Steuer wird um 300 Prozent erhöht für süsse gebrannte Wasser mit einem Alkoholgehalt von weniger als 15 Volumenprozenten, die mindestens 50 Gramm Zucker pro Liter, ausgedrückt als Invertzucker, oder eine entsprechende Süssung enthalten und konsumfertig gemischt in Flaschen oder anderen Behältnissen in den Handel gelangen.
+
+ Der Bundesrat regelt die Steuerpflicht sowie die Rückerstattung oder Anrechnung der fiskalischen Belastung, die aufgrund dieses Gesetzes auf den Ausgangsstoffen erhoben worden ist.
+
+VI.  …
+
+##### Art. 2451
+
+VII.  Brennapparate ohne Konzession
+
+##### Art. 2552
+
+Das BAZG kann anordnen, dass Brennereieinrichtungen, die nicht mehr konzessionsberechtigt sind, technisch so geändert werden, dass eine missbräuchliche Verwendung ausgeschlossen ist.
+
+##### Art. 2653
+
+# Dritter Abschnitt:  Einfuhr, Ausfuhr und Durchfuhr gebrannter Wasser
+
+I.  …
+
+##### Art. 2754
+
+II.  Einfuhr
+1.  Gegenstand
+a.  Gebrannte Wasser
+
+##### Art. 2855
+
+Auf gebrannten Wassern ist bei der Einfuhr eine Steuer zu entrichten; sie entspricht der Steuer auf Spezialitätenbrand.
+
+b.  Alkoholhaltige Erzeugnisse
+
+##### Art. 2956
+
+Alkoholhaltige Esswaren werden nach dem Ansatz des darin enthaltenen alkoholischen Erzeugnisses besteuert. Im Übrigen richten sich die Steuern auf der Einfuhr von alkoholhaltigen Erzeugnissen zu Trink- und Genusszwecken nach Artikel 23
+bis
+
+c.  …
+
+##### Art. 3057
+
+d.  Nicht Trink- und Genusszwecken dienende Erzeugnisse
+
+##### Art. 3158
+
+ Für gebrannte Wasser und alkoholhaltige Erzeugnisse, die nicht Trink- und Genusszwecken dienen können, ist keine Steuer zu entrichten.
+
+ Der Bundesrat legt fest:
+
+a.
+in welchen Fällen eine Denaturierung vorgenommen werden muss;
+b.
+wer zur Denaturierung berechtigt ist.
+
+ Das BAZG regelt die Denaturierung.
+
+2.  Verwendungsbewilligung
+
+##### Art. 3259
+
+ Wer unversteuertes, nicht denaturiertes Ethanol zur Herstellung von nicht zu Trink- und Genusszwecken geeigneten Erzeugnissen verwenden oder in gewerblichen Prozessen, die nicht Trink- und Genusszwecken dienen, einsetzen will, bedarf einer Verwendungsbewilligung des BAZG.
+
+ Der Bundesrat legt die Voraussetzungen fest, unter denen die Verwendungsbewilligung erteilt wird. Das BAZG macht in der Bewilligung Auflagen betreffend die entsprechenden Erzeugnisse oder Prozesse nach Absatz 1.
+
+ Der Inhaber der Bewilligung darf unversteuertes, nicht denaturiertes Ethanol:
+
+a.
+an Betriebe abgeben, die über eine Steuerlager- oder eine Verwendungsbewilligung verfügen; und
+b.
+ohne die Leistung einer Sicherheit bis zu einer Menge von jährlich 2000 Litern reinen Alkohols mit einer Steueranmeldung steuerpflichtig verwenden oder zur steuerpflichtigen Verwendung abgeben.
+
+##### Art. 3360
+
+3.  Steuererhebung; Steuerlager
+
+##### Art. 3461
+
+ Für die Veranlagung, den Bezug und die Sicherstellung der an der Grenze zu erhebenden Steuer finden die Vorschriften der Zollgesetzgebung Anwendung.
+
+ Der Bundesrat kann vorsehen, dass Betriebe, welche die erforderlichen Sicherheiten bieten, gebrannte Wasser in einem Steuerlager unter Steueraussetzung herstellen, befördern, bewirtschaften und lagern dürfen.
+
+ Er regelt die Voraussetzungen, unter denen ein Steuerlager bewilligt werden kann und zu betreiben ist.
+
+III.  …
+4.  Kontrolle
+
+##### Art. 3562
+
+ Das BAZG überwacht die Verwendung gebrannter Wasser.
+
+ Die zuständigen Organe dürfen jederzeit und ohne Voranmeldung Kontrollen durchführen. Der Inhaber einer Verwendungsbewilligung muss den zuständigen Organen den Zutritt zu den Geschäfts- und Lagerräumen gestatten, ihnen jede erforderliche Auskunft erteilen, die Vorräte vorzeigen und Einsicht in die Geschäftsbücher und Belege gewähren.
+
+IV.  Ausfuhr und Durchfuhr
+
+##### Art. 36
+
+ Bei der Ausfuhr von Erzeugnissen, zu deren Herstellung fiskalisch belastete gebrannte Wasser verwendet worden sind, wird für die verwendete Menge von solchen eine Rückvergütung geleistet. Als Ausfuhr gilt auch das Verbringen in einen inländischen Zollfreiladen nach Artikel 17 Absatz 1
+bis
+des Zollgesetzes vom 18. März 2005
+
+ Der Rückvergütungssatz wird nach der in diesem Gesetz vorgesehenen fiskalischen Belastung der zur Ausfuhr gelangenden Erzeugnisse bestimmt. Kann der Betrag der fiskalischen Belastung nicht einwandfrei nachgewiesen werden, so gelangt für die Rückvergütung der niedrigste Satz zur Anwendung.
+
+ Die Rückvergütung findet auf Ende des Rechnungsjahres statt. Das BAZG kann auf den rückzuvergütenden Beträgen während des Rechnungsjahres Abschlagszahlungen gewähren.
+
+ Für Ausfuhrmengen von weniger als 5 kg Bruttogewicht wird eine Rückvergütung nicht geleistet.
+
+ Die Durchfuhr von Alkohol und alkoholhaltigen Erzeugnissen unterliegt keiner fiskalischen Belastung im Sinne dieses Gesetzes. Für die Sicherstellung der in diesem Gesetz vorgesehenen Abgaben gelten die Bestimmungen der Zollgesetzgebung.
+
+# Vierter Abschnitt:  …
+
+##### Art. 3766
+
+##### Art. 3867
+
+# Fünfter Abschnitt:  Handel mit gebrannten Wasser zu Trinkzwecken68
+
+I.  Begriffe
+
+##### Art. 3969
+
+ Handel mit gebrannten Wassern zu Trinkzwecken betreibt, wer solche verkauft, vermittelt oder auf andere Weise gegen Entgelt abgibt.
+
+ Als Handel gilt auch die unentgeltliche Abgabe gebrannter Wasser zu Werbezwecken. Ausgenommen sind die Geschenke, die an einen bestimmten Personenkreis abgegeben werden.
+
+ Als Grosshandel gilt die Abgabe an Wiederverkäufer und an Unternehmen, die gebrannte Wasser in ihrem Betrieb verarbeiten.
+
+ Jeder andere Handel, einschliesslich des Ausschankes, gilt als Kleinhandel.
+
+II.  …
+
+##### Art. 39a70
+
+III.  …
+
+##### Art. 4071
+
+ …
+
+ …
+
+ …
+
+3bis
+ …
+
+ und
+…
+
+##### Art. 40a77
+
+IV.  Kleinhandel
+1.  Handelsverbote
+
+##### Art. 4178
+
+ Verboten ist der Kleinhandel mit gebrannten Wasser
+
+a.
+im Umherziehen;
+b.
+auf allgemein zugänglichen Strassen und Plätzen, soweit nicht das kantonale Patent den Umschwung von Betrieben des Gastgewerbes davon ausnimmt;
+c.
+durch Hausieren;
+d.
+durch Sammelbestellungen;
+e.
+durch unaufgefordertes Aufsuchen von Konsumenten zur Bestellungsaufnahme;
+f.
+durch allgemein zugängliche Automaten;
+g.
+zu Preisen, die keine Kostendeckung gewährleisten, ausgenommen behördlich angeordnete Verwertungen;
+h.
+unter Gewährung von Zugaben und anderen Vergünstigungen, die den Konsumenten anlocken sollen;
+i.
+durch Abgabe an Kinder und Jugendliche unter 18 Jahren;
+k.
+durch unentgeltliche Abgabe zu Werbezwecken an einen unbestimmten Personenkreis, namentlich durch Verteilen von Warenmustern oder Durchführung von Degustationen.
+
+ Die zuständige Behörde kann jedoch Ausnahmen bewilligen für
+
+a.
+den Ausschank auf allgemein zugänglichen Strassen und Plätzen bei öffentlichen Veranstaltungen;
+b.
+den Verkauf zu nicht kostendeckenden Preisen bei der Aufgabe der Geschäftstätigkeit oder aus anderen wichtigen Gründen;
+c.
+die unentgeltliche Abgabe zu Werbezwecken an einen unbestimmten Personenkreis auf Messen und Ausstellungen, an denen der Lebensmittelhandel beteiligt ist.
+
+2.  Kleinhandel innerhalb des Kantons
+
+##### Art. 41a79
+
+ Für den Kleinhandel innerhalb des Kantons bedarf es einer Bewilligung der kantonalen Behörde.
+
+ Wer mehrere Abgabestellen führt, braucht für jede eine Kleinhandelsbewilligung.
+
+ Zum Kleinhandel mit gebrannten Wassern können zugelassen werden Produzenten gebrannter Wasser
+, Betriebe des Gastgewerbes, einschliesslich der Verpflegungsdienste in Flugzeugen, Zügen und auf Schiffen, Betriebe des Wein- und Spirituosenhandels, Zollfreiläden, Apotheken und Drogerien sowie Geschäfte mit einem breiten Sortiment an Lebensmitteln, das auch alkoholfreie Getränke umfasst.
+
+ …
+
+ Die Befugnis der Kantone, den Kleinhandel weiteren durch das öffentliche Wohl geforderten Beschränkungen zu unterwerfen, bleibt vorbehalten.
+
+ Die Kantone erheben für die Kleinhandelsbewilligung eine Abgabe, deren Höhe sich nach Art und Bedeutung des Geschäftsbetriebes bemisst.
+
+##### Art. 4282
+
+V.  Kontrollvorschriften
+
+##### Art. 42a83
+
+Wer Handel mit gebrannten Wassern betreibt, muss den zuständigen Kontrollorganen den Zutritt zu den Geschäfts- und Lagerräumen gestatten, ihnen jegliche erforderliche Auskunft erteilen, die Vorräte vorzeigen und Einsicht in die Geschäftsbücher und Belege gewähren.
+
+VI.  Beschränkung der
+  
+Werbung
+
+##### Art. 42b84
+
+ Die Werbung für gebrannte Wasser darf in Wort, Bild und Ton nur Angaben und Darstellungen enthalten, die sich unmittelbar auf das Produkt und seine Eigenschaften beziehen.
+
+ Preisvergleichende Angaben oder das Versprechen von Zugaben oder anderen Vergünstigungen sind verboten.
+
+ Verboten ist die Werbung für gebrannte Wasser
+
+a.
+in Radio und Fernsehen;
+b.
+in und an öffentlichen Zwecken dienenden Gebäuden oder Gebäudeteilen und auf ihren Arealen;
+c.
+in und an öffentlichen Verkehrsmitteln;
+d.
+auf Sportplätzen sowie an Sportveranstaltungen;
+e.
+an Veranstaltungen, an denen vorwiegend Kinder und Jugendliche teilnehmen oder die vorwiegend für diese bestimmt sind;
+f.
+in Betrieben, die Heilmittel verkaufen oder deren Geschäftstätigkeit vorwiegend auf die Gesundheitspflege ausgerichtet ist;
+g.
+auf Packungen und Gebrauchsgegenständen, die keine gebrannten Wasser enthalten oder damit nicht im Zusammenhang stehen.
+
+ Es dürfen keine Wettbewerbe durchgeführt werden, bei denen gebrannte Wasser als Werbeobjekt oder Preis dienen oder ihr Erwerb Teilnahmebedingung ist.
+
+VII.  Koordination
+
+##### Art. 4386
+
+Das BAZG fördert die Koordination unter den Kantonen in der Regelung des Kleinhandels.
+
+# Abschnitt Va:  Weitere Massnahmen zur Verminderung des Verbrauchs gebrannter Wasser zu Trinkzwecken87
+
+##### Art. 43a88
+
+ Zur Verminderung des Verbrauchs gebrannter Wasser zu Trinkzwecken unterstützt der Bund durch Beiträge gesamtschweizerische und interkantonale Organisationen und Institutionen, die sich der Bekämpfung des Alkoholismus durch vorsorgliche Massnahmen widmen. Solche Beiträge können insbesondere für Aufklärung und Forschung gewährt werden.
+
+ Die Beiträge sind vom BAZG auszurichten, in dessen Voranschlag ein angemessener Gesamtbetrag aufgenommen wird. Das BAZG kann die Verteilung der Beiträge ganz oder teilweise einer geeigneten Stelle übertragen.
+
+ Die Ausrichtung von Beiträgen an die Bekämpfung des Alkoholismus durch die Kantone aus dem Alkoholzehntel bleibt vorbehalten.
+
+# Sechster Abschnitt:  Verwendung der Erträgnisse
+
+I.  Reinertrag
+1.  Verteilung
+
+##### Art. 4489
+
+ Als Reinertrag gelten die Steuereinnahmen nach Abzug einer Vollzugspauschale. Der Bundesrat legt fest, welche gesetzlich vorgeschriebenen und betrieblich notwendigen Aufwendungen von der Vollzugspauschale gedeckt werden.
+
+ Der Reinertrag wird zu 10 Prozent den Kantonen zugewiesen; 90 Prozent verbleiben beim Bund.
+
+ Die Verteilung auf die Kantone richtet sich nach ihrer Wohnbevölkerung. Massgebend sind die Zahlen der letzten Erhebung des Bundesamtes für Statistik über die mittlere Wohnbevölkerung.
+
+2.  Verwendung
+
+##### Art. 4590
+
+ Der Anteil des Bundes am Reinertrag wird für die Alters‑, Hinterlassenen- und Invalidenversicherung verwendet.
+
+ Der Anteil der Kantone ist zur Bekämpfung des Alkoholismus, des Suchtmittel-, Betäubungsmittel- und Medikamentenmissbrauchs in ihren Ursachen und Wirkungen zu verwenden. Die Kantone erstatten dem Bundesrat jährlich Bericht über die Verwendung ihres Anteils.
+
+ Der Bundesrat unterbreitet der Bundesversammlung alle drei Jahre einen Bericht über die Verwendung des Anteils der Kantone.
+
+# Abschnitt VIa:  Steuerpfand91
+
+I.  Steuerpfandrecht
+
+##### Art. 4692
+
+ Der Bund hat ein gesetzliches Pfandrecht an allen nach diesem Gesetz steuerpflichtigen Erzeugnissen, die im Inland hergestellt oder gelagert werden, wenn die Zahlung der Steuer als gefährdet erscheint, namentlich wenn die steuerpflichtige Person:
+
+a.
+Anstalten trifft, ihren Wohn- oder Geschäftssitz oder ihre Betriebsstätte im Inland aufzugeben oder sich im schweizerischen Handelsregister löschen zu lassen; oder
+b.
+mit der Zahlung in Verzug ist.
+
+ Das Steuerpfandrecht gilt auch für Erzeugnisse, die nach diesem Gesetz steuerpflichtig sind und für welche die Steuerforderung noch nicht entstanden ist; es geht allen übrigen dinglichen Rechten an der Sache vor.
+
+II.  Beschlagnahme
+
+##### Art. 4793
+
+ Das BAZG macht das Steuerpfandrecht geltend, indem es die Ware beschlagnahmt.
+
+ Es beschlagnahmt die Ware, indem es:
+
+a.
+von ihr Besitz ergreift; oder
+b.
+dem Besitzer verbietet, darüber zu verfügen.
+
+ Es kann die beschlagnahmte Ware der berechtigten Person gegen Sicherstellung freigeben.
+
+III.  Steuerpfandverwertung
+
+##### Art. 4894
+
+ Ein Steuerpfand kann verwertet werden, wenn:
+
+a.
+die dadurch gesicherte Steuerforderung vollstreckbar geworden ist; und
+b.
+die Zahlungsfrist, die der steuerpflichtigen Person gesetzt wurde, unbenützt abgelaufen ist.
+
+ Das Pfand wird durch öffentliche Versteigerung oder Freihandverkauf verwertet.
+
+ Das BAZG darf das Pfand nur mit dem Einverständnis des Pfandeigentümers freihändig verkaufen, es sei denn:
+
+a.
+das Pfand konnte nicht öffentlich versteigert werden; oder
+b.
+der Pfandwert beträgt höchstens 1000 Franken und der Pfandeigentümer ist nicht bekannt.
+
+ Der Bundesrat kann Grundsätze für das Verwertungsverfahren festlegen.
+
+ Er regelt:
+
+a.
+unter welchen zusätzlichen Voraussetzungen das BAZG das Pfand freihändig verkaufen kann;
+b.
+die Fälle, in denen das BAZG auf eine Zollpfandverwertung verzichten kann.
+
+# Siebenter Abschnitt:95 Rechtsmittel
+
+I.  Verfügungen der Oberzolldirektion
+1.  Im Allgemeinen
+
+##### Art. 49
+
+ Erstinstanzliche Verfügungen der Oberzolldirektion können innert 30 Tagen nach der Eröffnung mit Einsprache angefochten werden.
+
+ Die Einsprache ist schriftlich bei der Oberzolldirektion einzureichen; sie hat einen bestimmten Antrag und eine Begründung zu enthalten sowie die zu seiner Begründung dienenden Tatsachen anzugeben. Die Beweismittel sollen in der Einsprache bezeichnet und ihr, soweit möglich, beigelegt werden.
+
+ Ist eine gültige Einsprache erhoben worden, so hat die Oberzolldirektion ihre Verfügung ohne Bindung an die gestellten Anträge zu überprüfen.
+
+ Wird die Einsprache zurückgezogen, so ist das Einspracheverfahren trotzdem weiterzuführen, wenn Anhaltspunkte dafür vorliegen, dass die angefochtene Verfügung oder der angefochtene Entscheid dem Gesetz nicht entspricht.
+
+ Der Einspracheentscheid ist zu begründen und hat eine Rechtsmittelbelehrung zu enthalten.
+
+2.  Verfügungen betreffend Beschränkung der Werbung
+
+##### Art. 50
+
+Verfügungen gestützt auf Artikel 42
+*b*
+können ohne Einsprache innert 30 Tagen vor Bundesverwaltungsgericht angefochten werden.
+
+II.  Verfügungen der Zollstellen oder Zollkreisdirektionen
+
+##### Art. 51
+
+ Bei Verfügungen der Zollstellen im Rahmen des Zollveranlagungsverfahrens richtet sich der Rechtsweg nach dem Zollgesetz vom 18. März 2005
+
+ Gegen andere Verfügungen der Zollstellen oder der Zollkreisdirektionen gestützt auf dieses Gesetz kann innerhalb von 30 Tagen bei der Oberzolldirektion Beschwerde erhoben werden.
+
+# Achter Abschnitt:97 Strafbestimmungen98
+
+A.  Widerhandlungen
+I.  Gegen die
+  
+Hoheitsrechte
+  
+des Bundes
+1.  Verletzung der Hoheitsrechte
+
+##### Art. 5299
+
+ Mit Busse bis zum Fünffachen des Fiskalausfalles wird bestraft, sofern nicht die Strafbestimmungen von Artikel 14 des Bundesgeset-zes vom 22. März 1974
+über das Verwaltungsstrafrecht (VStrR) zutreffen, wer
+
+a.
+unbefugterweise gebrannte Wasser herstellt oder reinigt;
+b.
+gebrannte Wasser oder daraus hergestellte Erzeugnisse vor-schriftswidrig verwendet;
+c.
+sich auf unrechtmässige Weise eine Konzession, eine Ermäch-tigung zum Brennen oder eine andere Bewilligung verschafft; oder
+d.
+in anderer Weise die Hoheitsrechte des Bundes nach diesem Gesetz verletzt.
+
+ Wird die Widerhandlung gewerbs- oder gewohnheitsmässig began-gen, so wird das Höchstmass der angedrohten Busse um die Hälfte erhöht. Zudem kann auf Freiheitsstrafe bis zu einem Jahr erkannt werden.
+
+ Handelt der Täter fahrlässig, so ist die Strafe Busse bis zum Drei-fachen des Fiskalausfalles.
+
+2.  Gefährdung der Hoheitsrechte
+
+##### Art. 53101
+
+ Mit Busse bis zu 20 000 Franken wird bestraft, wer vorsätzlich:
+
+a.
+den Konzessionsbedingungen oder den mit der Hausbrennerei verbundenen Verpflichtungen zuwiderhandelt;
+b.
+unbefugterweise einen Brennapparat erwirbt, aufstellt, unterhält oder abändert; oder
+c.
+in anderer Weise die Hoheitsrechte des Bundes dieses Gesetzes gefährdet.
+
+ Handelt der Täter fahrlässig, so ist die Strafe Busse.
+
+II.  Hinterziehung und Gefährdung von Abgaben
+
+##### Art. 54102
+
+ Wer vorsätzlich eine in der Alkoholgesetzgebung vorgesehene Fiskalabgabe hinterzieht oder sich oder einem andern einen sonstigen unrechtmässigen Abgabevorteil, wie Erlass oder Rückerstattung von Fiskalabgaben,  verschafft, wird mit Busse bis zum Fünffachen der hinterzogenen Fiskalabgabe oder des erlangten Vorteils bestraft.
+
+ Wird die Widerhandlung gewerbs- oder gewohnheitsmässig begangen, so wird das Höchstmass der angedrohten Busse um die Hälfte erhöht. Zudem kann auf Freiheitsstrafe bis zu einem Jahr erkannt werden.
+
+ Handelt der Täter fahrlässig, so ist die Strafe Busse bis zum Dreifachen der hinterzogenen Fiskalabgabe oder des erlangten Vorteils.
+
+ Wer die Erhebung einer Fiskalabgabe vorsätzlich gefährdet oder sich oder einem andern einen sonstigen unrechtmässigen Abgabevorteil zu verschaffen versucht, insbesondere durch unrichtige Buchungen, durch Unterlassung vorgeschriebener Buchungen oder Meldungen oder durch falsche Auskünfte, wird mit Busse bis zum Dreifachen der gefährdeten Fiskalabgabe bestraft.
+
+ Handelt der Täter fahrlässig, so ist die Strafe Busse bis zum Einfachen der gefährdeten Fiskalabgabe.
+
+ Die Absätze 1–5 finden nur Anwendung, sofern nicht die Strafbestimmung von Artikel 14 VStrR
+zutrifft.
+
+III.  …
+
+##### Art. 55104
+
+IV.  Hehlerei
+
+##### Art. 56105
+
+Wer gebrannte Wasser erwirbt, sich schenken lässt, zum Pfand oder sonst wie in Gewahrsam nimmt, verheimlicht, absetzen hilft oder in Verkehr bringt, wird nach der Strafandrohung, die auf den Täter Anwendung findet, bestraft, wenn die Person weiss oder annehmen muss, dass:
+
+a.
+die gebrannten Wasser unbefugterweise hergestellt oder gereinigt worden sind; oder
+b.
+die auf ihnen geschuldete Fiskalabgabe hinterzogen worden ist.
+
+V.  Missachtung der Handels-
+  
+und Werbevorschriften
+
+##### Art. 57106
+
+ Mit Busse bis zu 20 000 Franken wird bestraft, wer vorsätzlich die Kontrollvorschriften missachtet.
+
+ Handelt der Täter nach Absatz 1 fahrlässig, so ist die Strafe Busse. Geringfügige Widerhandlungen können mit einer Verwarnung geahndet werden, die mit Kostenauflage verbunden werden kann.
+
+ Mit Busse bis zu 40 000 Franken wird bestraft, wer vorsätzlich:
+
+a.
+den Vorschriften über die Beschränkung der Werbung zuwiderhandelt;
+b.
+im Kleinhandel die Handelsverbote des Artikels 41 missachtet.
+
+ Handelt der Täter nach Absatz 3 fahrlässig, so beträgt die Busse bis zu 20 000 Franken.
+
+ Der Erlass von Strafbestimmungen wegen Widerhandlungen gegen die Vorschriften des Artikels 41
+*a*
+Absätze 1 und 2 sowie die Verfolgung und die Beurteilung dieser Widerhandlungen und der im kantonalen Kleinhandel begangenen Verletzungen der Handelsverbote nach Artikel 41 sind Sache der Kantone.
+
+VI.  Andere
+  
+Widerhandlungen
+
+##### Art. 58
+
+ Wer vorsätzlich oder fahrlässig einer Vorschrift der Alkoholgesetzgebung, einer auf Grund solcher Vorschriften erlassenen allgemeinen Weisung oder einer unter Hinweis auf die Strafdrohung dieses Artikels an ihn gerichteten Einzelverfügung zuwiderhandelt, wird mit Busse bis zu 5000 Franken bestraft. Geringfügige Widerhandlungen können mit einer Verwarnung geahndet werden, womit Kostenauflage verbunden werden kann.
+
+ Vorbehalten bleibt die Überweisung an den Strafrichter auf Grund von Artikel 285 oder 286 des Strafgesetzbuches
+
+VII.  Steuerpfandunterschlagung
+
+##### Art. 58a108
+
+Wer vom BAZG als Steuerpfand beschlagnahmte Spirituosen oder Ethanol, die in seinem Besitz belassen worden sind, vernichtet oder ohne Zustimmung der Behörde darüber verfügt, wird mit Busse bis zu 100 000 Franken bestraft. Handelt der Täter fahrlässig, so beträgt die Busse bis zu 30 000 Franken.
+
+B.  Verhältnis zum Bundesgesetz über das Verwaltungsstrafrecht
+I.  Anwendbarkeit
+
+##### Art. 59109
+
+ Das VStR
+findet Anwendung, soweit die Artikel 59
+*a*
+–63 nicht abweichende Bestimmungen aufstellen.
+
+ Verfolgende und urteilende Verwaltungsbehörde ist, unter Vorbehalt von Artikel 57 Absatz 5, das BAZG.
+
+II.  Widerhandlungen in Geschäftsbetrieben
+
+##### Art. 59a111
+
+Fällt eine Busse von höchstens 50 000 Franken in Betracht und können die nach Artikel 6 VStrR
+strafbaren Personen nicht oder nur mit unverhältnismässigen Untersuchungsmassnahmen ermittelt werden, so kann das BAZG von einer Verfolgung dieser Personen absehen und an ihrer Stelle den Geschäftsbetrieb zur Bezahlung der Busse verurteilen.
+
+III.  Konkurrenz
+
+##### Art. 59b113
+
+Erfüllt eine Handlung gleichzeitig einen oder mehrere Straftatbestände nach diesem oder einem anderen Gesetz und werden diese Widerhandlungen alle vom BAZG verfolgt und beurteilt, so wird die für die schwerste Widerhandlung verwirkte Strafe verhängt; diese kann angemessen erhöht werden.
+
+IV.  Verfolgungsverjährung
+
+##### Art. 60114
+
+Die Verfolgungsverjährung nach Artikel 11 Absatz 2 VStrR
+gilt auch für die Widerhandlungen der Artikel 52, 53 und 56.
+
+##### Art. 61116
+
+C.  Fiskalausfall; Ausschluss vom Beitragsbezug
+
+##### Art. 62
+
+ Auf die Entrichtung der Ersatzleistung für den fiskalischen Ausfall, den das BAZG infolge einer Widerhandlung erlitten hat, gelten die Vorschriften des VStrR
+betreffend die Leistungs- und Rückleistungspflicht (Art. 12, 13 und 63) sinngemäss.
+
+ Der fiskalische Ausfall wird vom BAZG durch Verfügung im Verwaltungsverfahren geltend gemacht. Lässt er sich nicht genau ermitteln, so wird er mittels Schätzung festgelegt.
+
+ Hat jemand sich oder einem anderen zu Unrecht einen in der Alkoholgesetzgebung vorgesehenen Beitrag (Beihilfe) oder eine anderweitige Vergünstigung verschafft oder zu verschaffen versucht, so kann er oder der von ihm vertretene Geschäftsbetrieb während höchstens dreier Jahre vom Bezug von Beiträgen ausgeschlossen werden.
+
+D.  Schadenersatz
+
+##### Art. 63120
+
+Wer dem BAZG durch eine Widerhandlung in anderer Weise einen Vermögensschaden zufügt, als dass er eine geschuldete Abgabe nicht entrichtet, einen Fiskalausfall bewirkt oder einen unrechtmässigen Beitrag (Beihilfe) erlangt, ist ihm, ohne Rücksicht auf die Strafverfolgung, zu angemessenem Schadenersatz verpflichtet. Der Betrag des Schadenersatzes wird durch das BAZG festgesetzt.
+
+##### Art. 64121
+
+# Neunter Abschnitt:  Vollstreckung
+
+I.  Vollstreckbarkeit
+
+##### Art. 65
+
+ Die in diesem Gesetze vorgesehenen Abgaben werden mit ihrer Festsetzung vollstreckbar. Die Zahlungspflicht geht auf die Erben des Pflichtigen über, auch wenn die Abgabe noch nicht festgesetzt ist. Die Erben haften solidarisch für die Abgaben, jedoch nicht über den Betrag des Nachlasses hinaus. Ihnen stehen die nämlichen Beschwerden zu wie dem Erblasser.
+
+ …
+
+II.  Schuldbetreibung
+
+##### Art. 66
+
+ Für die in diesem Gesetz vorgesehenen Geldforderungen findet auch gegenüber einem der Konkursbetreibung unterliegenden Schuldner die Betreibung auf Pfändung statt, sofern der Konkurs nicht bereits eröffnet ist.
+
+ Die rechtskräftig gewordenen Verfügungen und Entscheide der Verwaltungsbehörden, die eine Forderung feststellen, stehen einem vollstreckbaren gerichtlichen Urteil im Sinne des Artikels 80 des Schuldbetreibungs- und Konkursgesetzes (SchKG)
+gleich.
+
+ …
+
+III.  Sicherstellungsverfügung
+
+##### Art. 67126
+
+ Das BAZG kann Steuern und sonstige Geldforderungen, unabhängig davon, ob sie rechtskräftig festgesetzt oder fällig sind, sicherstellen lassen, wenn:
+
+a.
+die Forderungen nicht durch ein ausreichendes und verwertbares Steuerpfand gesichert sind; und
+b.
+die Zahlung als gefährdet erscheint, namentlich wenn die zahlungspflichtige Person:
+1.
+Anstalten trifft, ihren Wohn- oder Geschäftssitz oder ihre Betriebsstätte im Inland aufzugeben oder sich im schweizerischen Handelsregister löschen zu lassen, oder
+2.
+mit der Zahlung in Verzug ist.
+
+ Die Sicherstellung kann durch Hinterlegung von Bargeld, mit Wertpapieren, mit einer Bankgarantie oder mit einer Solidarbürgschaft geleistet werden.
+
+ Die Sicherstellungsverfügung steht einem gerichtlichen Urteil im Sinne von Artikel 80 SchKG
+gleich. Sie gilt als Arrestbefehl im Sinne von Artikel 274 SchKG.
+
+ Die Einsprache gegen den Arrestbefehl ist ausgeschlossen.
+
+ Die Beschwerde gegen eine Sicherstellungsverfügung hat keine aufschiebende Wirkung.
+
+IV.  …
+
+##### Art. 68128
+
+V.  Rückforderung.
+  
+Nachforderung. Stundung. Erlass
+
+##### Art. 69
+
+ Wer irrtümlicherweise oder infolge Betreibung eine nicht geschuldete Abgabe entrichtet hat, kann diese Abgabe innert Jahresfrist seit der Zahlung vom BAZG ganz oder teilweise zurückfordern, sofern die Schuldpflicht nicht durch rechtskräftigen Entscheid festgestellt ist.
+
+ Ist infolge Irrtums eine geschuldete Abgabe gar nicht oder zu niedrig festgesetzt worden, so kann das BAZG den entgangenen Betrag innert Jahresfrist seit Eintritt der Abgabepflicht oder seit der Festsetzung nachfordern. Ebenso kann es den Betrag, der zu viel zurückvergütet worden ist, innert Jahresfrist seit der Vergütung zurückfordern.
+
+ Eine Abgabe oder Busse kann durch das BAZG ganz oder teilweise gestundet oder erlassen werden, wenn besondere Verhältnisse die Eintreibung für den Zahlungspflichtigen als grosse Härte erscheinen liessen.
+
+ Eine Stundung kann namentlich für die Steuer auf Spezialitätenbrand unter Berücksichtigung der Absatzverhältnisse für diese gebrannten Wasser gewährt werden.
+
+ Eine Abgabe wird dem Abgabepflichtigen, welcher der Aufzeichnungspflicht nach diesem Gesetz untersteht, erlassen oder rückvergütet, wenn er nachweist, dass die mit der Abgabe belastete Ware untergegangen ist.
+
+ Eine Abgabe wird dem Abgabepflichtigen erlassen oder rückvergütet, wenn die Ware innert fünf Jahren seit Eintritt der Abgabepflicht unter Kontrolle des BAZG vernichtet wird.
+
+# Zehnter Abschnitt:  Organisation
+
+I.  Verwaltungsbehörden
+1.  Bundesrat
+  
+und Finanzdepartement
+
+##### Art. 70
+
+ Der Bundesrat sorgt für die Durchführung dieses Gesetzes. Er erlässt alle erforderlichen Bestimmungen und Weisungen, soweit deren Erlass nicht andern Behörden übertragen ist.
+
+ Das Eidgenössische Finanzdepartement stellt dem Bundesrat Antrag und vollzieht dessen Beschlüsse.
+Es überwacht die Amtsführung des BAZG und erlässt die ihm durch dieses Gesetz übertragenen Verfügungen und Entscheidungen.
+
+2.  BAZG und Bundesamt für Landwirtschaft
+
+##### Art. 71133
+
+ Das BAZG ist um die Geschäfte besorgt, die sich aus der Durchführung der Alkoholgesetzgebung ergeben.
+
+ Das Bundesamt für Landwirtschaft ist um die Geschäfte besorgt, die sich aus der brennlosen Verwendung von Brennereirohstoffen ergeben.
+
+3.  Ethanolregister
+
+##### Art. 72134
+
+Das BAZG führt ein öffentliches Register der Inhaber von Bewilligungen nach den Artikeln 32 und 34.
+
+4.  Mitwirkung anderer
+  
+Behörden
+
+##### Art. 73
+
+ Der Bundesrat kann mit der Durchführung bestimmter Aufgaben auch andere Verwaltungsabteilungen des Bundes sowie die Behörden der Kantone und Gemeinden beauftragen. Er setzt die Kostenbeiträge fest, welche das BAZG dafür zu leisten hat. …
+
+ Überdies haben die Amtsstellen des Bundes, der Kantone, Bezirke, Kreise und Gemeinden im Rahmen ihres Wirkungskreises das BAZG bei der Durchführung ihrer Aufgaben zu unterstützen. Insbesondere haben sie Widerhandlungen, die ihnen amtlich zur Kenntnis gelangen, dem BAZG anzuzeigen und diesem bei der Feststellung des Tatbestandes und der Verfolgung des Täters beizustehen.
+
+Dritter Satz aufgehoben durch Ziff. II 13 des BG vom 6. Okt. 2006 zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen (NFA),  mit Wirkung seit 1. Jan. 2008 (
+
+II.  …
+
+##### Art. 74137
+
+III.  Geheimhaltungspflicht
+
+##### Art. 75
+
+Die Beamten und Angestellten des Bundes sowie alle andern mit der Durchführung dieses Gesetzes betrauten Organe sind zur Geheimhaltung ihrer amtlichen Wahrnehmungen gegenüber Dritten verpflichtet.
+
+# Elfter Abschnitt:  Übergangs- und Schlussbestimmungen
+
+I.  Übergangsbestimmungen
+
+##### Art. 76
+
+ Alle aus der Alkoholgesetzgebung des Bundes herrührenden Rechte und Verpflichtungen richten sich nach den Vorschriften dieses Gesetzes. …
+
+ Die aus der Anwendung von Artikel 18 des Bundesgesetzes vom 23. Dezember 1886
+betreffend gebrannte Wasser und die seither durch Abfindung von Losbrennereien entstandenen Rechtsverhältnisse bleiben bestehen.
+
+ Für die Durchführung der behördlichen Obliegenheiten gilt vom Zeitpunkt des Inkrafttretens dieses Gesetzes das darin vorgeschriebene Verfahren. …
+
+ Beim Inkrafttreten dieses Gesetzes werden die verfügbaren Reserven der Eidgenössischen Alkoholverwaltung (EAV) gemäss Artikel 22 des Bundesgesetzes vom 29. Juni 1900
+über gebrannte Wasser unter die Kantone verteilt. Der Betrag wird durch Bundesbeschluss festgesetzt. Das übrige Vermögen gilt als Betriebsfonds der EAV.
+
+Gegenstandslose UeB.
+
+[
+*AS 10 60*
+*AS 18 297*
+Art. 31]
+
+Gegenstandslose UeB.
+
+[
+*AS 18 297*
+****
+*23 663*
+]
+
+I
+*a.*
+Übergangsbestimmungen
+  
+zur Änderung
+  
+vom
+  
+4. Oktober 1996
+
+##### Art. 76a142
+
+ Bis zur Einführung eines einheitlichen Steuersatzes für die im Inland produzierten gebrannten Wasser kann der Bundesrat für Kernobstbrand einen gegenüber Spezialitätenbrand höheren Steuersatz festlegen.
+
+ Bis zur Einführung eines einheitlichen Steuersatzes für in- und ausländische gebrannte Wasser kann der Bundesrat für die von der EAV zu Trink- und Genusszwecken abgegebenen gebrannten Wasser einen gegenüber Spezialitätenbrand höheren Steuersatz festlegen.
+
+I
+*b*
+.  Übergangsbestimmungen zur Änderung vom 30. September 2016
+1.  Aufhebung der EAV
+
+##### Art. 76b143
+
+ Die EAV wird aufgelöst. Ihre Rechtspersönlichkeit erlischt.
+
+ Mit der Aufhebung der Rechtspersönlichkeit der EAV gehen sämtliche Rechte und Pflichten sowie die damit verbundenen Verträge auf den Bund über.
+
+2.  Privatisierung des Profitcenters Alcosuisse der EAV
+
+##### Art. 76c144
+
+ Der Bundesrat überführt die dem Profitcenter zugeordneten Teile der EAV in die «alcosuisse ag» und veräussert die Beteiligungen der EAV an der «alcosuisse ag» spätestens 18 Monate nach der Überführung.
+
+ Der Bundesrat regelt die Einzelheiten und fasst die für die Überführung und die Veräusserung notwendigen Beschlüsse, namentlich:
+
+a.
+bestimmt er den Zeitpunkt der Überführung;
+b.
+bezeichnet er die Grundstücke und benennt die beschränkten dinglichen Rechte sowie die obligatorischen Vereinbarungen, weitere Rechte, Pflichten und Werte, die im Rahmen einer Überführung nach Absatz 1, unter Beachtung anerkannter Bewertungsgrundsätze, in die «alcosuisse ag» eingebracht werden;
+c.
+beschliesst er die Überführungsbilanz der «alcosuisse ag»;
+d.
+genehmigt er mit der Inkraftsetzung von Artikel 76
+*b*
+die letzte Rechnung und den letzten Geschäftsbericht der EAV, regelt die Übertragung der verbleibenden Rechte und Pflichten sowie der damit verbundenen Verträge auf den Bund und passt die Staatsrechnung des Bundes an;
+e.
+kann er Vermögenswerte, die nicht in die «alcosuisse ag» überführt werden, direkt auf Dritte übertragen.
+
+ Auf die Überführung nach Absatz 1 sind die Bestimmungen des Fusionsgesetzes vom 3. Oktober 2003
+nicht anwendbar. Von der Überführung betroffene privatrechtliche Rechtsverhältnisse werden dadurch nicht verändert.
+
+ Die Rechtsgeschäfte nach den Absätzen 1 und 2 Buchstabe e sowie nach Artikel 76
+*b*
+Absatz 2 sind von jeglichen direkten und indirekten Steuern des Bundes, der Kantone und der Gemeinden befreit.
+
+ Eintragungen in das Grundbuch, in das Handelsregister und in andere öffentliche Register im Zusammenhang mit der Umsetzung des Vorhabens nach den Absätzen  1 und 2 sind steuer- und gebührenfrei.
+
+ Im Hinblick auf zukünftige Ausgaben für die Stilllegung und den Rückbau von nicht veräusserten Aktiven kann die EAV entsprechende Rückstellungen bilden.
+
+3.  Überführung öffentlich-rechtlicher in privatrechtliche Arbeitsverhältnisse
+
+##### Art. 76d146
+
+ Die öffentlich-rechtlichen Arbeitsverhältnisse des Personals des Profitcenters gehen mit dem Tag der Betriebsübernahme auf die «alcosuisse ag» über, sofern sie im Zeitpunkt der Übernahme nicht gekündigt sind. Sie werden mit der Übernahme zu privatrechtlichen Arbeitsverhältnissen und unterstehen den personalrechtlichen Bestimmungen, die auf die neue Arbeitgeberin anwendbar sind.
+
+ Während eines Jahres nach der Übernahme besteht Anspruch auf den bisherigen Lohn. Die neuen Arbeitsverträge können durch die neue Arbeitgeberin frühestens nach Ablauf eines Jahres aufgelöst werden.
+
+ Die vor der Übernahme des Arbeitsverhältnisses bei der EAV und bei Verwaltungseinheiten nach Artikel 2 Absatz 1 Buchstabe a Bundespersonalgesetz vom 24. März 2000
+ununterbrochen geleisteten Dienstjahre werden angerechnet.
+
+ Die übrigen im Zeitpunkt der Aufhebung der Rechtspersönlichkeit der EAV nicht gekündigten öffentlich-rechtlichen Arbeitsverhältnisse gehen auf die übernehmende Verwaltungseinheit des Bundes über.
+
+ Angestellte, deren Arbeitsverhältnisse nach den Absätzen 1 und 4 übergehen, haben keinen Anspruch auf Weiterführung der bisherigen Funktion und der organisatorischen Einordnung. Ihnen darf im neuen Arbeitsvertrag keine Probezeit angesetzt werden.
+
+4.  Rentenbeziehende des Profitcenters Alcosuisse der EAV
+
+##### Art. 76e148
+
+Der Bundesrat wird ermächtigt, aus dem Vermögen der EAV die Finanzierung der Arbeitgeberpflichten für die Rentenbeziehenden des Profitcenter zu übernehmen, die Anspruch auf Leistungen aus dem Vorsorgewerk Bund haben, wenn die Vorsorgeeinrichtung der «alcosuisse ag» die Rentenbeziehenden nicht übernimmt oder deren Verbleib im Vorsorgewerk Bund im finanziellen Interesse des Bundes liegt.
+
+II.  Anpassung der Bewilligungen zur Verwendung von fiskalisch nicht belastetem Ethanol nach bisherigem Recht
+
+##### Art. 76f149
+
+ Inhaber einer Bewilligung zur Verwendung von fiskalisch nicht belastetem Ethanol nach bisherigem Recht müssen bis spätestens drei Monate nach Inkrafttreten der Änderung vom 30. September 2016 beim BAZG um eine neue Verwendungsbewilligung nachsuchen.
+
+ Zum Zeitpunkt der Ausstellung der Verwendungsbewilligung werden deren Inhaber in das Ethanolregister nach Artikel 72 eingetragen.
+
+III.  Auf laufende Verfahren anwendbares Recht
+
+##### Art. 77150
+
+ Beschwerdeverfahren, die im Zeitpunkt des Inkrafttretens dieser Änderung vom 30. September 2016 laufen, welche die Steuerfestsetzung zum Gegenstand haben und denen eine nach bisherigem Recht ergangene Verfügung zugrunde liegt, werden nach bisherigem Recht zu Ende geführt.
+
+ Auf die übrigen Beschwerdeverfahren ist das neue Recht anwendbar.
+
+IV.  Inkrafttreten und Vollzug
+
+##### Art. 78
+
+Der Bundesrat bestimmt den Zeitpunkt des Inkrafttretens dieses Gesetzes. Er erlässt die zum Vollzug erforderlichen Vorschriften.
+
+Datum des Inkrafttretens: 1. Januar 1933
+
+Art. 160 der VV vom 19. Dez. 1932 [BS
+887].

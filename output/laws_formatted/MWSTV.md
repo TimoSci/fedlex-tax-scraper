@@ -1,0 +1,2570 @@
+---
+law: MWSTV
+sr: 641.201
+title: "Mehrwertsteuerverordnung"
+source: https://fedlex.data.admin.ch/eli/cc/2009/854
+scraped: "2026-03-10 00:41:39 +0100"
+---
+
+# Mehrwertsteuerverordnung (MWSTV)
+
+vom 27. November 2009 (Stand am 1. Januar 2027)
+
+Der Schweizerische Bundesrat,
+
+gestützt auf das Mehrwertsteuergesetz vom 12. Juni 2009
+(MWSTG),
+
+verordnet:
+
+# 1. Titel:  Allgemeine Bestimmungen
+
+##### Art. 1 Schweizerisches Staatsgebiet
+
+(Art. 3 Bst. a MWSTG)
+
+Schweizerische Hochseeschiffe gelten nicht als schweizerisches Staatsgebiet im Sinn von Artikel 3 Buchstabe a MWSTG.
+
+##### Art. 2 Verpfändung und besondere Verhältnisse beim Verkauf
+
+(Art. 3 Bst. d MWSTG)
+
+ Der Verkauf eines Gegenstands stellt auch dann eine Lieferung dar, wenn ein Eigentumsvorbehalt eingetragen wird.
+
+ Die Übertragung eines Gegenstands im Rahmen einer Sicherungsübereignung oder einer Verpfändung stellt keine Lieferung dar. Wird das Recht aus der Sicherungsübereignung oder aus der Verpfändung in Anspruch genommen, so findet eine Lieferung statt.
+
+ Der Verkauf eines Gegenstands bei dessen gleichzeitiger Rücküberlassung zum Gebrauch an den Verkäufer oder die Verkäuferin (Sale-and-lease-back-Geschäft) gilt nicht als Lieferung, wenn im Zeitpunkt des Vertragsschlusses eine Rückübereignung vereinbart wird. In diesem Fall gilt die Leistung des Leasinggebers oder der Leasinggeberin nicht als Gebrauchsüberlassung des Gegenstands, sondern als Finanzierungsdienstleistung nach Artikel 21 Absatz 2 Ziffer 19 Buchstabe a MWSTG.
+
+##### Art. 3 Unterstellungserklärung bei Einfuhr eines Gegenstands
+
+(Art. 7 Abs. 3 Bst. a MWSTG)
+
+ …
+
+ Wird die Einfuhr aufgrund der Unterstellungserklärung im eigenen Namen vorgenommen, so gelten bei Reihengeschäften die vorangehenden Lieferungen als im Ausland und die nachfolgenden als im Inland ausgeführt.
+
+ Verzichtet der Leistungserbringer oder die Leistungserbringerin darauf, die Einfuhr im eigenen Namen vorzunehmen, so muss er oder sie auf der Rechnung an den Abnehmer oder die Abnehmerin darauf hinweisen.
+
+##### Art. 45 Lieferung eines aus dem Ausland ins Inland verbrachten Gegenstands ab Lager im Inland
+
+(Art. 7 Abs. 1 MWSTG)
+
+Bei Gegenständen, die aus dem Ausland in ein Lager im Inland verbracht und ab diesem Lager geliefert werden, liegt der Ort der Lieferung im Ausland, wenn der Lieferungsempfänger oder die Lieferungsempfängerin und das zu entrichtende Entgelt beim Verbringen der Gegenstände ins Inland feststehen und sich die Gegenstände im Zeitpunkt der Lieferung im zollrechtlich freien Verkehr befinden.
+
+##### Art. 4a6 Zeitpunkt des Übergangs des Lieferungsortes beim Versandhandel
+
+(Art. 7 Abs. 3 Bst. b MWSTG)
+
+ Werden Gegenstände aus dem Ausland ins Inland geliefert, die aufgrund des geringfügigen Steuerbetrags von der Einfuhrsteuer befreit sind, so gilt der Ort der Lieferung bis zum Ende desjenigen Monats als im Ausland gelegen, in dem der Leistungserbringer oder die Leistungserbringerin die Umsatzgrenze von 100 000 Franken aus solchen Lieferungen erreicht hat.
+
+ Ab dem Folgemonat gilt der Ort der Lieferung für alle Lieferungen des Leistungserbringers oder der Leistungserbringerin vom Ausland ins Inland als im Inland gelegen. Ab diesem Zeitpunkt muss er oder sie die Einfuhr im eigenen Namen vornehmen.
+
+ Der Ort der Lieferung bleibt bis zum Ende desjenigen Kalenderjahres im Inland gelegen, in dem der Leistungserbringer oder die Leistungserbringerin die Umsatzgrenze von 100 000 Franken aus Lieferungen nach Absatz 1 unterschreitet.
+
+ Unterschreitet der Leistungserbringer oder die Leistungserbringerin die Umsatzgrenze und teilt er oder sie dies der Eidgenössischen Steuerverwaltung (ESTV) nicht schriftlich mit, so gilt er oder sie als unterstellt nach Artikel 7 Absatz 3 Buchstabe a MWSTG.
+
+##### Art. 5 Betriebsstätte
+
+(Art. 7 Abs. 2, 8 und 10 Abs. 3 MWSTG)
+
+ Als Betriebsstätte gilt eine feste Geschäftseinrichtung, durch welche die Tätigkeit eines Unternehmens ganz oder teilweise ausgeübt wird.
+
+ Als Betriebsstätten gelten namentlich:
+
+a.
+Zweigniederlassungen;
+b.
+Fabrikationsstätten;
+c.
+Werkstätten;
+d.
+Einkaufs- oder Verkaufsstellen;
+e.
+ständige Vertretungen;
+f.
+Bergwerke und andere Stätten der Ausbeutung von Bodenschätzen;
+g.
+Bau- und Montagestellen von mindestens zwölf Monaten Dauer;
+h.
+land-, weide- oder waldwirtschaftlich genutzte Grundstücke.
+
+ Nicht als Betriebsstätten gelten namentlich:
+
+a.
+reine Auslieferungslager;
+b.
+Beförderungsmittel, die entsprechend ihrem ursprünglichen Zweck eingesetzt werden;
+c.
+Informations-, Repräsentations- und Werbebüros von Unternehmen, die nur zur Ausübung von entsprechenden Hilfstätigkeiten befugt sind.
+
+##### Art. 5a8 Schiffsverkehr auf dem Bodensee, dem Untersee und dem Rhein bis zur Schweizer Grenze unterhalb Basel
+
+(Art. 8 Abs. 2 Bst. e MWSTG)
+
+Die Beförderung von Personen mit Schiffen auf dem Bodensee, dem Untersee sowie dem Rhein zwischen dem Untersee und der Schweizer Grenze unterhalb Basel gilt als im Ausland erbracht.
+
+##### Art. 6 Beförderungsleistungen
+
+(Art. 9 MWSTG)
+
+Eine Beförderungsleistung liegt auch vor, wenn ein Beförderungsmittel mit Bedienungspersonal zu Beförderungszwecken zur Verfügung gestellt wird.
+
+##### Art. 6a9 Ort der Leistung für gastgewerbliche, kulturelle und ähnliche Leistungen im Rahmen einer Personenbeförderung im Grenzgebiet
+
+(Art. 9 MWSTG)
+
+ Werden Leistungen nach Artikel 8 Absatz 2 Buchstaben c und d MWSTG im Rahmen einer Personenbeförderung erbracht, die im Grenzgebiet teilweise im Inland und teilweise im Ausland oder auf dem Bodensee stattfindet, und lässt sich der Ort der Leistung nicht eindeutig als im Inland oder im Ausland liegend bestimmen, so gilt die Leistung als am Ort erbracht, an dem die dienstleistende Person den Sitz der wirtschaftlichen Tätigkeit oder eine Betriebsstätte hat, oder in Ermangelung eines solchen Sitzes oder einer solchen Betriebsstätte am Wohnort oder am Ort, von dem aus sie tätig wird.
+
+ Weist die steuerpflichtige Person nach, dass eine Leistung nach Absatz 1 im Ausland erbracht worden ist, so gilt Artikel 8 Absatz 2 Buchstaben c und d MWSTG.
+
+# 2. Titel:  Inlandsteuer
+
+## 1. Kapitel:  Steuersubjekt
+
+### 1. Abschnitt:  Unternehmerische Tätigkeit und Umsatzgrenze
+
+##### Art. 7 Betriebsstätten von ausländischen Unternehmen
+
+(Art. 10 MWSTG)
+
+Alle inländischen Betriebsstätten eines Unternehmens mit Sitz im Ausland gelten zusammen als ein einziges selbstständiges Steuersubjekt.
+
+##### Art. 810
+
+##### Art. 911 Befreiung und Ende der Befreiung von der Steuerpflicht bei inländischen Unternehmen
+
+(Art. 10 Abs. 2 Bst. a und c sowie 14 Abs. 1 Bst. a und 3 MWSTG)
+
+ Unternehmen mit Sitz, Wohnsitz oder Betriebsstätte im Inland, die ihre Tätigkeit aufnehmen oder durch Geschäftsübernahme oder Eröffnung eines neuen Betriebszweiges ausweiten, sind von der Steuerpflicht befreit, wenn zu diesem Zeitpunkt nach den Umständen anzunehmen ist, dass innerhalb der folgenden zwölf Monate die Umsatzgrenze nach Artikel 10 Absatz 2 Buchstabe a oder c MWSTG aus Leistungen im In- und Ausland nicht erreicht wird. Kann zu diesem Zeitpunkt noch nicht beurteilt werden, ob die Umsatzgrenze erreicht wird, so ist spätestens nach drei Monaten eine erneute Beurteilung vorzunehmen.
+
+ Ist aufgrund der erneuten Beurteilung anzunehmen, dass die Umsatzgrenze erreicht wird, so endet die Befreiung von der Steuerpflicht wahlweise auf den Zeitpunkt:
+
+a.
+der Aufnahme oder der Ausweitung der Tätigkeit; oder
+b.
+der erneuten Beurteilung, spätestens aber mit Beginn des vierten Monats.
+
+ Bei bisher von der Steuerpflicht befreiten Unternehmen endet die Befreiung von der Steuerpflicht nach Ablauf des Geschäftsjahres, in dem die Umsatzgrenze erreicht wird. Wurde die für die Steuerpflicht massgebende Tätigkeit nicht während eines ganzen Jahres ausgeübt, so ist der Umsatz auf ein volles Jahr umzurechnen.
+
+##### Art. 9a12 Befreiung und Ende der Befreiung von der Steuerpflicht bei ausländischen Unternehmen
+
+(Art. 10 Abs. 2 Bst. a und c sowie 14 Abs. 1 Bst. b und 3 MWSTG)
+
+ Unternehmen ohne Sitz, Wohnsitz oder Betriebsstätte im Inland, die erstmals eine Leistung im Inland erbringen, sind von der Steuerpflicht befreit, wenn zu diesem Zeitpunkt nach den Umständen anzunehmen ist, dass innerhalb der folgenden zwölf Monate die Umsatzgrenze nach Artikel 10 Absatz 2 Buchstabe a oder c MWSTG aus Leistungen im In- und Ausland nicht erreicht wird. Kann zu diesem Zeitpunkt noch nicht beurteilt werden, ob die Umsatzgrenze erreicht wird, so ist spätestens nach drei Monaten eine erneute Beurteilung vorzunehmen.
+
+ Ist aufgrund der erneuten Beurteilung anzunehmen, dass die Umsatzgrenze erreicht wird, so endet die Befreiung von der Steuerpflicht wahlweise auf den Zeitpunkt:
+
+a.
+des erstmaligen Erbringens einer Leistung im Inland; oder
+b.
+der erneuten Beurteilung, spätestens aber mit Beginn des vierten Monats.
+
+ Bei bisher von der Steuerpflicht befreiten Unternehmen endet die Befreiung von der Steuerpflicht nach Ablauf des Geschäftsjahres, in dem die Umsatzgrenze erreicht wird. Wurde die für die Steuerpflicht massgebende Tätigkeit nicht während eines ganzen Jahres ausgeübt, so ist der Umsatz auf ein volles Jahr umzurechnen.
+
+##### Art. 10 Telekommunikations- und elektronische Dienstleistungen
+
+(Art. 10 Abs. 2 Bst. b MWSTG)
+
+ Als Telekommunikations- und elektronische Dienstleistungen gelten insbesondere:
+
+a.
+Radio- und Fernsehdienstleistungen;
+b.
+das Verschaffen von Zugangsberechtigungen, namentlich zu Festnetzen und Mobilfunknetzen und zur Satellitenkommunikation sowie zu anderen Informationsnetzen;
+c.
+das Bereitstellen und Zusichern von Datenübertragungskapazitäten;
+d.
+das Bereitstellen von Websites, Webhosting, Fernwartung von Programmen und Ausrüstungen;
+e.
+das elektronische Bereitstellen von Software und deren Aktualisierung;
+f.
+das elektronische Bereitstellen von Bildern, Texten und Informationen sowie das Bereitstellen von Datenbanken;
+g.
+das elektronische Bereitstellen von Musik, Filmen und Spielen, einschliesslich Geldspielen.
+
+ Nicht als Telekommunikations- oder elektronische Dienstleistung gelten namentlich:
+
+a.
+die blosse Kommunikation zwischen leistungserbringender und leistungsempfangender Person über Draht, Funk, optische oder sonstige elektromagnetische Medien;
+b.
+Bildungsleistungen im Sinn von Artikel 21 Absatz 2 Ziffer 11 MWSTG in interaktiver Form;
+c.
+die blosse Gebrauchsüberlassung von genau bezeichneten Anlagen oder Anlageteilen für die alleinige Verfügung des Mieters oder der Mieterin zwecks Übertragung von Daten.
+
+##### Art. 1114
+
+### 2. Abschnitt:  Gemeinwesen
+
+##### Art. 12 Steuersubjekt
+
+(Art. 12 Abs. 1 MWSTG)
+
+ Die Unterteilung eines Gemeinwesens in Dienststellen richtet sich nach der Gliederung des finanziellen Rechnungswesens (Finanzbuchhaltung), soweit dieses dem organisatorischen und funktionalen Aufbau des Gemeinwesens entspricht.
+
+ Übrige Einrichtungen des öffentlichen Rechts nach Artikel 12 Absatz 1 MWSTG sind:
+
+a.
+in- und ausländische öffentlich-rechtliche Körperschaften wie Zweckverbände;
+b.
+öffentlich-rechtliche Anstalten mit eigener Rechtspersönlichkeit;
+c.
+öffentlich-rechtliche Stiftungen mit eigener Rechtspersönlichkeit;
+d.
+einfache Gesellschaften von Gemeinwesen.
+
+ Im Rahmen der grenzüberschreitenden Zusammenarbeit können auch ausländische Gemeinwesen in Zweckverbände und einfache Gesellschaften aufgenommen werden.
+
+ Eine Einrichtung nach Absatz 2 ist als Ganzes ein Steuersubjekt.
+
+##### Art. 1315
+
+##### Art. 14 Unternehmerische Leistungen eines Gemeinwesens
+
+(Art. 12 Abs. 4 MWSTG)
+
+Als unternehmerisch und damit steuerbar gelten Leistungen eines Gemeinwesens, die nicht hoheitliche Tätigkeiten nach Artikel 3 Buchstabe g MWSTG sind. Namentlich die folgenden Leistungen von Gemeinwesen sind unternehmerischer Natur:
+
+1.
+Dienstleistungen im Bereich von Radio und Fernsehen, Telekommunikationsdienstleistungen sowie elektronische Dienstleistungen;
+2.
+Lieferung von Wasser, Gas, Elektrizität, thermischer Energie, Ethanol, Vergällungsmitteln und ähnlichen Gegenständen;
+3.
+Beförderung von Gegenständen und Personen;
+4.
+Dienstleistungen in Häfen und auf Flughäfen;
+5.
+Lieferung von zum Verkauf bestimmten neuen Fertigwaren;
+6.
+…
+7.
+Veranstaltung von Messen und Ausstellungen mit gewerblichem Charakter;
+8.
+Betrieb von Sportanlagen wie Badeanstalten und Kunsteisbahnen;
+9.
+Lagerhaltung;
+10.
+Tätigkeiten gewerblicher Werbebüros;
+11.
+Tätigkeiten von Reisebüros;
+12.
+Leistungen von betrieblichen Kantinen, Personalrestaurants, Verkaufsstellen und ähnlichen Einrichtungen;
+13.
+Tätigkeiten von Amtsnotaren und Amtsnotarinnen;
+14.
+Tätigkeiten von Vermessungsbüros;
+15.
+Tätigkeiten im Entsorgungsbereich;
+16.
+Tätigkeiten, die durch vorgezogene Entsorgungsgebühren gestützt auf Artikel 32
+*a*
+bis
+des Umweltschutzgesetzes vom 7. Oktober 1983
+(USG) finanziert werden;
+17.
+Tätigkeiten im Rahmen der Erstellung von Verkehrsanlagen;
+18.
+Rauchgaskontrollen;
+19.
+Werbeleistungen.
+
+### 3. Abschnitt:  Gruppenbesteuerung
+
+##### Art. 15 Einheitliche Leitung
+
+(Art. 13 MWSTG)
+
+Eine einheitliche Leitung liegt vor, wenn durch Stimmenmehrheit, Vertrag oder auf andere Weise das Verhalten eines Rechtsträgers kontrolliert wird.
+
+##### Art. 16 Gruppenmitglieder
+
+(Art. 13 MWSTG)
+
+ Nicht rechtsfähige Personengesellschaften sind Rechtsträgern im Sinn von Artikel 13 MWSTG gleichgestellt.
+
+ Versicherungsvertreter und Versicherungsvertreterinnen können Mitglieder einer Gruppe sein.
+
+ …
+
+##### Art. 17 Gruppenbildung
+
+(Art. 13 MWSTG)
+
+ Der Kreis der Mitglieder der Mehrwertsteuergruppe kann, innerhalb der zur Teilnahme an der Gruppenbesteuerung Berechtigten, frei bestimmt werden.
+
+ Die Bildung mehrerer Teilgruppen ist zulässig.
+
+##### Art. 17a20 Gruppenvertretung
+
+(Art. 13 MWSTG)
+
+Gruppenvertretung kann sein:
+
+a.
+ein in der Schweiz ansässiges Mitglied der Mehrwertsteuergruppe; oder
+b.
+eine Person, die nicht Mitglied der Mehrwertsteuergruppe ist und Wohn- oder Geschäftssitz in der Schweiz hat.
+
+##### Art. 1821 Antrag auf Gruppenbesteuerung
+
+(Art. 13, 65
+*a*
+Abs. 1 und 67 Abs. 2 MWSTG)
+
+ Auf Antrag trägt die ESTV die Gruppe in das Register der steuerpflichtigen Personen (Mehrwertsteuerregister) ein.
+
+ Sind die Voraussetzungen nach Artikel 13 Absatz 1 MWSTG für die Gruppenbesteuerung auf Beginn der Steuerperiode erfüllt, so trägt die ESTV die Gruppe auf diesen Zeitpunkt ins Mehrwertsteuerregister ein, sofern:
+
+a.
+keiner der betroffenen Rechtsträger für diejenige Steuerperiode eine Abrechnung eingereicht hat, für welche die Gruppenbesteuerung beantragt wird; und
+b.
+die Frist zur Einreichung der Abrechnung nach Artikel 71 Absatz 1 MWSTG nicht verstrichen ist.
+
+ Sind die Voraussetzungen nach Artikel 13 Absatz 1 MWSTG für die Gruppenbesteuerung erst während der laufenden Steuerperiode erfüllt, so trägt die ESTV die Gruppe auf diesen Zeitpunkt ins Mehrwertsteuerregister ein, sofern:
+
+a.
+keiner der betroffenen Rechtsträger für diejenige Abrechnungsperiode eine Abrechnung eingereicht hat, in der die Voraussetzungen zur Anwendung der Gruppenbesteuerung eingetreten sind; und
+b.
+die Frist zur Einreichung der Abrechnung nach Artikel 71 Absatz 1 MWSTG nicht verstrichen ist.
+
+ Dem Antrag sind schriftliche Erklärungen der einzelnen Gruppenmitglieder beizulegen, in denen sich diese mit der Gruppenbesteuerung und deren Wirkungen sowie der gemeinsamen Vertretung durch das darin bestimmte Mitglied oder die darin bestimmte Person einverstanden erklären.
+
+##### Art. 19 Änderungen der Gruppenvertretung
+
+(Art. 13 MWSTG)
+
+ Ein Wechsel der Vertretung einer Mehrwertsteuergruppe ist der ESTV zu melden.
+
+ Tritt die bisherige Gruppenvertretung zurück und wird der ESTV keine neue Gruppenvertretung gemeldet, so kann die ESTV nach vorgängiger Mahnung eines der Gruppenmitglieder zur Gruppenvertretung bestimmen.
+
+ Die Gruppenmitglieder können gemeinsam der Gruppenvertretung das Mandat entziehen, sofern sie gleichzeitig eine neue Gruppenvertretung bestimmen. Absatz 1 gilt sinngemäss.
+
+##### Art. 2024 Änderung im Bestand der Gruppe
+
+(Art. 13 MWSTG)
+
+ Erfüllt ein Mitglied die Voraussetzungen nach Artikel 13 Absatz 1 MWSTG nicht mehr, um an der Gruppenbesteuerung teilzunehmen, so muss die Gruppenvertretung dies der ESTV melden.
+
+ Auf Antrag kann ein Rechtsträger auf den Beginn der folgenden Steuerperiode
+**
+in eine bestehende Gruppe eintreten oder ein Mitglied auf das Ende der laufenden Steuerperiode aus einer Gruppe austreten.
+
+ Erfüllt ein Rechtsträger neu die Voraussetzungen nach Artikel 13 Absatz 1 MWSTG zur Teilnahme an der Gruppenbesteuerung, so kann der Eintritt in eine bestehende Mehrwertsteuergruppe auch während der laufenden Steuerperiode zum Zeitpunkt der Erfüllung dieser Voraussetzungen beantragt werden, sofern:
+
+a.
+weder die Mehrwertsteuergruppe noch der neu aufzunehmende Rechtsträger für diejenige Abrechnungsperiode eine Abrechnung eingereicht hat, in der die Voraussetzungen zur Teilnahme an einer Gruppenbesteuerung eingetreten sind; und
+b.
+die Frist zur Einreichung der Abrechnung nach Artikel 71 Absatz 1 MWSTG nicht verstrichen ist.
+
+##### Art. 21 Administrative und buchhalterische Erfordernisse
+
+(Art. 13 MWSTG)
+
+ Die Mitglieder müssen ihre Buchhaltung am gleichen Bilanzstichtag abschliessen; davon ausgenommen sind Holdinggesellschaften, wenn diese aus Gründen der Rechnungslegung einen anderen Bilanzstichtag aufweisen.
+
+ Jedes Mitglied muss eine interne Mehrwertsteuerabrechnung erstellen, die in der Abrechnung der Mehrwertsteuergruppe zu konsolidieren ist.
+
+##### Art. 22 Mithaftung bei Gruppenbesteuerung
+
+(Art. 15 Abs. 1 Bst. c MWSTG)
+
+ Die Mithaftung eines Mitglieds einer Mehrwertsteuergruppe erstreckt sich auf alle Steuer-, Zins- und Kostenforderungen, die während dessen Zugehörigkeit zur Gruppe entstehen, ausgenommen Bussen.
+
+ Wurde gegenüber einem Gruppenmitglied eine Betreibung eingeleitet, bei der Gruppenvertretung eine Steuernachforderung mittels Einschätzungsmitteilung geltend gemacht oder wurde eine Kontrolle angekündigt, so kann sich ein Gruppenmitglied nicht durch Austritt aus der Gruppe der Mithaftung entziehen.
+
+### 4. Abschnitt:  Haftung bei der Zession von Forderungen
+
+##### Art. 23 Umfang der Abtretung
+
+(Art. 15 Abs. 4 MWSTG)
+
+Bei der Abtretung eines Teilbetrags einer Forderung auf ein Entgelt gilt die Mehrwertsteuer als anteilig mitzediert. Die Abtretung der Nettoforderung ohne Mehrwertsteuer ist nicht möglich.
+
+##### Art. 24 Umfang der Haftung
+
+(Art. 15 Abs. 4 MWSTG)
+
+ Die Haftung nach Artikel 15 Absatz 4 MWSTG beschränkt sich auf die Höhe des Mehrwertsteuerbetrags, der während eines Zwangsvollstreckungsverfahrens gegen die steuerpflichtige Person ab dem Zeitpunkt der Pfändung beziehungsweise ab dem Zeitpunkt der Konkurseröffnung durch den Zessionar oder die Zessionarin tatsächlich vereinnahmt worden ist.
+
+ Im Rahmen eines Pfändungs- oder Pfandverwertungsverfahrens gegen eine steuerpflichtige Person muss die ESTV den Zessionar oder die Zessionarin nach Erhalt der Pfändungsurkunde unverzüglich über seine oder ihre Haftung informieren.
+
+ Nach der Eröffnung des Konkurses über eine steuerpflichtige Person kann die ESTV die Haftung des Zessionars oder der Zessionarin unabhängig von einer vorgängigen Mitteilung in Anspruch nehmen.
+
+##### Art. 25 Befreiung von der Haftung
+
+(Art. 15 Abs. 4 MWSTG)
+
+Durch Weiterleitung der mit der Forderung mitzedierten und vereinnahmten Mehrwertsteuer an die ESTV befreit sich der Zessionar oder die Zessionarin im entsprechenden Umfang von der Haftung.
+
+## 2. Kapitel:  Steuerobjekt
+
+### 1. Abschnitt:  Leistungsverhältnis
+
+##### Art. 2625 Leistungen an eng verbundene Personen
+
+(Art. 18 Abs. 1 MWSTG)
+
+Das Erbringen von Leistungen an eng verbundene Personen gilt als Leistungsverhältnis. Die Bemessung richtet sich nach Artikel 24 Absatz 2 MWSTG.
+
+Die Berichtigung vom 12. Dez. 2017 betrifft nur den französischen Text (
+
+##### Art. 27 Vorgezogene Entsorgungsgebühren
+
+(Art. 18 Abs. 1 MWSTG)
+
+Private Organisationen im Sinn von Artikel 32
+*a*
+bis
+USG
+erbringen durch ihre Tätigkeiten Leistungen gegenüber den Herstellern und Importeuren. Die vorgezogenen Entsorgungsgebühren sind Entgelt für diese Leistungen.
+
+##### Art. 28 Grenzüberschreitende Entsendung von Mitarbeitenden im Konzern
+
+(Art. 18 MWSTG)
+
+Kein Leistungsverhältnis bei grenzüberschreitender Entsendung von Mitarbeitenden innerhalb eines Konzerns liegt vor, wenn:
+
+a.
+ein ausländischer Arbeitgeber einen Arbeitnehmer oder eine Arbeitnehmerin in einem zum gleichen Konzern gehörenden Einsatzbetrieb im Inland einsetzt oder ein inländischer Arbeitgeber einen Arbeitnehmer oder eine Arbeitnehmerin in einem zum gleichen Konzern gehörenden ausländischen Einsatzbetrieb einsetzt;
+b.
+der Arbeitnehmer oder die Arbeitnehmerin die Arbeitsleistung dem Einsatzbetrieb erbringt, jedoch den Arbeitsvertrag mit dem entsendenden Unternehmen beibehält; und
+c.
+die Löhne, Sozialabgaben und dazugehörenden Spesen vom entsendenden Arbeitgeber ohne Zuschläge dem Einsatzbetrieb belastet werden.
+
+##### Art. 29 Subventionen und andere öffentlich-rechtliche Beiträge
+
+Art. 18 Abs. 2 Bst. a MWSTG)
+
+ Als Subventionen oder andere öffentlich-rechtliche Beiträge gelten unter Vorbehalt von Artikel 18 Absatz 3 MWSTG namentlich die von Gemeinwesen ausgerichteten:
+
+a.
+Finanzhilfen im Sinn von Artikel 3 Absatz 1 des Subventionsgesetzes vom 5. Oktober 1990
+(SuG);
+b.
+Abgeltungen im Sinn von Artikel 3 Absatz 2 Buchstabe a SuG, sofern kein Leistungsverhältnis vorliegt;
+c.
+Forschungsbeiträge, sofern dem Gemeinwesen kein Exklusivrecht auf die Resultate der Forschung zusteht;
+d.
+mit den Buchstaben a–c vergleichbaren Mittelflüsse, die gestützt auf kantonales und kommunales Recht ausgerichtet werden.
+
+ Ein Gemeinwesen kann Mittel gegenüber dem Empfänger oder der Empfängerin bis zum Ablauf der Frist von Artikel 72 Absatz 1 MWSTG jener Steuerperiode, in der die Auszahlung erfolgt, als Subvention oder anderen öffentlich-rechtlichen Beitrag bezeichnen.
+
+##### Art. 30 Weiterleiten von Mittelflüssen, die nicht als Entgelte gelten
+
+(Art. 18 Abs. 2 MWSTG)
+
+ Das Weiterleiten von Mittelflüssen, die nach Artikel 18 Absatz 2 MWSTG nicht als Entgelte gelten, namentlich innerhalb von Bildungs- und Forschungskooperationen, unterliegt nicht der Steuer.
+
+ Die Kürzung des Vorsteuerabzugs nach Artikel 33 Absatz 2 MWSTG erfolgt beim letzten Zahlungsempfänger oder der letzten Zahlungsempfängerin.
+
+### 2. Abschnitt:  Mehrheit von Leistungen
+
+##### Art. 31 Spezialwerkzeuge
+
+(Art. 19 Abs. 1 MWSTG)
+
+ Spezialwerkzeuge, die eine steuerpflichtige Person eigens für die Ausführung eines Fabrikationsauftrages zukauft, anfertigen lässt oder selbst anfertigt, gelten als Teil der Lieferung des damit hergestellten Gegenstands. Unerheblich ist, ob die Spezialwerkzeuge:
+
+a.
+dem Leistungsempfänger oder der Leistungsempfängerin allenfalls gesondert fakturiert oder in den Preis der Erzeugnisse eingerechnet werden;
+b.
+nach Ausführung des Fabrikationsauftrages dem Leistungsempfänger oder der Leistungsempfängerin oder einer von ihm oder ihr bezeichneten Drittperson abgeliefert werden oder nicht.
+
+ Als Spezialwerkzeuge gelten namentlich Klischees, Fotolithos und Satz, Stanz- und Ziehwerkzeuge, Lehren, Vorrichtungen, Press- und Spritzformen, Gesenke, Giessereimodelle, Kokillen und Filme für gedruckte Schaltungen.
+
+##### Art. 3230 Sachgesamtheiten und Leistungskombinationen
+
+(Art. 19 Abs. 2 MWSTG)
+
+Für die Bestimmung, ob der Ort der Leistung bei Leistungskombinationen im Inland oder im Ausland liegt, ist Artikel 19 Absatz 2 MWSTG sinngemäss anwendbar.
+
+##### Art. 33 Geltung der Einfuhrsteuerveranlagung für die Inlandsteuer
+
+(Art. 19 Abs. 2 MWSTG)
+
+Eine Einfuhrsteuerveranlagung nach Artikel 112 ist auch für die Inlandsteuer massgebend, sofern nach der Einfuhrveranlagung keine Bearbeitung oder Veränderung der Leistungskombination vorgenommen wurde.
+
+### 3. Abschnitt:  Von der Steuer ausgenommene Leistungen
+
+##### Art. 34 Heilbehandlungen
+
+(Art. 21 Abs. 2 Ziff. 3 MWSTG)
+
+ Als Heilbehandlungen gelten die Feststellung und Behandlung von Krankheiten, Verletzungen und anderen Störungen der körperlichen und seelischen Gesundheit des Menschen sowie Tätigkeiten, die der Vorbeugung von Krankheiten und Gesundheitsstörungen des Menschen dienen.
+
+ Den Heilbehandlungen gleichgestellt sind:
+
+a.
+besondere Leistungen bei Mutterschaft, wie Kontrolluntersuchungen, Geburtsvorbereitung oder Stillberatung;
+b.
+Untersuchungen, Beratungen und Behandlungen, die mit künstlicher Befruchtung, Empfängnisverhütung oder Schwangerschaftsabbruch im Zusammenhang stehen;
+c.
+Lieferungen und Dienstleistungen eines Arztes, einer Ärztin, eines Zahnarztes oder einer Zahnärztin für die Erstellung eines medizinischen Berichts oder Gutachtens zur Abklärung sozialversicherungsrechtlicher Ansprüche.
+
+ Nicht als Heilbehandlungen gelten namentlich:
+
+a.
+Untersuchungen, Beratungen und Behandlungen, die lediglich der Hebung des Wohlbefindens oder der Leistungsfähigkeit dienen oder lediglich aus ästhetischen Gründen vorgenommen werden, ausser die Untersuchung, Beratung oder Behandlung erfolge durch einen Arzt, eine Ärztin, einen Zahnarzt oder eine Zahnärztin, die im Inland zur Ausübung der ärztlichen oder zahnärztlichen Tätigkeit berechtigt sind;
+b.
+die zur Erstellung eines Gutachtens vorgenommenen Untersuchungen, die nicht mit einer konkreten Behandlung der untersuchten Person im Zusammenhang stehen, ausser in Fällen nach Absatz 2 Buchstabe c;
+c.
+die Abgabe von Medikamenten oder von medizinischen Hilfsmitteln, es sei denn, diese werden von der behandelnden Person im Rahmen einer Heilbehandlung verwendet;
+d.
+die Abgabe von selbst hergestellten oder zugekauften Prothesen und orthopädischen Apparaten, auch wenn diese im Rahmen einer Heilbehandlung erfolgt; als Prothese gilt ein Körper-Ersatz, der ohne operativen Eingriff vom Körper entfernt und wieder eingesetzt oder angebracht werden kann;
+e.
+Massnahmen der Grundpflege; diese gelten als Pflegeleistungen nach Artikel 21 Absatz 2 Ziffer 4 MWSTG.
+
+##### Art. 35 Voraussetzung für die Anerkennung als Erbringer oder Erbringerin einer Heilbehandlung
+
+(Art. 21 Abs. 2 Ziff. 3 MWSTG)
+
+ Ein Leistungserbringer oder eine Leistungserbringerin verfügt über eine Berufsausübungsbewilligung im Sinn von Artikel 21 Absatz 2 Ziffer 3 MWSTG, wenn er oder sie:
+
+a.
+im Besitz der nach kantonalem Recht erforderlichen Bewilligung zur selbstständigen Berufsausübung ist; oder
+b.
+zur Ausübung der Heilbehandlung nach der kantonalen Gesetzgebung zugelassen ist.
+
+ Als Angehörige von Heil- und Pflegeberufen im Sinn von Artikel 21 Absatz 2 Ziffer 3 MWSTG gelten namentlich:
+
+a.
+Ärzte und Ärztinnen;
+b.
+Zahnärzte und Zahnärztinnen;
+c.
+Zahnprothetiker und Zahnprothetikerinnen;
+c
+bis
+Dentalhygieniker und Dentalhygienikerinnen;
+d.
+Psychotherapeuten und Psychotherapeutinnen;
+d
+bis
+Psychologen und Psychologinnen;
+e.
+Chiropraktoren und Chiropraktorinnen;
+f.
+Physiotherapeuten und Physiotherapeutinnen;
+g.
+Ergotherapeuten und Ergotherapeutinnen;
+h.
+Naturärzte, Naturärztinnen, Heilpraktiker, Heilpraktikerinnen, Naturheilpraktiker und Naturheilpraktikerinnen;
+i.
+Entbindungspfleger und Hebammen;
+j.
+Pflegefachmänner und Pflegefachfrauen;
+k.
+medizinische Masseure und Masseurinnen;
+l.
+Logopäden und Logopädinnen;
+m.
+Ernährungsberater und Ernährungsberaterinnen;
+n.
+Podologen und Podologinnen;
+o.
+…
+p.
+Apotheker und Apothekerinnen;
+q.
+Optometristen und Optometristinnen.
+
+##### Art. 36 Kulturelle Leistungen
+
+(Art. 21 Abs. 2 Ziff. 14 und 16 MWSTG)
+
+ …
+
+ Als Urheber und Urheberinnen im Sinn von Artikel 21 Absatz 2 Ziffer 16 MWSTG gelten Urheber und Urheberinnen von Werken nach den Artikeln 2 und 3 URG, soweit sie kulturelle Dienstleistungen und Lieferungen erbringen.
+
+##### Art. 3737
+
+##### Art. 3838 Zusammenarbeit zwischen Gemeinwesen
+
+(Art. 21 Abs. 2 Ziff. 28 Bst. b und c MWSTG)
+
+ Als Beteiligung von Gemeinwesen an privat- oder öffentlichrechtlichen Gesellschaften im Sinn von Artikel 21 Absatz 2 Ziffer 28 Buchstabe b MWSTG gilt sowohl eine direkte als auch eine indirekte Beteiligung.
+
+ Als von Gemeinwesen gegründete Anstalten und Stiftungen im Sinn von Artikel 21 Absatz 2 Ziffer 28 Buchstabe c MWSTG gelten sowohl direkt als auch indirekt von Gemeinwesen gegründete Anstalten und Stiftungen.
+
+ Die Steuerausnahme erstreckt sich auf:
+
+a.
+die Leistungen zwischen privat- oder öffentlich-rechtlichen Gesellschaften, an denen ausschliesslich Gemeinwesen beteiligt sind, und:
+1.
+den ausschliesslich von diesen Gesellschaften direkt oder indirekt gehaltenen Gesellschaften, oder
+2.
+den Anstalten und Stiftungen, deren alleinige Gründer oder Träger sie sind;
+b.
+die Leistungen zwischen Anstalten oder Stiftungen, deren Gründer oder Träger ausschliesslich Gemeinwesen sind, und:
+1.
+den Gesellschaften, die sie alleine direkt oder indirekt halten, oder
+2.
+den Anstalten und Stiftungen, deren alleinige Träger oder Gründer sie sind.
+
+##### Art. 38a40 Bildungs- und Forschungsinstitutionen
+
+(Art. 21 Abs. 7 MWSTG)
+
+ Als Bildungs- und Forschungsinstitutionen gelten:
+
+a.
+Institutionen des Hochschulwesens, die von Bund und Kantonen im Rahmen von Artikel 63
+*a*
+der Bundesverfassung
+gestützt auf eine gesetzliche Grundlage gefördert werden;
+b.
+gemeinnützige Organisationen nach Artikel 3 Buchstabe j MWSTG sowie Gemeinwesen nach Artikel 12 MWSTG;
+c.
+öffentliche Spitäler unabhängig von ihrer Rechtsform.
+
+ Unternehmen der Privatwirtschaft gelten nicht als Bildungs- oder Forschungsinstitutionen.
+
+##### Art. 3942 Option für die Versteuerung der von der Steuer ausgenommenen Leistungen
+
+(Art. 22 MWSTG)
+
+Die Option durch Deklaration in der Abrechnung muss in der Steuerperiode ausgeübt werden, in der die Umsatzsteuerschuld entstanden ist. Nach Ablauf der Finalisierungsfrist gemäss Artikel 72 Absatz 1 MWSTG ist eine Ausübung der Option oder ein Verzicht auf eine ausgeübte Option nicht mehr möglich.
+
+### 4. Abschnitt:  Von der Steuer befreite Leistungen
+
+##### Art. 4043
+
+##### Art. 41 Steuerbefreiung des internationalen Luftverkehrs
+
+(Art. 23 Abs. 4 MWSTG)
+
+ Von der Steuer sind befreit:
+
+a.
+Beförderungen im Luftverkehr, bei denen entweder der Ankunfts- oder der Abflugsort im Inland liegt;
+b.
+Beförderungen im Luftverkehr von einem ausländischen Flughafen zu einem anderen ausländischen Flughafen über inländisches Gebiet.
+
+ Inlandstrecken im internationalen Luftverkehr sind von der Steuer befreit, wenn der Flug im Inland lediglich durch eine technische Zwischenlandung oder zum Umsteigen auf einen Anschlussflug unterbrochen wird.
+
+##### Art. 42 Steuerbefreiung des internationalen Eisenbahnverkehrs
+
+(Art. 23 Abs. 4 MWSTG)
+
+ Beförderungen im grenzüberschreitenden Eisenbahnverkehr sind unter Vorbehalt von Absatz 2 von der Steuer befreit, soweit es sich um Strecken handelt, wofür ein internationaler Fahrausweis besteht. Darunter fallen:
+
+a.
+Beförderungen auf Strecken, bei denen entweder der Abgangs- oder der Ankunftsbahnhof im Inland liegt;
+b.
+Beförderungen auf inländischen Strecken, die im Transit benutzt werden, um die im Ausland liegenden Abgangs- und Ankunftsbahnhöfe zu verbinden.
+
+ Für eine Steuerbefreiung muss der Fahrpreisanteil der ausländischen Strecke grösser sein als die wegen der Steuerbefreiung entfallende Mehrwertsteuer.
+
+ Für den Verkauf von Pauschalfahrausweisen, namentlich Generalabonnementen und Halbtax-Abonnementen, die ganz oder teilweise für steuerbefreite Beförderungen verwendet werden, wird keine Steuerbefreiung gewährt.
+
+##### Art. 43 Steuerbefreiung des internationalen Busverkehrs
+
+(Art. 23 Abs. 4 MWSTG)
+
+ Von der Steuer befreit sind die Beförderungen von Personen mit Autobussen auf Strecken, die:
+
+a.
+überwiegend über ausländisches Gebiet führen; oder
+b.
+im Transit benutzt werden, um die im Ausland liegenden Abgangs- und Ankunftsorte zu verbinden.
+
+ Von der Steuer befreit sind Personenbeförderungen auf reinen Inlandstrecken, die allein für das unmittelbare Zubringen einer Person zu einer Beförderungsleistung nach Absatz 1 bestimmt sind, sofern diese gemeinsam mit der Beförderungsleistung nach Absatz 1 in Rechnung gestellt wird.
+
+##### Art. 43a44 Verzicht auf steuerfreie Lieferung an Plattformen
+
+(Art. 23 Abs. 2 Ziff. 13 MWSTG)
+
+ Der Verkäufer oder die Verkäuferin kann die fingierte Lieferung von Gegenständen im Inland an einen Leistungserbringer oder eine Leistungserbringerin nach Artikel 20
+*a*
+MWSTG mit dessen oder deren Einverständnis mit Steuer in Rechnung stellen. Kein Einverständnis ist notwendig, wenn gegen den Leistungserbringer oder die Leistungserbringerin nach Artikel 20
+*a*
+MWSTG eine administrative Massnahme nach Artikel 79
+*a*
+MWSTG verfügt ist.
+
+ Der Leistungserbringer oder die Leistungserbringerin nach Artikel 20
+*a*
+MWSTG kann die Steuer als Vorsteuer in Abzug bringen.
+
+##### Art. 4445
+
+## 3. Kapitel:  Bemessungsgrundlage und Steuersätze
+
+### 1. Abschnitt:  Bemessungsgrundlage
+
+##### Art. 45 Entgelte in ausländischer Währung
+
+(Art. 24 Abs. 1 MWSTG)
+
+ Zur Berechnung der geschuldeten Mehrwertsteuer sind Entgelte in ausländischer Währung im Zeitpunkt der Entstehung der Steuerforderung in Landeswährung umzurechnen.
+
+ Ein Entgelt in ausländischer Währung liegt vor, wenn die Rechnung oder Quittung in ausländischer Währung ausgestellt ist. Wird keine Rechnung oder Quittung ausgestellt, so ist die Verbuchung beim Leistungserbringer oder bei der Leistungserbringerin massgebend. Unerheblich ist, ob in Landes- oder in ausländischer Währung bezahlt wird und in welcher Währung das Retourgeld ausbezahlt wird.
+
+ Die Umrechnung erfolgt nach dem von der ESTV veröffentlichten Wechselkurs, wobei wahlweise der Monatsmittelkurs oder der Tageskurs für den Verkauf von Devisen verwendet werden kann.
+
+3bis
+ Bei ausländischen Währungen, für welche die ESTV keinen Kurs veröffentlicht, gilt der publizierte Tageskurs für den Verkauf von Devisen einer inländischen Bank.
+
+ Steuerpflichtige Personen, die Teil eines Konzerns sind, können für die Umrechnung ihren Konzernumrechnungskurs verwenden. Dieser ist sowohl für die Leistungen innerhalb des Konzerns als auch im Verhältnis zu Dritten anzuwenden.
+
+ Das gewählte Vorgehen (Monatsmittel-, Tages- oder Konzernkurs) ist während mindestens einer Steuerperiode beizubehalten.
+
+##### Art. 46 Kreditkartenkommissionen und Scheckgebühren
+
+(Art. 24 Abs. 1 MWSTG)
+
+Nicht als Entgeltsminderungen gelten Kreditkartenkommissionen, Scheckgebühren, WIR-Einschläge und dergleichen.
+
+##### Art. 47 Leistungen an das Personal
+
+(Art. 24 MWSTG)
+
+ Bei entgeltlichen Leistungen an das Personal ist die Steuer vom tatsächlich
+  
+empfangenen Entgelt zu berechnen. Artikel 24 Absätze 2 und 3 MWSTG bleibt vorbehalten.
+
+ Leistungen des Arbeitgebers an das Personal, die im Lohnausweis zu deklarieren sind, gelten als entgeltlich erbracht. Die Steuer ist von dem Betrag zu berechnen, der auch für die direkten Steuern massgebend ist.
+
+ Leistungen, die im Lohnausweis nicht zu deklarieren sind, gelten als nicht entgeltlich erbracht und es wird vermutet, dass ein unternehmerischer Grund besteht.
+
+ Soweit bei den direkten Steuern Pauschalen für die Ermittlung von Lohnanteilen zulässig sind, die auch für die Bemessung der Mehrwertsteuer dienlich sind, können diese für die Mehrwertsteuer ebenfalls angewendet werden.
+
+ Für die Anwendung der Absätze 2–4 ist nicht erheblich, ob es sich dabei um eng verbundene Personen nach Artikel 3 Buchstabe h MWSTG handelt.
+
+Die Berichtigung vom 12. Dez. 2017 betrifft nur den französischen Text (
+
+##### Art. 48 Kantonale Abgaben an Wasser-, Abwasser- oder Abfallfonds
+
+(Art. 24 Abs. 6 Bst. d MWSTG)
+
+ Die ESTV legt für jeden Fonds den Umfang des Abzuges in Prozenten fest, der für die einzelnen angeschlossenen Entsorgungsanstalten und Wasserwerke gilt.
+
+ Sie berücksichtigt dabei, dass:
+
+a.
+der Fonds nicht alle eingenommenen Abgaben wieder ausrichtet; und
+b.
+die steuerpflichtigen Bezüger und Bezügerinnen von Entsorgungsdienstleistungen und Wasserlieferungen die ihnen darauf in Rechnung gestellte Steuer vollumfänglich als Vorsteuer abgezogen haben.
+
+### 1a. Abschnitt:50 Margenbesteuerung
+
+##### Art. 48a Kunstgegenstände, Antiquitäten und andere Sammlerstücke
+
+(Art. 24
+*a*
+Abs. 4 MWSTG)
+
+ Als Kunstgegenstände gelten folgende körperliche Werke von Urhebern und Urheberinnen nach Artikel 21 Absatz 2 Ziffer 16 MWSTG:
+
+a.
+vom Künstler oder von der Künstlerin persönlich geschaffene Bildwerke wie Ölgemälde, Aquarelle, Pastelle, Zeichnungen, Collagen und dergleichen; ausgenommen sind Baupläne und -zeichnungen, technische Zeichnungen und andere Pläne und Zeichnungen zu Gewerbe-, Handels-, topografischen oder ähnlichen Zwecken, bemalte oder verzierte gewerbliche Erzeugnisse, bemalte Gewebe für Theaterdekorationen, Atelierhintergründe und dergleichen;
+b.
+Originalstiche, -schnitte und -steindrucke, die unmittelbar in begrenzter Stückzahl von einer oder mehreren vom Künstler oder von der Künstlerin vollständig handgearbeiteten Platten nach einem beliebigen, jedoch nicht mechanischen oder fotomechanischen Verfahren auf ein beliebiges Material in Schwarz-Weiss oder farbig abgezogen wurden;
+c.
+Serigrafien, die die Merkmale eines künstlerisch individuell gestalteten Originalwerks aufweisen, in begrenzter Stückzahl hergestellt und von vom Urheber oder von der Urheberin vollständig handgearbeiteten Vervielfältigungsformen abgezogen worden sind;
+d.
+Originalwerke der Bildhauerkunst, die vollständig vom Künstler oder von der Künstlerin geschaffen wurden, sowie unter Aufsicht des Künstlers oder der Künstlerin beziehungsweise deren Rechtsnachfolger hergestellte Bildgüsse in begrenzter Stückzahl;
+e.
+handgearbeitete Tapisserien und Textilwaren für Wandbekleidung nach Originalentwürfen von Künstlern und Künstlerinnen in begrenzter Stückzahl;
+f.
+Originalwerke aus Keramik, die vollständig vom Künstler oder von der Künstlerin geschaffen und von ihm oder ihr signiert wurden;
+g.
+Werke der Emaillekunst in begrenzter Stückzahl, die vollständig von Hand geschaffen wurden, nummeriert und mit der Signatur des Künstlers oder der Künstlerin oder des Kunstateliers versehen sind;
+h.
+vom Künstler oder von der Künstlerin aufgenommene Fotografien, die von ihm oder ihr oder unter deren Aufsicht in begrenzter Stückzahl abgezogen sowie zertifiziert oder von ihm oder ihr signiert wurden;
+i.
+in den Buchstaben a–h nicht genannte, vom Künstler oder von der Künstlerin persönlich geschaffene Kunstgegenstände in begrenzter Stückzahl.
+
+ Als Antiquitäten gelten bewegliche Gegenstände, die mehr als 100 Jahre alt sind.
+
+ Als Sammlerstücke gelten namentlich auch:
+
+a.
+Briefmarken, Stempelmarken, Steuerzeichen, Ersttagsbriefe, Ganzsachen und dergleichen, entwertet oder nicht entwertet, die nicht zum Umlauf vorgesehen sind;
+b.
+zoologische, botanische, mineralogische oder anatomische Sammlerstücke und Sammlungen; Sammlerstücke von geschichtlichem, archäologischem, paläontologischem, völkerkundlichem oder münzkundlichem Wert;
+c.
+Motorfahrzeuge, deren erste Inverkehrsetzung beim Ankauf länger als 30 Jahre zurückliegt;
+d.
+Weine und andere Alkoholika, die mit Jahrgang versehen sind und mittels Nummerierung oder auf andere Art und Weise individualisierbar sind;
+e.
+Gegenstände aus Edelmetallen, Edelmetallplattierungen, Edelsteinen, Schmucksteinen und dergleichen wie Bijouterie, Juwelierwaren, Uhren und Münzen, die einen Sammlerwert haben.
+
+##### Art. 48b Margenbesteuerung bei zu einem Gesamtpreis erworbenen Gegenständen
+
+(Art. 24
+*a*
+Abs. 5 MWSTG)
+
+ Hat der Wiederverkäufer oder die Wiederverkäuferin Sammlerstücke zu einem Gesamtpreis erworben, so muss er oder sie für den Verkauf sämtlicher dieser Sammlerstücke die Margenbesteuerung anwenden.
+
+ Das Entgelt aus dem Wiederverkauf einzelner zu einem Gesamtpreis erworbener Sammlerstücke ist in der Abrechnungsperiode, in der es erzielt wurde, zu deklarieren. Sobald die Entgelte zusammen den Gesamtpreis übersteigen, sind sie zu versteuern.
+
+ Werden Sammlerstücke zusammen mit anderen Gegenständen zu einem Gesamtpreis erworben, so ist die Margenbesteuerung nur anwendbar, wenn der Anteil am Ankaufspreis, der auf die Sammlerstücke entfällt, annäherungsweise ermittelt werden kann.
+
+##### Art. 48c Rechnungsstellung
+
+(Art. 24
+*a*
+MWSTG)
+
+Weist die steuerpflichtige Person die Steuer beim Wiederverkauf von Sammlerstücken offen aus, so schuldet sie die Steuer und kann weder die Margenbesteuerung anwenden noch die fiktive Vorsteuer abziehen.
+
+##### Art. 48d Aufzeichnungen
+
+(Art. 24
+*a*
+MWSTG)
+
+Die steuerpflichtige Person muss über die Sammlerstücke eine Bezugs- und Verkaufskontrolle führen. Bei zu einem Gesamtpreis erworbenen Gegenständen sind pro Gesamtheit separate Aufzeichnungen zu führen.
+
+##### Art. 48e51 Margenbesteuerung für elektronische Plattformen
+
+(Art. 24
+*a*
+MWSTG)
+
+Wer als Leistungserbringer oder Leistungserbringerin nach Artikel 20
+*a*
+MWSTG gilt, kann die Margenbesteuerung nur anwenden, sofern der Verkäufer oder die Verkäuferin des Gegenstandes im Inland ansässig und nicht im Mehrwertsteuerregister eingetragen ist.
+
+### 2. Abschnitt:  Steuersätze
+
+##### Art. 4952 Medikamente
+
+(Art. 25 Abs. 2 Bst. a Ziff. 8 MWSTG)
+
+Als Medikamente gelten:
+
+a.
+nach Artikel 9 Absatz 1 des Heilmittelgesetzes vom 15. Dezember 2000
+(HMG) zugelassene verwendungsfertige Arzneimittel und Tierarzneimittel-Vormischungen sowie die entsprechenden galenisch fertigen Produkte;
+b.
+verwendungsfertige Arzneimittel, die nach Artikel 9 Absätze 2 und 2
+ter
+HMG keiner Zulassung bedürfen, mit Ausnahme von menschlichem und tierischem Vollblut;
+c.
+verwendungsfertige Arzneimittel, die nach Artikel 9
+*a*
+HMG eine befristete Zulassung oder nach Artikel 9
+*b*
+HMG eine befristete Bewilligung erhalten haben;
+d.
+nicht zugelassene verwendungsfertige Arzneimittel nach den Artikeln 48 und 49 Absätze 1–4 der Arzneimittel-Bewilligungsverordnung vom 14. November 2018
+sowie nach den Artikeln 7–7
+*c*
+der Tierarzneimittelverordnung vom 18. August 2004
+
+##### Art. 50 Zeitungen und Zeitschriften ohne Reklamecharakter
+
+(Art. 25 Abs. 2 Bst. a Ziff. 9 MWSTG)
+
+Als Zeitungen und Zeitschriften ohne Reklamecharakter gelten Druckerzeugnisse, welche die folgenden Voraussetzungen erfüllen:
+
+a.
+Sie erscheinen periodisch, mindestens zweimal pro Jahr.
+b.
+Sie dienen der laufenden Orientierung über Wissenswertes oder der Unterhaltung.
+c.
+Sie tragen einen gleich bleibenden Titel.
+d.
+Sie enthalten eine fortlaufende Nummerierung sowie die Angabe des Erscheinungsdatums und der Erscheinungsweise.
+e.
+Sie sind äusserlich als Zeitungen oder Zeitschriften aufgemacht.
+f.
+Sie weisen nicht überwiegend Flächen zur Aufnahme von Eintragungen auf.
+
+##### Art. 50a59 Elektronische Zeitungen und Zeitschriften ohne Reklamecharakter
+
+(Art. 25 Abs. 2 Bst. a
+bis
+MWSTG)
+
+ Als elektronische Zeitungen und Zeitschriften ohne Reklamecharakter gelten elektronische Erzeugnisse, die:
+
+a.
+auf elektronischem Weg übermittelt oder auf Datenträgern angeboten werden;
+b.
+überwiegend text- oder bildbasiert sind; und
+c.
+im Wesentlichen die gleiche Funktion wie gedruckte Zeitungen und Zeitschriften nach Artikel 50 erfüllen.
+
+ Zu den elektronischen Zeitungen und Zeitschriften ohne Reklamecharakter gehören auch Hörzeitungen und -zeitschriften, die inhaltlich überwiegend dem Originalwerk entsprechen.
+
+##### Art. 51 Bücher und andere Druckerzeugnisse ohne Reklamecharakter
+
+(Art. 25 Abs. 2 Bst. a Ziff. 9 MWSTG)
+
+Als Bücher und andere Druckerzeugnisse ohne Reklamecharakter gelten Druckerzeugnisse, welche die folgenden Voraussetzungen erfüllen:
+
+a.
+Sie weisen Buch-, Broschüren- oder Loseblattform auf; Loseblattwerke gelten als Bücher, wenn sie sich aus einer Einbanddecke, versehen mit einer Schraub-, Spiral- oder Schnellheftung, und den darin einzuordnenden losen Blättern zusammensetzen, als vollständiges Werk mindestens 16 Seiten umfassen und der Titel des Werks auf der Einbanddecke erscheint.
+b.
+Sie weisen inklusive Umschlag und Deckseiten mindestens 16 Seiten auf, mit Ausnahme von Kinderbüchern, gedruckten Musikalien und Teilen zu Loseblattwerken.
+c.
+Sie weisen einen religiösen, literarischen, künstlerischen, unterhaltenden, erzieherischen, belehrenden, informierenden, technischen oder wissenschaftlichen Inhalt auf.
+d.
+Sie sind nicht zur Aufnahme von Eintragungen oder Sammelbildern bestimmt, mit Ausnahme von Schul- und Lehrbüchern sowie bestimmten Kinderbüchern wie Übungsheften mit Illustrationen und ergänzendem Text und Zeichen- und Malbüchern mit Vorgaben und Anleitungen.
+
+##### Art. 51a60 Elektronische Bücher ohne Reklamecharakter
+
+(Art. 25 Abs. 2 Bst. a
+bis
+MWSTG)
+
+ Als elektronische Bücher ohne Reklamecharakter gelten elektronische Erzeugnisse, die:
+
+a.
+auf elektronischem Weg übermittelt oder auf Datenträgern angeboten werden;
+b.
+in sich geschlossene, überwiegend text- oder bildbasierte und nicht interaktive Einzelwerke sind; und
+c.
+im Wesentlichen die gleiche Funktion wie gedruckte Bücher nach Artikel 51 erfüllen.
+
+ Zu den elektronischen Büchern ohne Reklamecharakter gehören auch Hörbücher, die inhaltlich überwiegend dem Originalwerk entsprechen.
+
+##### Art. 5261 Reklamecharakter
+
+(Art. 25 Abs. 2 Bst. a Ziff. 9 und Bst. a
+bis
+MWSTG)
+
+ Druck- und elektronische Erzeugnisse haben Reklamecharakter, wenn bei ihrem Inhalt die Werbung für die geschäftlichen Tätigkeiten der Herausgeberschaft oder einer hinter dieser stehenden Drittperson im Vordergrund steht.
+
+ Als hinter der Herausgeberschaft stehende Drittpersonen gelten:
+
+a.
+Personen und Unternehmen, für die die Herausgeberschaft handelt oder die die Herausgeberschaft beherrscht; oder
+b.
+sonstige mit der Herausgeberschaft eng verbundene Personen im Sinn von Artikel 3 Buchstabe h MWSTG.
+
+ Als Werbung gelten sowohl die direkte Werbung, wie Reklame oder Inserate, als auch die indirekte Werbung, wie Publireportagen oder Publimitteilungen.
+
+##### Art. 53 Zubereitung vor Ort und Servierleistung
+
+(Art. 25 Abs. 3 MWSTG)
+
+ Als Zubereitung gelten namentlich das Kochen, Erwärmen, Mixen, Rüsten und Mischen von Lebensmitteln
+. Nicht als Zubereitung gilt das blosse Bewahren der Temperatur konsumbereiter Lebensmittel.
+
+ Als Servierleistung gelten namentlich das Anrichten von Speisen auf Tellern, das Bereitstellen von kalten oder warmen Buffets, der Ausschank von Getränken, das Decken und Abräumen von Tischen, das Bedienen der Gäste, die Leitung oder Beaufsichtigung des Service-Personals sowie die Betreuung und Versorgung von Selbstbedienungsbuffets.
+
+##### Art. 54 Besondere Konsumvorrichtungen an Ort und Stelle
+
+(Art. 25 Abs. 3 MWSTG)
+
+ Als besondere Vorrichtungen zum Konsum von Lebensmitteln an Ort und Stelle (Konsumvorrichtungen) gelten namentlich Tische, Stehtische, Theken und andere für den Konsum zur Verfügung stehende Abstellflächen oder entsprechende Vorrichtungen, namentlich in Beförderungsmitteln. Unerheblich ist:
+
+a.
+wem die Vorrichtungen gehören;
+b.
+ob der Kunde oder die Kundin die Vorrichtung tatsächlich benutzt;
+c.
+ob die Vorrichtungen ausreichen, um sämtlichen Kunden und Kundinnen den Konsum an Ort und Stelle zu ermöglichen.
+
+ Nicht als Konsumvorrichtungen gelten:
+
+a.
+blosse Sitzgelegenheiten ohne dazugehörige Tische, die in erster Linie als Ausruhmöglichkeit dienen;
+b.
+bei Kiosks oder Restaurants auf Campingplätzen: die Zelte und Wohnwagen der Mieter und Mieterinnen.
+
+##### Art. 55 Zum Mitnehmen oder zur Auslieferung bestimmte Lebensmittel
+
+(Art. 25 Abs. 3 MWSTG)
+
+ Als Auslieferung gilt die Lieferung von Lebensmitteln durch die steuerpflichtige Person an ihre Kundschaft an deren Domizil oder an einen andern von ihr bezeichneten Ort ohne jede weitere Zubereitung oder Servierleistung.
+
+ Als zum Mitnehmen bestimmte Lebensmittel gelten Lebensmittel, die der Kunde oder die Kundin nach dem Kauf an einen anderen Ort verbringt und nicht im Betrieb des Leistungserbringers oder der Leistungserbringerin konsumiert. Für das Mitnehmen spricht namentlich:
+
+a.
+der durch den Kunden oder die Kundin bekannt gegebene Wille zum Mitnehmen der Lebensmittel;
+b.
+die Abgabe der Lebensmittel in einer speziellen, für den Transport geeigneten Verpackung;
+c.
+die Abgabe von Lebensmitteln, die nicht für den unmittelbaren Verzehr geeignet sind.
+
+ Für bestimmte Betriebe und Anlässe sieht die ESTV Vereinfachungen im Sinn von Artikel 80 MWSTG vor.
+
+##### Art. 56 Geeignete organisatorische Massnahme
+
+(Art. 25 Abs. 3 MWSTG)
+
+Eine geeignete organisatorische Massnahme ist namentlich das Ausstellen von Belegen, anhand derer festgestellt werden kann, ob eine gastgewerbliche Leistung oder eine Auslieferung beziehungsweise eine Lieferung zum Mitnehmen erbracht wurde.
+
+## 4. Kapitel:  Rechnungsstellung und Steuerausweis
+
+(Art. 26 Abs. 3 MWSTG)
+
+##### Art. 57
+
+Kassenzettel für Beträge bis 400 Franken müssen keine Angaben über den Leistungsempfänger oder die Leistungsempfängerin enthalten. Solche Kassenzettel berechtigen nicht zu einer Steuerrückerstattung im Vergütungsverfahren.
+
+## 5. Kapitel:  Vorsteuerabzug
+
+### 1. Abschnitt:  Allgemeines
+
+##### Art. 58 Vorsteuerabzug bei ausländischer Währung
+
+(Art. 28 MWSTG)
+
+Für die Berechnung der abziehbaren Vorsteuern gilt Artikel 45 sinngemäss.
+
+##### Art. 59 Nachweis
+
+(Art. 28 Abs. 1 Bst. a MWSTG)
+
+ Die Inlandsteuer gilt als in Rechnung gestellt, wenn der Leistungserbringer oder die Leistungserbringerin für den Leistungsempfänger oder die Leistungsempfängerin erkennbar von diesem oder dieser die Mehrwertsteuer eingefordert hat.
+
+ Der Leistungsempfänger oder die Leistungsempfängerin muss nicht prüfen, ob die Mehrwertsteuer zu Recht eingefordert wurde. Weiss er oder sie aber, dass die Person, die die Mehrwertsteuer überwälzt hat, nicht als steuerpflichtige Person eingetragen ist, so ist der Vorsteuerabzug ausgeschlossen.
+
+##### Art. 6063
+
+##### Art. 6164
+
+### 2. Abschnitt:65 Abzug fiktiver Vorsteuer
+
+##### Art. 62 Edelmetalle und Edelsteine
+
+(Art. 28
+*a*
+Abs. 1 Bst. a MWSTG)
+
+Nicht als individualisierbare bewegliche Gegenstände gelten Edelmetalle der Zolltarifnummern 7106–7112
+und Edelsteine der Zolltarifnummern 7102–7105.
+
+##### Art. 63 Berechtigung zum Abzug der fiktiven Vorsteuer
+
+(Art. 28
+*a*
+Abs. 1 und 2 MWSTG)
+
+ Werden ausschliesslich individualisierbare bewegliche Gegenstände zu einem Gesamtpreis erworben, so ist ein Abzug der fiktiven Vorsteuer zulässig.
+
+ Der Abzug der fiktiven Vorsteuer ist ausgeschlossen, wenn im Gesamtpreis Sammlerstücke (Art. 48
+*a*
+) oder nicht individualisierbare bewegliche Gegenstände enthalten sind und der Anteil am Ankaufspreis, der auf Gegenstände nach Artikel 28
+*a*
+MWSTG entfällt, nicht annährungsweise ermittelt werden kann.
+
+ Der Abzug der fiktiven Vorsteuer ist ausgeschlossen, wenn:
+
+a.
+beim Erwerb des Gegenstands das Meldeverfahren nach Artikel 38 MWSTG zur Anwendung kam;
+b.
+die steuerpflichtige Person den Gegenstand eingeführt hat;
+c.
+Gegenstände nach Artikel 23 Absatz 2 Ziffer 12 MWSTG erworben wurden;
+d.
+die steuerpflichtige Person weiss oder wissen müsste, dass der Gegenstand steuerbefreit eingeführt wurde;
+e.
+die steuerpflichtige Person den Gegenstand von einem Begünstigten oder einer Begünstigten nach Artikel 2 des Gaststaatgesetzes vom 22. Juni 2007
+(GSG) bezogen hat.
+
+ Bei Zahlungen im Rahmen der Schadenregulierung ist der Abzug der fiktiven Vorsteuer nur auf dem tatsächlichen Wert des Gegenstandes im Zeitpunkt der Übernahme zulässig.
+
+ Wer als Leistungserbringer oder Leistungserbringerin nach Artikel 20
+*a*
+MWSTG gilt, kann den Abzug der fiktiven Vorsteuer nur anwenden, sofern der Verkäufer oder die Verkäuferin des Gegenstandes im Inland ansässig und nicht im Mehrwertsteuerregister eingetragen ist.
+
+Die Berichtigung vom 30. Jan. 2018 betrifft nur den italienischen Text (
+
+##### Art. 64
+
+Aufgehoben
+
+### 3. Abschnitt:  Korrektur des Vorsteuerabzugs
+
+##### Art. 65 Methoden zur Berechnung der Korrektur
+
+(Art. 30 MWSTG)
+
+Die Korrektur des Vorsteuerabzugs kann berechnet werden:
+
+a.
+nach dem effektiven Verwendungszweck;
+b.
+anhand von Pauschalmethoden mit von der ESTV festgelegten Pauschalen;
+c.
+gestützt auf eigene Berechnungen.
+
+##### Art. 66 Pauschalmethoden
+
+(Art. 30 MWSTG)
+
+Die ESTV legt namentlich Pauschalen fest für:
+
+a.
+Tätigkeiten von Banken;
+b.
+die Tätigkeit von Versicherungsgesellschaften;
+c.
+Tätigkeiten von spezialfinanzierten Dienststellen von Gemeinwesen;
+d.
+die Gewährung von Krediten sowie für Zinseinnahmen und Einnahmen aus dem Handel mit Wertpapieren;
+e.
+die Verwaltung von eigenen Immobilien, für deren Versteuerung nicht nach Artikel 22 MWSTG optiert wird;
+f.
+Transportunternehmen des öffentlichen Verkehrs.
+
+##### Art. 67 Eigene Berechnungen
+
+(Art. 30 MWSTG)
+
+Stützt die steuerpflichtige Person die Korrektur des Vorsteuerabzugs auf eigene Berechnungen, so muss sie die Sachverhalte, die ihren Berechnungen zugrunde liegen, umfassend belegen sowie eine Plausibilitätsprüfung durchführen.
+
+##### Art. 68 Wahl der Methode
+
+(Art. 30 MWSTG)
+
+ Die steuerpflichtige Person kann zur Berechnung der Korrektur des Vorsteuerabzugs eine oder mehrere Methoden anwenden, sofern dies zu einem sachgerechten Ergebnis führt.
+
+ Als sachgerecht gilt jede Anwendung einer oder mehrerer Methoden, die den Grundsatz der Erhebungswirtschaftlichkeit berücksichtigt, betriebswirtschaftlich nachvollziehbar ist und die Vorsteuern nach Massgabe der Verwendung für eine bestimmte Tätigkeit zuteilt.
+
+### 4. Abschnitt:  Eigenverbrauch
+
+##### Art. 69 Grundsätze
+
+(Art. 31 MWSTG)
+
+ Der Vorsteuerabzug ist auf nicht in Gebrauch genommenen Gegenständen und Dienstleistungen vollumfänglich zu korrigieren.
+
+ Der Vorsteuerabzug ist auf in Gebrauch genommenen Gegenständen und Dienstleistungen zu korrigieren, die im Zeitpunkt des Wegfalls der Voraussetzungen des Vorsteuerabzugs noch vorhanden sind und einen Zeitwert haben. Bei Dienstleistungen in den Bereichen Beratung, Buchführung, Personalbeschaffung, Management und Werbung wird vermutet, dass sie bereits im Zeitpunkt ihres Bezugs verbraucht und nicht mehr vorhanden sind.
+
+ Bei selbst hergestellten Gegenständen ist für die Ingebrauchnahme der Infrastruktur ein Pauschalzuschlag von 33 Prozent auf den Vorsteuern auf Material und allfälligen Drittarbeiten bei Halbfabrikaten vorzunehmen. Vorbehalten bleibt der effektive Nachweis der Vorsteuern, die auf die Ingebrauchnahme der Infrastruktur entfallen.
+
+ Fallen die Voraussetzungen des Vorsteuerabzugs nur teilweise weg, so ist die Korrektur im Ausmass der nicht mehr zum Vorsteuerabzug berechtigenden Nutzung vorzunehmen.
+
+##### Art. 70 Ermittlung des Zeitwerts
+
+(Art. 31 Abs. 3 MWSTG)
+
+ Zu berechnen ist der Zeitwert auf der Grundlage des Anschaffungspreises, bei Immobilien ohne Wert des Bodens, sowie der wertvermehrenden Aufwendungen. Nicht zu berücksichtigen sind die werterhaltenden Aufwendungen. Werterhaltende Aufwendungen sind solche, die lediglich dazu dienen, den Wert eines Gegenstands sowie seine Funktionsfähigkeit zu erhalten, namentlich Service-, Unterhalts-, Betriebs-, Reparatur- und Instandstellungskosten.
+
+ Bei der Ermittlung des Zeitwerts von in Gebrauch genommenen Gegenständen und Dienstleistungen ist in der ersten Steuerperiode der Ingebrauchnahme der Wertverlust für die ganze Steuerperiode zu berücksichtigen. In der letzten noch nicht abgelaufenen Steuerperiode ist hingegen keine Abschreibung vorzunehmen, ausser die Nutzungsänderung tritt am letzten Tag der Steuerperiode ein.
+
+##### Art. 71 Grossrenovationen von Liegenschaften
+
+(Art. 31 MWSTG)
+
+Übersteigen die Renovationskosten einer Bauphase insgesamt 5 Prozent des Gebäudeversicherungswerts vor der Renovation, so muss der Vorsteuerabzug um die gesamten Kosten korrigiert werden, unabhängig davon, ob es sich um Kosten für wertvermehrende oder für werterhaltende Aufwendungen handelt.
+
+### 5. Abschnitt:  Einlageentsteuerung
+
+##### Art. 72 Grundsätze
+
+(Art. 32 MWSTG)
+
+ Der Vorsteuerabzug kann auf nicht in Gebrauch genommenen Gegenständen und Dienstleistungen vollumfänglich korrigiert werden.
+
+ Der Vorsteuerabzug kann auf in Gebrauch genommenen Gegenständen und Dienstleistungen korrigiert werden, die im Zeitpunkt des Eintritts der Voraussetzungen des Vorsteuerabzugs noch vorhanden sind und einen Zeitwert haben. Bei Dienstleistungen in den Bereichen Beratung, Buchführung, Personalbeschaffung, Management und Werbung wird vermutet, dass sie bereits im Zeitpunkt ihres Bezugs verbraucht und nicht mehr vorhanden sind.
+
+ Bei selbst hergestellten Gegenständen kann für die Ingebrauchnahme der Infrastruktur ein Pauschalzuschlag von 33 Prozent auf den Vorsteuern auf Material und allfälligen Drittarbeiten bei Halbfabrikaten vorgenommen werden. Vorbehalten bleibt der effektive Nachweis der Vorsteuern, die auf die Ingebrauchnahme der Infrastruktur entfallen.
+
+ Treten die Voraussetzungen des Vorsteuerabzugs nur teilweise ein, so kann die Korrektur nur im Ausmass der nun zum Vorsteuerabzug berechtigenden Nutzung vorgenommen werden.
+
+##### Art. 73 Ermittlung des Zeitwerts
+
+(Art. 32 Abs. 2 MWSTG)
+
+ Zu berechnen ist der Zeitwert auf der Grundlage des Anschaffungspreises, bei Immobilien ohne Wert des Bodens, sowie der wertvermehrenden Aufwendungen. Nicht zu berücksichtigen sind die werterhaltenden Aufwendungen. Werterhaltende Aufwendungen sind solche, die lediglich dazu dienen, den Wert eines Gegenstands sowie seine Funktionsfähigkeit zu erhalten, namentlich Service-, Unterhalts-, Betriebs-, Reparatur- und Instandstellungskosten.
+
+ Bei der Ermittlung des Zeitwerts von in Gebrauch genommenen Gegenständen und Dienstleistungen ist in der ersten Steuerperiode der Ingebrauchnahme der Wertverlust für die ganze Steuerperiode zu berücksichtigen. In der letzten noch nicht abgelaufenen Steuerperiode ist hingegen keine Abschreibung vorzunehmen, ausser die Nutzungsänderung tritt am letzten Tag der Steuerperiode ein.
+
+##### Art. 74 Grossrenovationen von Liegenschaften
+
+(Art. 32 MWSTG)
+
+Übersteigen die Renovationskosten einer Bauphase insgesamt 5 Prozent des Gebäudeversicherungswerts vor der Renovation, so kann der Vorsteuerabzug um die gesamten Kosten korrigiert werden, unabhängig davon, ob es sich um Kosten für wertvermehrende oder für werterhaltende Aufwendungen handelt.
+
+### 6. Abschnitt:  Kürzung des Vorsteuerabzugs
+
+(Art. 33 Abs. 2 MWSTG)
+
+##### Art. 75
+
+ Keine Vorsteuerabzugskürzung ist vorzunehmen, soweit die Mittel nach Artikel 18 Absatz 2 Buchstaben a–c MWSTG einem Tätigkeitsbereich zuzuordnen sind, für den keine Vorsteuer anfällt oder für den kein Anspruch auf Vorsteuerabzug besteht.
+
+ Soweit die Mittel nach Artikel 18 Absatz 2 Buchstaben a–c MWSTG einem bestimmten Tätigkeitsbereich zugeordnet werden können, ist nur die Vorsteuer auf den Aufwendungen für diesen Tätigkeitsbereich zu kürzen.
+
+ Werden die Mittel nach Artikel 18 Absatz 2 Buchstaben a–c MWSTG zur Deckung eines Betriebsdefizits entrichtet, so ist die Vorsteuer gesamthaft im Verhältnis dieser Mittel zu den Gesamteinnahmen zu kürzen. Die Gesamteinnahmen setzen sich zusammen aus dem Total der Umsätze exklusive Mehrwertsteuer und den Einnahmen, die nicht zu den Entgelten zählen.
+
+## 6. Kapitel:  Ermittlung und Entstehung der Steuerforderung
+
+### 1. Abschnitt:  Geschäftsabschluss
+
+(Art. 34 Abs. 3 MWSTG)
+
+##### Art. 7673
+
+Tritt zu einem späteren Zeitpunkt in Kraft.
+
+### 1a. Abschnitt:74 Jährliche Abrechnung
+
+##### Art. 76a Jährliche Abrechnung bei Beginn der Steuerpflicht
+
+(Art. 35 Abs. 1
+bis
+Bst. b, 35
+*a*
+und 86
+*a*
+MWSTG)
+
+ Neu im Mehrwertsteuerregister eingetragene Personen, welche die jährliche Abrechnung anwenden wollen, müssen dies bei der ESTV spätestens 60 Tage nach Zustellung der Mehrwertsteuernummer beantragen.
+
+ Die ESTV bewilligt die Anwendung der jährlichen Abrechnung, wenn der in den ersten zwölf Monaten erwartete Umsatz mit Mehrwertsteuer die Grenze von Artikel 35 Absatz 1
+bis
+Buchstabe b MWSTG nicht überschreitet.
+
+ Nach Ablauf der Frist von Absatz 1 kann die steuerpflichtige Person die jährliche Abrechnung frühestens nach einer Steuerperiode beantragen.
+
+##### Art. 76b Wechsel zur jährlichen Abrechnung
+
+(Art. 35 Abs. 1
+bis
+Bst. b, 35
+*a*
+und 86
+*a*
+MWSTG)
+
+ Steuerpflichtige Personen, die zur jährlichen Abrechnung wechseln wollen, müssen dies spätestens 60 Tage nach Beginn der Steuerperiode, ab welcher der Wechsel erfolgen soll, beantragen.
+
+ Die ESTV bewilligt die jährliche Abrechnung, wenn die steuerpflichtige Person:
+
+a.
+in der vorangegangenen Steuerperiode die Umsatzgrenze von Artikel 35 Absatz 1
+bis
+Buchstabe b MWSTG nicht überschritten hat; und
+b.
+in den vorangegangenen drei Steuerperioden oder, wenn die Steuerpflicht weniger lang besteht, seit Beginn der Steuerpflicht alle Abrechnungen fristgerecht eingereicht und alle Steuerforderungen vollumfänglich und fristgerecht bezahlt hat.
+
+##### Art. 76c Ende der jährlichen Abrechnung
+
+(Art. 35 Abs. 1
+bis
+Bst. b, 35
+*a*
+*,*
+86 Abs. 2 und 86
+*a*
+MWSTG)
+
+ Steuerpflichtige Personen, welche die jährliche Abrechnung nicht mehr anwenden wollen, müssen dies der ESTV spätestens 60 Tage nach Beginn der Steuerperiode, ab welcher der Wechsel erfolgen soll, melden.
+
+ Die ESTV widerruft die Genehmigung der jährlichen Abrechnung:
+
+a.
+auf den Beginn der nächsten Steuerperiode, wenn die steuerpflichtige Person die in Artikel 35 Absatz 1
+bis
+Buchstabe b MWSTG festgelegte Umsatzgrenze in drei aufeinander folgenden Steuerperioden überschritten hat;
+b.
+auf den Beginn der übernächsten Steuerperiode, wenn:
+1.
+die steuerpflichtige Person eine Herabsetzung der Raten beantragt hat, durch die in der laufenden Steuerperiode das Total der Raten im Verhältnis zum Steuerbetrag gemäss Abrechnung folgenden Wert unterschreitet:
+–
+bei effektiver Abrechnung und bei Abrechnung mit Pauschalsteuersätzen: 50 Prozent
+–
+bei Abrechnung mit Saldosteuersätzen: 35 Prozent,
+2.
+die ESTV wegen Nichteinreichens der Abrechnung den geschuldeten Steuerbetrag gestützt auf Artikel 86 Absatz 2 zweiter Satz MWSTG nach pflichtgemässem Ermessen bestimmt hat, oder
+3.
+die ESTV gestützt auf Artikel 86 Absatz 2 erster Satz Forderungen in Betreibung gesetzt hat.
+
+##### Art. 76d Anpassung der Raten
+
+(Art. 35 Abs. 1
+bis
+Bst. b, 35
+*a*
+und 86
+*a*
+MWSTG)
+
+Eine Anpassung der Raten ist nur vor deren Fälligkeit möglich.
+
+### 2. Abschnitt:  Saldosteuersatzmethode
+
+##### Art. 77 Grundsätze
+
+(Art. 37 Abs. 1–4 MWSTG)
+
+ Bei der Abklärung, ob die Voraussetzungen nach Artikel 37 MWSTG erfüllt sind, sind die im Inland gegen Entgelt erbrachten steuerbaren Leistungen zu berücksichtigen.
+
+ Die Saldosteuersatzmethode kann nicht gewählt werden von steuerpflichtigen Personen, die:
+
+a.
+nach Artikel 37 Absatz 5 MWSTG nach der Pauschalsteuersatzmethode abrechnen können;
+b.
+das Verlagerungsverfahren nach Artikel 63 MWSTG anwenden;
+c.
+die Gruppenbesteuerung nach Artikel 13 MWSTG anwenden;
+d.
+ihren Sitz oder eine Betriebsstätte in den Talschaften Samnaun oder Sampuoir haben;
+e.
+mehr als 50 Prozent ihres Umsatzes aus steuerbaren Leistungen an andere steuerpflichtige, nach der effektiven Abrechnungsmethode abrechnende Personen erzielen, sofern die beteiligten Personen unter einheitlicher Leitung stehen;
+f.
+gestützt auf Artikel 7 Absatz 3 MWSTG Lieferungen im Inland erbringen;
+g.
+als Leistungserbringer oder Leistungserbringerinnen nach Artikel 20
+*a*
+MWSTG gelten;
+h.
+ihren Sitz im Ausland haben.
+
+ Steuerpflichtige Personen, die mit der Saldosteuersatzmethode abrechnen, können nicht für die Versteuerung von Leistungen nach Artikel 21 Absatz 2 Ziffern 1–24 und 27–31 MWSTG optieren. Wird die Steuer gleichwohl in Rechnung gestellt, so ist die ausgewiesene Steuer unter Vorbehalt von Artikel 27 Absatz 2 MWSTG der ESTV abzuliefern.
+
+##### Art. 7880 Saldosteuersatzmethode bei Beginn der Steuerpflicht
+
+(Art. 37 Abs. 1–4 MWSTG)
+
+ Neu ins Mehrwertsteuerregister eingetragene Personen, die sich der Saldosteuersatzmethode unterstellen wollen, müssen dies der ESTV innert 60 Tagen nach Zustellung der Mehrwertsteuernummer melden.
+
+ Die ESTV bewilligt die Anwendung der Saldosteuersatzmethode, wenn in den ersten 12 Monaten sowohl der erwartete Umsatz als auch die erwarteten Steuern die Grenzen von Artikel 37 Absatz 1 MWSTG nicht überschreiten.
+
+ Erfolgt keine Meldung innert der Frist von Absatz 1, so muss die steuerpflichtige Person mindestens drei ganze Steuerperioden nach der effektiven Abrechnungsmethode abrechnen, bevor sie sich der Saldosteuersatzmethode unterstellen kann. Ein früherer Wechsel ist bei jeder Anpassung des betreffenden Saldosteuersatzes möglich, die nicht auf eine Änderung der Steuersätze nach den Artikeln 25 und 55 MWSTG zurückzuführen ist.
+
+ Die Absätze 1–3 gelten bei rückwirkenden Eintragungen sinngemäss.
+
+ Die bei Beginn der Steuerpflicht auf Gegenständen und Dienstleistungen lastende Steuer wird mit der Anwendung der Saldosteuersatzmethode berücksichtigt. Eine Einlageentsteuerung kann nicht vorgenommen werden.
+
+##### Art. 7981 Wechsel von der effektiven Abrechnungsmethode zur Saldosteuersatzmethode
+
+(Art. 37 Abs. 1–4 MWSTG)
+
+ Steuerpflichtige Personen, die von der effektiven Abrechnungsmethode zur Saldosteuersatzmethode wechseln wollen, müssen dies der ESTV bis spätestens 60 Tage nach Beginn der Steuerperiode, ab welcher der Wechsel erfolgen soll, melden.
+
+ Die ESTV bewilligt die Anwendung der Saldosteuersatzmethode, wenn in der vorangegangenen Steuerperiode keine der Grenzen von Artikel 37 Absatz 1 MWSTG überschritten wurde.
+
+ Auf dem Zeitwert der Gegenstände und Dienstleistungen im Zeitpunkt des Wechsels ist die früher in Abzug gebrachte Vorsteuer einschliesslich ihrer als Einlageentsteuerung korrigierten Anteile an die ESTV zurückzuerstatten. Die Deklaration hat in der letzten Abrechnungsperiode vor dem Wechsel zu erfolgen. Artikel 31 Absatz 3 MWSTG und die Artikel 69 Absätze 1–3, 70 und 71 gelten sinngemäss.
+
+ Wird gleichzeitig mit der Unterstellung unter die Saldosteuersatzmethode auch die Abrechnungsart nach Artikel 39 MWSTG geändert, so sind per Umstellungsdatum zusätzlich folgende Korrekturen vorzunehmen:
+
+a.
+Wird von vereinbarten auf vereinnahmte Entgelte gewechselt, so hat die steuerpflichtige Person in der letzten Abrechnungsperiode vor dem Wechsel Folgendes rückgängig zu machen:
+1.
+die deklarierte Steuer auf den von ihr in Rechnung gestellten, aber noch nicht bezahlten steuerbaren Leistungen (Debitorenposten); und
+2.
+den Vorsteuerabzug auf den ihr in Rechnung gestellten, aber noch nicht bezahlten steuerbaren Leistungen (Kreditorenposten), sofern es sich dabei um Vorsteuern handelt, die nicht bereits aufgrund von Absatz 3 korrigiert werden müssen.
+b.
+Wird von vereinnahmten auf vereinbarte Entgelte gewechselt, so hat die steuerpflichtige Person in der letzten Abrechnungsperiode vor dem Wechsel:
+1.
+die Steuer auf den bestehenden Debitorenposten zum entsprechenden gesetzlichen Steuersatz zu deklarieren; und
+2.
+die auf den Kreditorenposten lastende Steuer als Vorsteuer abzuziehen.
+
+##### Art. 80 Entzug der Bewilligung
+
+(Art. 37 Abs. 1–4 MWSTG)
+
+Steuerpflichtigen Personen, denen die Anwendung der Saldosteuersatzmethode aufgrund falscher Angaben gewährt wurde, kann die ESTV die Bewilligung rückwirkend bis auf den Zeitpunkt der Gewährung dieser Abrechnungsmethode entziehen.
+
+##### Art. 8182 Wechsel von der Saldosteuersatzmethode zur effektiven Abrechnungsmethode
+
+(Art. 37 Abs. 1–4 MWSTG)
+
+ Steuerpflichtige Personen, die von der Saldosteuersatzmethode zur effektiven Abrechnungsmethode wechseln wollen, müssen dies der ESTV bis spätestens 60 Tage nach Beginn der Steuerperiode, ab welcher der Wechsel erfolgen soll, melden.
+
+ Ein Wechsel ist vor Ablauf der ganzen Steuerperiode zulässig, wenn mit mindestens einem bewilligten Saldosteuersatz abgerechnet wird, den die ESTV angepasst hat, ohne dass die Anpassung auf eine Änderung der Steuersätze nach den Artikeln 25 und 55 MWSTG zurückzuführen ist. Der Wechsel erfolgt auf den Zeitpunkt der Änderung des Saldosteuersatzes.
+
+ Wer eine oder beide der in Artikel 37 Absatz 1 MWSTG festgelegten Grenzen in drei aufeinander folgenden Steuerperioden überschreitet, muss auf den Beginn der folgenden Steuerperiode zur effektiven Abrechnungsmethode wechseln.
+
+ Die im Zeitpunkt des Wechsels auf dem Zeitwert der Gegenstände und Dienstleistungen lastende Steuer kann in der ersten Abrechnungsperiode nach dem Wechsel als Vorsteuer abgezogen werden. Artikel 32 Absatz 2 MWSTG und die Artikel 72 Absätze 1–3, 73 und 74 gelten sinngemäss.
+
+ Wird gleichzeitig mit dem Wechsel zur effektiven Abrechnungsmethode auch die Abrechnungsart nach Artikel 39 MWSTG geändert, so sind per Umstellungsdatum zusätzlich folgende Korrekturen vorzunehmen:
+
+a.
+Wird von vereinbarten auf vereinnahmte Entgelte gewechselt, so muss die steuerpflichtige Person in der letzten Abrechnungsperiode vor dem Wechsel die Steuer abziehen, die sie auf den Debitorenposten deklariert hat; zusätzlich ist eine Belastung der Steuer auf den Kreditorenposten vorzunehmen, bei denen gestützt auf Absatz 4 eine Einlageentsteuerung möglich ist.
+b.
+Wird von vereinnahmten auf vereinbarte Entgelte gewechselt, so muss die steuerpflichtige Person in der letzten Abrechnungsperiode vor dem Wechsel auf den Debitorenposten die Steuer zu den bewilligten Saldosteuersätzen deklarieren; auf den Kreditorenposten sind keine Korrekturen vorzunehmen.
+
+##### Art. 82 Ende der Steuerpflicht
+
+(Art. 37 Abs. 1–4 MWSTG)
+
+ Stellt eine nach der Saldosteuersatzmethode abrechnende steuerpflichtige Person ihre Geschäftstätigkeit ein oder wird sie infolge Unterschreitens der Umsatzgrenze von Artikel 10 Absatz 2 Buchstabe a MWSTG von der Steuerpflicht befreit, so sind die bis zur Löschung aus dem Mehrwertsteuerregister erzielten Umsätze, die angefangenen Arbeiten und bei Abrechnung nach vereinnahmten Entgelten auch die Debitorenposten mit den bewilligten Saldosteuersätzen abzurechnen.
+
+ und
+ …
+
+##### Art. 8384 Übernahme von Vermögen im Meldeverfahren
+
+(Art. 37 Abs. 1–4 MWSTG)
+
+ Übernimmt eine nach der Saldosteuersatzmethode abrechnende steuerpflichtige Person im Meldeverfahren nach Artikel 38 MWSTG ein Gesamt- oder Teilvermögen oder sonstige Vermögenswerte von einer effektiv abrechnenden Person, so ist eine Korrektur im Sinne von Artikel 79 Absatz 3 vorzunehmen; vorbehalten bleibt Absatz 2.
+
+ Keine Korrektur ist vorzunehmen, wenn das Gesamt- oder Teilvermögen oder die sonstigen Vermögenswerte vom Veräusserer oder von der Veräusserin für eine nicht zum Vorsteuerabzug berechtigende Tätigkeit verwendet wurde.
+
+##### Art. 84 Abrechnung nach Saldosteuersätzen
+
+(Art. 37 Abs. 1–4 MWSTG)
+
+ Steuerpflichtige Personen müssen ihre Tätigkeiten zu den von der ESTV bewilligten Saldosteuersätzen abrechnen.
+
+ Wird eine Tätigkeit aufgegeben oder eine neue aufgenommen oder verändern sich die Umsatzanteile der Tätigkeiten derart, dass eine Neuzuteilung der Saldosteuersätze notwendig wird, so muss sich die steuerpflichtige Person mit der ESTV in Verbindung setzen.
+
+ Steuerpflichtige Personen, denen mehrere Saldosteuersätze bewilligt wurden, müssen die Erträge für jeden dieser Saldosteuersätze separat verbuchen.
+
+##### Art. 8586
+
+##### Art. 8687 Bewilligung der Saldosteuersätze
+
+(Art. 37 Abs. 1–4 MWSTG)
+
+ Für jede Tätigkeit, deren Anteil am Gesamtumsatz aus steuerbaren Leistungen mehr als 10 Prozent beträgt, wird der dafür festgelegte Saldosteuersatz bewilligt.
+
+ Massgebend für die Abklärung, ob die 10-Prozent-Grenze überschritten ist, sind:
+
+a.
+bei Personen, die neu steuerpflichtig werden, und bei steuerpflichtigen Personen, die eine neue Tätigkeit aufnehmen, die voraussichtlichen Umsätze in den ersten 12 Monaten;
+b.
+bei den übrigen steuerpflichtigen Personen die in den drei vorangegangenen Steuerperioden erzielten Umsätze, wobei der Anteil der betreffenden Tätigkeit am Gesamtumsatz aus steuerbaren Leistungen in jeder dieser Steuerperioden mehr als 10 Prozent betragen haben muss.
+
+ Die Umsätze von Tätigkeiten mit gleichem Saldosteuersatz sind bei der Abklärung, ob die 10-Prozent-Grenze überschritten wird, zusammenzuzählen.
+
+ Überschreitet der Umsatz einer Tätigkeit oder der Umsatz mehrerer Tätigkeiten, für die der gleiche Saldosteuersatz festgelegt ist, während drei aufeinander folgenden Steuerperioden die 10-Prozent-Grenze nicht mehr, so fällt die Bewilligung zur Anwendung des betreffenden Saldosteuersatzes auf den Beginn der vierten Steuerperiode dahin.
+
+##### Art. 8788
+
+##### Art. 8889 Versteuerung der einzelnen Tätigkeiten
+
+(Art. 37 Abs. 1–4 MWSTG)
+
+ Die Umsätze aus Tätigkeiten der steuerpflichtigen Person, der mehr als ein Saldosteuersatz bewilligt worden ist, sind zum bewilligten Saldosteuersatz zu versteuern, der für die betreffende Tätigkeit festgelegt ist.
+
+ Wurde für eine Tätigkeit der dafür festgelegte Saldosteuersatz nicht bewilligt, so sind die damit erzielten Umsätze wie folgt zu versteuern:
+
+a.
+zum nächsttieferen bewilligten Saldosteuersatz, wenn kein höherer Satz bewilligt ist;
+b.
+zum nächsthöheren bewilligten Saldosteuersatz in den übrigen Fällen.
+
+ In den Fällen von Artikel 19 Absatz 2 MWSTG kann das Gesamtentgelt mit dem bewilligten Saldosteuersatz abgerechnet werden, der nach den Artikeln 84 und 86 sowie nach den Absätzen 1 und 2 für die überwiegende Leistung massgebend ist.
+
+ Unterliegen die Leistungen alle dem gleichen Steuersatz nach Artikel 25 MWSTG, so sind die einzelnen Teilleistungen zu den hierfür bewilligten Saldosteuersätzen abzurechnen.
+
+ Kann die steuerpflichtige Person nicht nachweisen, welche Anteile auf die einzelnen Teilleistungen entfallen, ist das Gesamtentgelt zum höchsten Saldosteuersatz abzurechnen, der für diese Leistungen bewilligt wurde.
+
+ Die steuerpflichtige Person kann den gesamten Umsatz aus steuerbaren Leistungen freiwillig zum höchsten bewilligten Saldosteuersatz abrechnen.
+
+##### Art. 8990
+
+##### Art. 9091 Besondere Verfahren
+
+(Art. 37 Abs. 1–4 MWSTG)
+
+Die ESTV stellt Betrieben und Anlässen nach Artikel 55 Absatz 3 eine Pauschalregelung für die Aufteilung der Umsätze auf gastgewerbliche Leistungen und auf Verkäufe von zum Mitnehmen bestimmten Lebensmitteln nach Artikel 55 Absatz 2 zur Verfügung.
+
+##### Art. 9192 Abrechnung der Bezugsteuer
+
+(Art. 37 Abs. 1–4 MWSTG)
+
+Nach der Saldosteuersatzmethode abrechnende steuerpflichtige Personen, die Leistungen nach Artikel 45 Absatz 1 MWSTG beziehen, müssen die Bezugsteuer in der entsprechenden Abrechnungsperiode zum hierfür geltenden gesetzlichen Steuersatz entrichten.
+
+##### Art. 9293 Eigenverbrauch
+
+(Art. 37 Abs. 1–4 MWSTG)
+
+Der Eigenverbrauch ist mit der Anwendung der Saldosteuersatzmethode berücksichtigt.
+
+##### Art. 9394
+
+##### Art. 9495 Leistungen an eng verbundene Personen und das Personal
+
+(Art. 37 Abs. 1–4 MWSTG)
+
+ Leistungen an eng verbundene Personen und an das Personal sind mit dem nach den Artikeln 84, 86 und 88 für die betreffende Leistung massgebenden bewilligten Saldosteuersatz abzurechnen.
+
+ Leistungen, die im Lohnausweis zuhanden der direkten Steuern aufgeführt werden müssen, gelten immer als entgeltlich erbracht. Die Steuer ist auf der Grundlage des Betrages zu berechnen, der auch für die direkten Steuern massgebend ist.
+
+##### Art. 9596 Verkäufe von Betriebsmitteln, Anlagegütern und aktivierbaren Dienstleistungen
+
+(Art. 37 Abs. 1–4 MWSTG)
+
+Verkäufe von Betriebsmitteln, Anlagegütern und aktivierbaren Dienstleistungen, die nicht ausschliesslich zur Erbringung von Leistungen, die von der Steuer ausgenommen sind, eingesetzt wurden, sind mit dem nach den Artikeln 84, 86 und 88 für die betreffende Leistung massgebenden bewilligten Saldosteuersatz abzurechnen.
+
+##### Art. 96 Rechnungsstellung zu einem zu hohen Steuersatz
+
+(Art. 37 Abs. 1–4 MWSTG)
+
+Stellt eine mit Saldosteuersätzen abrechnende steuerpflichtige Person eine Leistung zu einem zu hohen Steuersatz in Rechnung, so muss sie zusätzlich zu der mit dem Saldosteuersatz berechneten Mehrwertsteuer auch die Differenz zwischen der nach dem ausgewiesenen Steuersatz berechneten Steuer und der nach dem Steuersatz nach Artikel 25 MWSTG berechneten Steuer entrichten. Dabei wird das Entgelt als inklusive Mehrwertsteuer betrachtet.
+
+### 3. Abschnitt:  Pauschalsteuersatzmethode
+
+##### Art. 97 Grundsätze
+
+(Art. 37 Abs. 5 MWSTG)
+
+ Verwandte Einrichtungen nach Artikel 37 Absatz 5 MWSTG sind namentlich:
+
+a.
+Gemeindezweckverbände und andere Zusammenschlüsse von Gemeinwesen;
+b.
+Kirchgemeinden;
+c.
+private Schulen und Internate;
+d.
+private Spitäler und Zentren für ärztliche Heilbehandlungen;
+e.
+Rehabilitationszentren und Kurhäuser;
+f.
+private Spitexorganisationen;
+g.
+Altersheime, Pflegeheime und Seniorenresidenzen;
+h.
+sozial tätige Unternehmen wie Behindertenwerkstätten, Wohnheime und Sonderschulen;
+i.
+von Gemeinwesen subventionierte Betreiber von Sportanlagen und Kulturzentren;
+j.
+kantonale Gebäudeversicherungen;
+k.
+Wassergenossenschaften;
+l.
+Transportunternehmen des öffentlichen Verkehrs;
+m.
+von Gemeinwesen subventionierte privatrechtliche Korporationen;
+n.
+Veranstalter und Veranstalterinnen von nicht wiederkehrenden Anlässen in den Bereichen Kultur und Sport;
+o.
+Vereine nach den Artikeln 60–79 des Zivilgesetzbuchs (ZGB)
+; und
+p.
+Stiftungen nach den Artikeln 80–89
+bis
+ZGB.
+
+ Es bestehen keine betragsmässigen Grenzen für die Anwendung der Pauschalsteuersatzmethode.
+
+ Steuerpflichtige Personen, die mit der Pauschalsteuersatzmethode abrechnen, können nicht für die Versteuerung von Leistungen nach Artikel 21 Absatz 2 Ziffern 1–24, 27 und 29–31 MWSTG optieren. Wird die Steuer gleichwohl in Rechnung gestellt, so ist die ausgewiesene Steuer unter Vorbehalt von Artikel 27 Absatz 2 MWSTG der ESTV abzuliefern.
+
+ Autonome Dienststellen nach Artikel 12 Absatz 1 MWSTG, die sich zu einem einzigen Steuersubjekt zusammenschliessen (Art. 12 Abs. 2 MWSTG), können die Pauschalsteuersatzmethode anwenden.
+
+##### Art. 98101 Unterstellung unter die Pauschalsteuersatzmethode und Wechsel der Abrechnungsmethode
+
+(Art. 37 Abs. 5 MWSTG)
+
+ Gemeinwesen und verwandte Einrichtungen nach Artikel 97 Absatz 1, die nach der Pauschalsteuersatzmethode abrechnen wollen, müssen dies der ESTV melden.
+
+ Die Pauschalsteuersatzmethode muss während mindestens einer ganzen Steuerperiode beibehalten werden. Entscheidet sich die steuerpflichtige Person für die effektive Abrechnungsmethode, so kann sie frühestens nach einer ganzen Steuerperiode zur Pauschalsteuersatzmethode wechseln.
+
+ Frühere Wechsel zur effektiven Methode oder zur Pauschalsteuersatzmethode sind bei jeder Anpassung des betreffenden Pauschalsteuersatzes zulässig, die nicht auf eine Änderung der Steuersätze nach den Artikeln 25 und 55 MWSTG zurückzuführen ist.
+
+ Wechsel der Abrechnungsmethode sind auf den Beginn einer Steuerperiode möglich. Sie müssen der ESTV bis spätestens 60 Tage nach Beginn der Steuerperiode, ab welcher der Wechsel erfolgen soll, gemeldet werden.
+
+##### Art. 99 Pauschalsteuersätze
+
+(Art. 37 Abs. 5 MWSTG)
+
+ Bei Anwendung der Pauschalsteuersatzmethode wird die Steuerforderung durch Multiplikation des Totals der in einer Abrechnungsperiode erzielten steuerbaren Entgelte, einschliesslich der Steuer, mit dem von der ESTV bewilligten Pauschalsteuersatz ermittelt.
+
+ Die ESTV legt die Pauschalsteuersätze unter Berücksichtigung der branchenüblichen Vorsteuerquote fest. Eine Tätigkeit, für die kein Pauschalsteuersatz festgelegt wurde, ist mit dem bei der Saldosteuersatzmethode geltenden Satz abzurechnen.
+
+ Die steuerpflichtige Person muss jede ihrer Tätigkeiten ungeachtet der Höhe des damit erzielten Umsatzes zum massgebenden Pauschalsteuersatz abrechnen. Sie kann den gesamten Umsatz aus steuerbaren Leistungen auch freiwillig zum höchsten bewilligten Pauschalsteuersatz abrechnen.
+
+##### Art. 99a103
+
+##### Art. 100 Anwendbarkeit der Regeln der Saldosteuersatzmethode
+
+(Art. 37 Abs. 5 MWSTG)
+
+Soweit dieser Abschnitt keine Regelung enthält, gelten ergänzend die Artikel 77–96.
+
+### 4. Abschnitt:  Meldeverfahren
+
+##### Art. 101 Teilvermögen
+
+(Art. 38 Abs. 1 MWSTG)
+
+Als Teilvermögen gilt jede kleinste für sich lebensfähige Einheit eines Unternehmens.
+
+##### Art. 102 Steuerpflicht des Erwerbers oder der Erwerberin
+
+(Art. 38 Abs. 1 MWSTG)
+
+Das Meldeverfahren ist auch dann anzuwenden, wenn der Erwerber oder die Erwerberin erst im Zusammenhang mit der Übertragung des Gesamt- oder Teilvermögens steuerpflichtig wird.
+
+##### Art. 103 Rechnung
+
+(Art. 38 Abs. 1 MWSTG)
+
+Wird das Meldeverfahren angewendet, so muss dies auf der Rechnung vermerkt werden.
+
+##### Art. 104 Freiwillige Anwendung des Meldeverfahrens
+
+(Art. 38 Abs. 2 MWSTG)
+
+Unter der Voraussetzung, dass beide Parteien steuerpflichtig sind oder werden, kann das Meldeverfahren angewendet werden:
+
+a.
+bei der Übertragung eines Grundstücks oder von Grundstücksteilen;
+b.
+auf Gesuch der übertragenden Person, sofern gewichtige Interessen vorliegen.
+
+##### Art. 105 Verwendungsgrad
+
+(Art. 38 Abs. 4 MWSTG)
+
+Es wird vermutet, dass der Veräusserer oder die Veräusserin die übertragenen Vermögenswerte vollumfänglich für zum Vorsteuerabzug berechtigende Tätigkeiten verwendet hat. Ein anderer Verwendungsgrad ist vom Erwerber oder der Erwerberin nachzuweisen.
+
+### 5. Abschnitt:  Abrechnungsart und Abtretung der Steuerforderung
+
+##### Art. 106 Wechsel der Abrechnungsart bei Abrechnung nach der effektiven Methode
+
+(Art. 39 MWSTG)
+
+ Beim Wechsel von der Abrechnung nach vereinnahmten Entgelten zur Abrechnung nach vereinbarten Entgelten muss die steuerpflichtige Person in der auf den Wechsel folgenden Abrechnungsperiode:
+
+a.
+die Steuer auf den im Zeitpunkt des Wechsels bestehenden Debitorenposten abrechnen; und
+b.
+die Vorsteuern auf den im Zeitpunkt des Wechsels bestehenden Kreditorenposten im Rahmen der zum Vorsteuerabzug berechtigenden unternehmerischen Tätigkeit abziehen.
+
+ Beim Wechsel von der Abrechnung nach vereinbarten Entgelten zur Abrechnung nach vereinnahmten Entgelten muss die steuerpflichtige Person in der auf den Wechsel folgenden Abrechnungsperiode:
+
+a.
+die im Zeitpunkt des Wechsels bestehenden Debitorenposten von den in dieser Abrechnungsperiode vereinnahmten Entgelten abziehen; und
+b.
+die Vorsteuern auf den im Zeitpunkt des Wechsels bestehenden Kreditorenposten von den in dieser Abrechnungsperiode bezahlten Vorsteuern abziehen.
+
+ Wird gleichzeitig mit dem Wechsel der Abrechnungsart auch die Abrechnungsmethode nach den Artikeln 36 und 37 MWSTG geändert, so gilt Artikel 79 Absatz 4 beziehungsweise Artikel 81 Absatz 5
+dieser Verordnung.
+
+Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 (
+
+##### Art. 107 Wechsel der Abrechnungsart bei Abrechnung nach der Saldosteuersatzmethode oder der Pauschalsteuersatzmethode
+
+(Art. 39 MWSTG)
+
+ Wechselt die steuerpflichtige Person von der Abrechnung nach vereinnahmten Entgelten zur Abrechnung nach vereinbarten Entgelten, so muss sie in der auf den Wechsel folgenden Abrechnungsperiode die im Zeitpunkt des Wechsels bestehenden Debitorenposten mit den bewilligten Saldosteuersätzen beziehungsweise Pauschalsteuersätzen abrechnen, die nach den Artikeln 84, 86 und 88 für die Tätigkeiten massgebend sind, aus denen sich diese Debitorenposten ergeben.
+
+ Wechselt die steuerpflichtige Person von der Abrechnung nach vereinbarten Entgelten zur Abrechnung nach vereinnahmten Entgelten, so muss sie in der Abrechnungsperiode, die auf den Wechsel folgt, die im Zeitpunkt des Wechsels bestehenden Debitorenposten von den in dieser Abrechnungsperiode vereinnahmten Entgelten aus den entsprechenden Tätigkeiten abziehen.
+
+ Wird gleichzeitig mit dem Wechsel der Abrechnungsart auch die Abrechnungsmethode geändert, so gilt Artikel 79 Absatz 4 beziehungsweise Artikel 81 Absatz 5
+
+##### Art. 108 Abtretung und Verpfändung der Steuerforderung
+
+(Art. 44 Abs. 2 MWSTG)
+
+Bei der Abtretung und der Verpfändung der Steuerforderung gelten die Bestimmungen über die Geheimhaltung nach Artikel 74 MWSTG nicht.
+
+# 3. Titel:  Bezugsteuer
+
+##### Art. 109 und 110109
+
+##### Art. 111 Datenträger ohne Marktwert
+
+(Art. 45 Abs. 1 Bst b und 52 Abs. 2 MWSTG)
+
+ Als Datenträger ohne Marktwert gilt, unabhängig vom Trägermaterial oder der Art der Datenspeicherung, jeder Träger von Daten, der in der Art und Beschaffenheit, wie er eingeführt wird:
+
+a.
+nicht gegen Entrichtung eines im Zeitpunkt der Einfuhr feststehenden Entgelts erworben werden kann; und
+b.
+nicht gegen Entrichtung einer einmaligen, im Zeitpunkt der Einfuhr feststehenden Lizenzgebühr vertragsmässig genutzt werden kann.
+
+ Der Datenträger kann namentlich Computerprogramme und -dateien, deren Updates und Upgrades sowie Ton- und Bilddaten enthalten.
+
+ Massgebend für die Beurteilung, ob ein Datenträger ohne Marktwert vorliegt, ist der Träger selbst mit den darin enthaltenen Dienstleistungen und den damit verbundenen Rechten ohne Berücksichtigung des zur Einfuhr führenden Rechtsgeschäfts.
+
+ Den Datenträgern ohne Marktwert sind namentlich die folgenden Gegenstände gleichgestellt, sofern der Gegenstand dem Auftraggeber oder der Auftraggeberin aufgrund eines selbstständigen Rechtsgeschäftes übergeben oder überlassen wird:
+
+a.
+Pläne, Zeichnungen und Illustrationen namentlich von Architekten und Architektinnen, Ingenieuren und Ingenieurinnen, Grafikern und Grafikerinnen sowie Designern und Designerinnen;
+b.
+Rechtsschriften von Anwälten und Anwältinnen, Gutachten von Sachverständigen, Übersetzungen, Forschungs- und Versuchsergebnisse sowie Ergebnisse aus Analysen, Bewertungen und Ähnlichem;
+c.
+verbriefte Rechte und immaterielle Werte.
+
+##### Art. 111a110 Übertragung von Emissionsrechten und ähnlichen Rechten
+
+(45 Abs. 1 Bst. e MWSTG)
+
+ Die Übertragung von Emissionsrechten und weiteren Rechten nach Artikel 45 Absatz 1 Buchstabe e MWSTG unterliegt nicht der Inlandsteuer.
+
+ Wird bei der Übertragung die Inlandsteuer in Rechnung gestellt, kann diese nicht als Vorsteuer abgezogen werden, es sei denn, die Steuer wurde abgerechnet und bezahlt.
+
+# 4. Titel:  Einfuhrsteuer
+
+## 1. Kapitel:111 Versandhandelsunternehmen anstelle der Plattform als einfuhrsteuerpflichtiger Person
+
+(Art. 51 MWSTG)
+
+##### Art. 111b
+
+Das Versandhandelsunternehmen kann bei der Einfuhr von Gegenständen mit dem Leistungserbringer oder der Leistungserbringerin nach Artikel 20
+*a*
+MWSTG vereinbaren, dass es die Einfuhr im eigenen Namen vornimmt, sofern es mindestens eine der beiden Bedingungen von Artikel 7 Absatz 3 MWSTG erfüllt.
+
+## 1a. Kapitel: Mehrheit von Leistungen und Befreiung von der Einfuhrsteuer112
+
+##### Art. 112 Sachgesamtheiten und Leistungskombinationen
+
+(Art. 52 Abs. 3 und 19 Abs. 2 MWSTG)
+
+ Wird bei der Einfuhr die Veranlagung nach Artikel 19 Absatz 2 MWSTG verlangt, so muss im Zeitpunkt der Zollanmeldung eine Kostenkalkulation eingereicht werden.
+
+ Aus der Kostenkalkulation müssen ersichtlich sein:
+
+a.
+die Selbstkosten der einzelnen Leistungen;
+b.
+das Gesamtentgelt.
+
+ Kostenbestandteile, die den einzelnen Leistungen nicht vollständig zugeordnet werden können, wie Gemeinkosten, Gewinn oder Beförderungskosten, sind wertanteilig auf die einzelnen Leistungen aufzuteilen.
+
+ Das Bundesamt für Zoll und Grenzsicherheit (BAZG)
+kann im Einzelfall zur Überprüfung der Kalkulation weitere Unterlagen einfordern.
+
+Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 (
+
+##### Art. 113 Befreiung von der Mehrwertsteuer
+
+(Art. 53 Abs. 2 MWSTG)
+
+Von der Einfuhrsteuer sind befreit:
+
+a.
+Gegenstände für Staatsoberhäupter sowie für diplomatische, konsularische und internationale Stellen und deren Mitglieder, die nach Artikel 6 der Zollverordnung vom 1. November 2006
+(ZV) zollfrei sind;
+b.
+Särge, Urnen und Trauerschmuck, die nach Artikel 7 ZV zollfrei sind;
+c.
+Ehrenpreise, Erinnerungszeichen und Ehrengaben, die nach Artikel 8 ZV zollfrei sind;
+d.
+Speisewagenvorräte, die nach Artikel 10 ZV zollfrei sind;
+e.
+Vorräte, Ersatzteile und Ausrüstungsgegenstände auf Schiffen, die nach Artikel 11 ZV zollfrei sind;
+f.
+Vorräte, Ersatzteile und Ausrüstungsgegenstände an Bord von Luftfahrzeugen, die nach Artikel 12 ZV zollfrei sind;
+g.
+…
+
+## 2. Kapitel:  Bestimmung und Sicherstellung der Einfuhrsteuerschuld
+
+##### Art. 114 Sicherheit bei Bezahlung der Steuer über das zentralisierte Abrechnungsverfahren des BAZG
+
+(Art. 56 Abs. 3 MWSTG)
+
+Wird die Steuer über das zentralisierte Abrechnungsverfahren (ZAZ) bezahlt, so kann das BAZG aufgrund seiner Risikobeurteilung eine pauschale Sicherheit verlangen. Diese berechnet sich wie folgt:
+
+a.
+mindestens 20 Prozent der innerhalb einer Periode von 60 Tagen aufgelaufenen Steuer, sofern der Importeur oder die Importeurin bei der ESTV als steuerpflichtige Person eingetragen ist und die Bedingungen des ZAZ eingehalten werden;
+b.
+100 Prozent der innerhalb einer Periode von 60 Tagen aufgelaufenen Steuer, sofern der Importeur oder die Importeurin bei der ESTV nicht als steuerpflichtige Person eingetragen ist oder die Bedingungen des ZAZ nicht eingehalten werden.
+
+##### Art. 115 Höhe der Sicherheit bei bedingt entstandener Steuerforderung und bei Zahlungserleichterungen
+
+(Art. 56 Abs. 3 MWSTG)
+
+ Die Höhe der Sicherheit beträgt bei bedingt entstandenen Steuerforderungen oder in Fällen, in denen Zahlungserleichterungen nach Artikel 76 Absatz 1 ZG
+gewährt werden:
+
+a.
+100 Prozent bei der Lagerung von Massengütern;
+a
+bis
+höchstens 10 Prozent für den nach Artikel 42
+*a*
+ZG zugelassenen Wirtschaftsbeteiligten («Authorised Economic Operator», AEO);
+b.
+mindestens 25 Prozent in den übrigen Fällen.
+
+ Bei internationalen Transiten richtet sich die Höhe der Sicherheit nach den völkerrechtlichen Verträgen.
+
+##### Art. 116 Nachträgliche Anpassung der Entgelte
+
+(Art. 56 Abs. 5 MWSTG)
+
+ Die Meldung einer nachträglichen Anpassung der Entgelte muss folgende Informationen enthalten:
+
+a.
+Anfangs- und Enddatum der Periode, für welche die Entgelte nachträglich angepasst werden;
+b.
+die in dieser Periode berechneten Entgelte;
+c.
+das Total der Entgeltsanpassungen;
+d.
+die Aufteilung der Entgeltsanpassung auf die verschiedenen Steuersätze.
+
+ Für die Ermittlung der Entgeltsanpassung herangezogene Preis- oder Wertangaben in ausländischer Währung sind nach dem durchschnittlichen Devisenkurs (Verkauf) der Periode in Schweizerfranken umzurechnen.
+
+ Das BAZG kann im Einzelfall zur Bestimmung der Einfuhrsteuerschuld weitere Unterlagen einfordern.
+
+## 3. Kapitel:  Verlagerung der Steuerentrichtung
+
+##### Art. 117 Verlagerung der Entrichtung der Einfuhrsteuer
+
+(Art. 63 MWSTG)
+
+ Wer Steuern im Verlagerungsverfahren entrichten will, bedarf einer Bewilligung der ESTV.
+
+ Bestehen Zweifel darüber, ob die Voraussetzungen für die Verlagerung der Einfuhrsteuer erfüllt sind, so erhebt das BAZG die Steuer.
+
+ Die Verjährung der verlagerten Einfuhrsteuerschuld richtet sich nach Artikel 42 MWSTG.
+
+ Die ESTV regelt den Vollzug im Einvernehmen mit dem BAZG.
+
+##### Art. 118 Bewilligungsvoraussetzungen
+
+(Art. 63 MWSTG)
+
+ Die Bewilligung wird erteilt, wenn die steuerpflichtige Person:
+
+a.
+die Mehrwertsteuer nach der effektiven Methode abrechnet;
+b.
+im Rahmen ihrer unternehmerischen Tätigkeit regelmässig Gegenstände importiert und exportiert;
+c.
+über diese Gegenstände eine detaillierte Einfuhr-, Lager- und Ausfuhrkontrolle führt;
+d.
+in ihren periodischen Steuerabrechnungen mit der ESTV regelmässig Vorsteuerüberschüsse aus Ein- und Ausfuhren von Gegenständen nach Buchstabe b von mehr als 10 000 Franken pro Jahr ausweist, die aus der Entrichtung der Einfuhrsteuer an das BAZG herrühren; und
+e.
+Gewähr bietet für einen ordnungsgemässen Ablauf des Verfahrens.
+
+1bis
+ Leistungserbringern oder Leistungserbringerinnen nach Artikel 20
+*a*
+MWSTG, gegen die eine administrative Massnahme nach Artikel 79
+*a*
+MWSTG
+**
+verfügt war, kann die Bewilligung für die Anwendung des Verlagerungsverfahrens auf Antrag hin ab dem Folgetag der Aufhebung der Verfügung erteilt werden.
+
+ Die Erteilung oder Aufrechterhaltung der Bewilligung kann von der Leistung von Sicherheiten in Höhe der mutmasslichen Ansprüche abhängig gemacht werden.
+
+##### Art. 119 Wegfall der Bewilligungsvoraussetzungen
+
+(Art. 63 MWSTG)
+
+Fällt eine der Voraussetzungen der Bewilligung nach Artikel 118 Absatz 1 Buchstaben a–d weg, so muss die steuerpflichtige Person die ESTV unverzüglich schriftlich benachrichtigen.
+
+##### Art. 120121 Entzug der Bewilligung
+
+(Art. 63 MWSTG)
+
+ Die Bewilligung wird entzogen, wenn die steuerpflichtige Person nicht mehr Gewähr für einen ordnungsgemässen Ablauf des Verfahrens bietet.
+
+ Leistungserbringern oder Leistungserbringerinnen nach Artikel 20
+*a*
+MWSTG, gegen die eine administrative Massnahme nach Artikel 79
+*a*
+MWSTG verfügt wird, wird die Bewilligung mit Wirkung ab dem Tag nach dem Erlass der Verfügung entzogen.
+
+##### Art. 121 Nichterhebung der Inlandsteuer
+
+(Art. 63 Abs. 2 MWSTG)
+
+Für die Bewilligung nach Artikel 63 Absatz 2 MWSTG gelten die Artikel 118–120 sinngemäss.
+
+# 5. Titel:  Verfahrensrecht für die Inland- und die Bezugsteuer
+
+## 1. Kapitel:  Rechte und Pflichten der steuerpflichtigen Person
+
+### 1. Abschnitt:  …
+
+##### Art. 121a122
+
+### 1a. Abschnitt:  Papierlose Belege, elektronische Verfahren123
+
+##### Art. 122124 Papierlose Belege
+
+(Art. 70 Abs. 4 MWSTG)
+
+Für die Übermittlung und Aufbewahrung papierloser Belege gelten die Artikel 957–958
+*f*
+des Obligationenrechts
+und die Geschäftsbücherverordnung vom 24. April 2002
+
+##### Art. 123128 Elektronische Verfahren
+
+(Art. 65
+*a*
+MWSTG)
+
+ Wird das elektronische Verfahren vorgeschrieben, so müssen sämtliche Eingaben an die ESTV elektronisch über das hierfür vorgesehene Portal erfolgen.
+
+ Das elektronische Verfahren wird vorgeschrieben für:
+
+a.
+die Gruppenbesteuerung (Art. 13 MWSTG);
+b.
+die jährliche Abrechnung (Art. 35
+*a*
+und 86
+*a*
+MWSTG);
+c.
+die Saldosteuersatzmethode (Art. 37 Abs. 1–4 MWSTG);
+d.
+die Pauschalsteuersatzmethode (Art. 37 Abs. 5 MWSTG);
+e.
+die Anmeldung als steuerpflichtige Person (Art. 66 Abs. 1 MWSTG);
+f.
+die Abmeldung als steuerpflichtige Person (Art. 66 Abs. 2 MWSTG);
+g.
+die Einreichung der Abrechnung (Art. 71 MWSTG);
+h.
+die nachträglichen Korrekturen der Abrechnung (Art. 72 MWSTG).
+
+##### Art. 124 und 125129
+
+### 2. Abschnitt:  Abrechnung
+
+##### Art. 126 Effektive Abrechnungsmethode
+
+(Art. 71 und 72 MWSTG)
+
+ Bei der effektiven Abrechnungsmethode muss die steuerpflichtige Person für die Abrechnung mit der ESTV die folgenden Werte in geeigneter Weise festhalten:
+
+a.
+das Total aller der Inlandsteuer unterliegenden Entgelte; dieses umfasst namentlich die Entgelte für:
+1.
+besteuerte Leistungen, aufgeteilt nach Steuersätzen,
+2.
+Leistungen, die nach Artikel 22 MWSTG freiwillig versteuert werden (Option),
+3.
+Leistungen, die nach Artikel 23 MWSTG von der Steuer befreit sind,
+4.
+Leistungen an Begünstigte nach Artikel 2 GSG
+, die nach Artikel 143 dieser Verordnung von der Mehrwertsteuer befreit sind,
+5.
+Leistungen, für die das Meldeverfahren nach Artikel 38 MWSTG angewendet wurde,
+6.
+Leistungen, die nach Artikel 21 MWSTG von der Steuer ausgenommen sind;
+b.
+Minderungen des Entgelts bei Abrechnung nach vereinbarten Entgelten, soweit sie nicht in einer anderen Position berücksichtigt sind;
+c.
+die nicht im Anwendungsbereich der Mehrwertsteuer liegenden:
+1.
+Entgelte aus Leistungen, deren Ort nach den Artikeln 7 und 8 MWSTG im Ausland liegt,
+2.
+nicht als Entgelte geltenden Mittelflüsse nach Artikel 18 Absatz 2 Buchstaben a–c MWSTG,
+3.
+anderen nicht als Entgelte geltenden Mittelflüsse nach Artikel 18 Absatz 2 Buchstaben d–l MWSTG;
+d.
+das Total der Entgelte für der Bezugsteuer unterliegende Leistungen, aufgeteilt nach Steuersätzen;
+e.
+das Total aller abziehbaren Vorsteuern, vor den Korrekturen und Kürzungen nach Buchstabe f, aufgeteilt in:
+1.
+Vorsteuer auf Material- und Dienstleistungsaufwand,
+2.
+Vorsteuer auf Investitionen und übrigem Betriebsaufwand,
+3.
+Einlageentsteuerung;
+f.
+die Beträge, um die der Vorsteuerabzug korrigiert oder gekürzt werden muss infolge:
+1.
+gemischter Verwendung nach Artikel 30 MWSTG,
+2.
+Eigenverbrauchs nach Artikel 31 MWSTG,
+3.
+Erhalts von Mittelflüssen, die nicht als Entgelt gelten, nach Artikel 33 Absatz 2 MWSTG;
+g.
+das Total der im Verlagerungsverfahren abgerechneten Einfuhrsteuer.
+
+ Die ESTV kann mehrere Werte nach Absatz 1 unter einer Ziffer des Abrechnungsformulars zusammenfassen oder darauf verzichten, sie im Rahmen der periodischen Abrechnung zu verlangen.
+
+##### Art. 127 Abrechnung nach der Saldosteuersatz- oder der Pauschalsteuersatzmethode
+
+(Art. 71 und 72 MWSTG)
+
+ Bei der Saldosteuersatz- und der Pauschalsteuersatzmethode muss die steuerpflichtige Person für die Abrechnung mit der ESTV die folgenden Werte in geeigneter Weise festhalten:
+
+a.
+das Total aller der Inlandsteuer unterliegenden Entgelte; dieses umfasst namentlich die Entgelte für:
+1.
+besteuerte Leistungen, aufgeteilt nach Saldosteuersätzen beziehungsweise Pauschalsteuersätzen,
+2.
+Leistungen, die nach Artikel 23 MWSTG von der Steuer befreit sind,
+3.
+Leistungen an Begünstigte nach Artikel 2 GSG
+, die nach Artikel 143 dieser Verordnung von der Mehrwertsteuer befreit sind,
+4.
+Leistungen, für die das Meldeverfahren nach Artikel 38 MWSTG angewendet wurde,
+5.
+Leistungen, die nach Artikel 21 MWSTG von der Steuer ausgenommen sind;
+b.
+Minderungen des Entgelts bei Abrechnung nach vereinbarten Entgelten, soweit sie nicht in einer anderen Position berücksichtigt sind;
+c.
+die nicht im Anwendungsbereich der Mehrwertsteuer liegenden:
+1.
+Entgelte aus Leistungen, deren Ort nach den Artikeln 7 und 8 MWSTG im Ausland liegt,
+2.
+nicht als Entgelte geltenden Mittelflüsse nach Artikel 18 Absatz 2 Buchstaben a–c MWSTG,
+3.
+anderen nicht als Entgelte geltenden Mittelflüsse nach Artikel 18 Absatz 2 Buchstaben d–l MWSTG;
+d.
+das Total der Entgelte für der Bezugsteuer unterliegende Leistungen, aufgeteilt nach Steuersätzen;
+e. und f.
+…
+g.
+die Korrekturen nach den Artikeln 79 Absätze 3 und 4, 81 Absätze 4 und 5
+sowie 83 Absatz 1.
+
+ Die ESTV kann mehrere Werte nach Absatz 1 unter einer Ziffer des Abrechnungsformulars zusammenfassen oder darauf verzichten, sie im Rahmen der periodischen Abrechnung zu verlangen.
+
+##### Art. 128 Zusätzliche Unterlagen
+
+(Art. 71 und 72 MWSTG)
+
+ Die ESTV kann von der steuerpflichtigen Person die Einreichung namentlich folgender Unterlagen verlangen:
+
+a.
+eine Zusammenfassung der in Artikel 126 beziehungsweise 127 genannten Angaben für die gesamte Steuerperiode (Deklaration für die Steuerperiode);
+b.
+die rechtsgültig unterzeichnete Jahresrechnung oder, wenn die steuerpflichtige Person nicht buchführungspflichtig ist, eine Aufstellung über die Einnahmen und Ausgaben sowie über das Geschäftsvermögen zu Beginn und am Ende der Steuerperiode;
+c.
+den Revisionsbericht, soweit für die steuerpflichtige Person ein solcher zu erstellen ist;
+d.
+eine Umsatzabstimmung nach Absatz 2;
+e.
+bei steuerpflichtigen Personen, die nach der effektiven Methode abrechnen, eine Vorsteuerabstimmung nach Absatz 3;
+f.
+bei steuerpflichtigen Personen, die nach der effektiven Methode abrechnen, eine Aufstellung über die Berechnung der vorgenommenen Vorsteuerkorrekturen und -kürzungen, aus der die Vorsteuerkorrekturen nach Artikel 30 MWSTG, die Eigenverbrauchstatbestände nach Artikel 31 MWSTG und die Vorsteuerabzugskürzungen nach Artikel 33 Absatz 2 MWSTG ersichtlich sind.
+
+ Aus der Umsatzabstimmung muss ersichtlich sein, wie die Deklaration für die Steuerperiode unter Berücksichtigung der verschiedenen Steuersätze beziehungsweise der Saldo- oder Pauschalsteuersätze mit dem Jahresabschluss in Übereinstimmung gebracht wird. Namentlich zu berücksichtigen sind:
+
+a.
+der in der Jahresrechnung ausgewiesene Betriebsumsatz;
+b.
+die Erträge, die auf Aufwandkonten verbucht wurden (Aufwandminderungen);
+c.
+die konzerninternen Verrechnungen, die nicht im Betriebsumsatz enthalten sind;
+d.
+die Verkäufe von Betriebsmitteln;
+e.
+die Vorauszahlungen;
+f.
+die übrigen Zahlungseingänge, die nicht im ausgewiesenen Betriebsumsatz enthalten sind;
+g.
+die geldwerten Leistungen;
+h.
+die Erlösminderungen;
+i.
+die Debitorenverluste; und
+j.
+die Abschlussbuchungen wie die zeitlichen Abgrenzungen, die Rückstellungen und internen Umbuchungen, die nicht umsatzrelevant sind.
+
+ Aus der Vorsteuerabstimmung muss ersichtlich sein, dass die Vorsteuern gemäss Vorsteuerkonti oder sonstigen Aufzeichnungen mit den deklarierten Vorsteuern abgestimmt wurden.
+
+ Die Einforderung zusätzlicher Unterlagen nach den Absätzen 1–3 stellt kein Einfordern von umfassenden Unterlagen im Sinn von Artikel 78 Absatz 2 MWSTG dar.
+
+##### Art. 129 Korrektur
+
+(Art. 72 MWSTG)
+
+Die Korrektur von Mängeln in zurückliegenden Abrechnungen muss getrennt von den ordentlichen Abrechnungen erfolgen.
+
+## 2. Kapitel:  Auskunftspflicht von Drittpersonen
+
+(Art. 73 Abs. 2 Bst. c MWSTG)
+
+##### Art. 130
+
+Die Auskunftspflicht von Drittpersonen nach Artikel 73 Absatz 2 Buchstabe c MWSTG gilt nicht für Unterlagen, die:
+
+a.
+der auskunftspflichtigen Person zur Erbringung ihrer Leistung anvertraut worden sind;
+b.
+die auskunftspflichtige Person zur Erbringung ihrer Leistung selbst erstellt hat.
+
+## 3. Kapitel:  Rechte und Pflichten der Behörden
+
+### 1. Abschnitt:  Datenschutz135
+
+##### Art. 131136 Datenschutzberatung
+
+(Art. 76 Abs. 1 MWSTG)
+
+ Die ESTV bezeichnet eine für die Datenschutz- und Datensicherheitsberatung verantwortliche Person.
+
+ Diese überwacht die Einhaltung der Datenschutzbestimmungen und sorgt insbesondere für eine regelmässige Überprüfung der Richtigkeit und Sicherheit der Daten.
+
+ Sie sorgt ausserdem dafür, dass regelmässige Kontrollen betreffend die Richtigkeit und die vollständige Übertragung der erhobenen Daten auf Datenträger stattfinden.
+
+##### Art. 132 Datenbearbeitung
+
+(Art. 76 Abs. 1 und 76
+*a*
+Abs. 1 und 2 MWSTG)
+
+ Die Bearbeitung von Daten erfolgt im Rahmen der Erfüllung der gesetzlich vorgeschriebenen Aufgaben ausschliesslich durch Mitarbeitende der ESTV oder durch von der ESTV kontrolliertes Fachpersonal.
+
+ Die ESTV kann Daten, die sie selbst erhebt oder zusammenstellt oder von Verfahrensbeteiligten, Drittpersonen oder Behörden erhält, in elektronischer oder anderer Form bearbeiten.
+
+ …
+
+##### Art. 133140 Verantwortlichkeit für das Informationssystem
+
+(Art. 76
+*a*
+Abs. 1 und 76
+*d*
+Bst. a MWSTG)
+
+Die ESTV ist verantwortlich für den sicheren Betrieb und den Unterhalt des Informationssystems und die Rechtmässigkeit der Datenbearbeitung.
+
+##### Art. 134141 Datenkategorien
+
+(Art. 76
+*a*
+Abs. 1 und 3 sowie 76
+*d*
+Bst. b und c MWSTG)
+
+Die Daten, welche die ESTV nach Artikel 76
+*a*
+Absatz 3 MWSTG bearbeiten kann, sind die folgenden:
+
+a.
+Angaben über die Identität von Personen: insbesondere Namen, Rechtsform, Handelsregistereintrag, Geburtsdatum oder Gründungszeitpunkt, Adresse, Wohn- und Geschäftssitz, Telekommunikationsnummern, E-Mail-Adresse, Heimatort, Bankverbindung, rechtlicher Vertreter oder rechtliche Vertreterin, AHV-Nummer
+b.
+Angaben über die wirtschaftlichen Tätigkeiten: Art der Geschäftstätigkeit, erzielte oder voraussichtliche Umsätze, Eintragungs- und Löschungszeitpunkt, Ort der Leistungserbringung sowie für die Erhebung der Mehrwertsteuer erforderliche Angaben über das Verbringen sowie die Ein- und Ausfuhr von Waren;
+c.
+Angaben über die Einkommens- und Vermögensverhältnisse: insbesondere Angaben aus Geschäftsbüchern, betriebswirtschaftliche Zahlen, Liegenschaften, Barschaft, Post- und Bankkonten, Wertpapiere und sonstige bewegliche Wertsachen sowie unverteilte Erbschaften;
+d.
+Angaben über die Steuerverhältnisse: Steuerabrechnungen;
+e.
+Angaben über Schuldverhältnisse und Forderungszessionen: Dauer und Umfang von Forderungszessionen, Höhe steuerbarer zedierter Forderungen;
+f.
+Angaben über Betreibungs-, Konkurs- und Arrestverfahren: Betreibungs-, Konkurs-, Nachlass- und Arrestverfahren, gerichtliche und aussergerichtliche auf den Bezug von Forderungen gerichtete Handlungen;
+g.
+Angaben über die Befolgung von steuerrechtlichen Pflichten: Befolgung steuerrechtlicher Mitwirkungspflichten, fristgerechte Entrichtung geschuldeter Abgaben, Buchführungspflichten, Feststellungen, die im Rahmen einer Kontrolle gemacht wurden, sowie Angaben, die für das Sicherstellen des Bezugs der geschuldeten Steuern bei den steuerpflichtigen und mithaftenden Personen benötigt werden;
+h.
+Angaben über den Verdacht auf Widerhandlungen, über Straftaten, beschlagnahmte Gegenstände und Beweismittel sowie über Strafverfahren: begründeter Verdacht auf Widerhandlungen, beschlagnahmte Gegenstände und Beweismittel, Straftaten sowie die daraus resultierenden Sanktionen und Nachforderungen nach Artikel 12 des Bundesgesetzes vom 22. März 1974
+über das Verwaltungsstrafrecht;
+i.
+Angaben über Administrativverfahren: Daten über Verwaltungs- und Steuerjustizverfahren, die für das Ausstellen von Einschätzungsmitteilungen sowie für die Beurteilung von Steuerrückerstattungsansprüchen und Gesuchen um Steuererlass erforderlich sind;
+j.
+Angaben über Amts- und Rechtshilfeverfahren: ersuchende Behörde, Datum und Gegenstand des Ersuchens, betroffene Personen, Verlauf des Verfahrens sowie Art der Massnahmen.
+
+##### Art. 135144 Statistiken
+
+(Art. 76
+*a*
+Abs. 2 Bst. j MWSTG)
+
+ Die ESTV erstellt und führt Statistiken, soweit es zur Erfüllung ihrer gesetzlichen Aufgaben erforderlich ist.
+
+ Sie kann den Behörden des Bundes und der Kantone sowie weiteren interessierten Personen Daten zu statistischen Zwecken bekanntgeben, sofern diese anonymisiert sind und keine Rückschlüsse auf die betroffenen Personen erlauben. Artikel 10 Absätze 4 und 5 des Bundesstatistikgesetzes vom 9. Oktober 1992
+sowie Artikel 14 Absatz 3 des Nationalbankgesetzes vom 3. Oktober 2003
+bleiben vorbehalten.
+
+ Nicht anonymisierte Daten dürfen für interne Geschäftskontrollen und für die interne Geschäftsplanung verwendet werden.
+
+##### Art. 135a148 Bekanntgabe von Daten an das Bundesamt für Statistik
+
+(Art. 76
+*b*
+und 76
+*d*
+Bst. d MWSTG)
+
+Die ESTV darf dem Bundesamt für Statistik (BFS) zur Durchführung von statistischen Erhebungen die Mehrwertsteuerabrechnungen im Abrufverfahren zugänglich machen, sofern die steuerpflichtige Person gegenüber dem BFS ihr Einverständnis erklärt hat, dass dieses sich die Daten bei der ESTV beschafft.
+
+##### Art. 136149 Bekanntgabe von Daten an das BAZG
+
+(Art. 76
+*b*
+Abs. 2 MWSTG)
+
+Die ESTV macht den im BAZG mit der Erhebung und dem Einzug der Mehrwertsteuer betrauten Personen die Daten nach Artikel 134 in einem Abrufverfahren zugänglich, soweit diese Daten für die korrekte und vollständige Veranlagung der Einfuhrsteuer oder für die Durchführung von Straf- oder Administrativverfahren erforderlich sind.
+
+##### Art. 137150 Aufbewahrungsdauer, Vernichtung und Archivierung der Daten
+
+(Art. 76
+*c*
+Abs. 1 und 76
+*d*
+Bst. e und f MWSTG)
+
+ Die ESTV vernichtet die Daten spätestens nach Ablauf der in Artikel 70 Absätze 2 und 3 MWSTG beziehungsweise der in Artikel 105 MWSTG festgesetzten Fristen. Ausgenommen sind Daten, die für die Erhebung der Mehrwertsteuer immer wieder benötigt werden.
+
+ Vor der Vernichtung werden die Daten dem Bundesarchiv nach dem Archivierungsgesetz vom 26. Juni 1998
+zur Archivierung angeboten.
+
+##### Art. 138152 Auswertung des Internetangebots der ESTV
+
+(Art. 76
+*d*
+MWSTG)
+
+ Zur Auswertung ihres Internetangebots kann die ESTV die Daten von Personen bearbeiten, die von diesem Angebot Gebrauch machen (Logfiles).
+
+ Die Daten dürfen nur für diese Auswertung und nur so lange wie nötig bearbeitet werden. Sie sind nach der Auswertung zu vernichten oder zu anonymisieren.
+
+##### Art. 139153
+
+### 2. Abschnitt: Sicherstellung der korrekten Steuerentrichtung154
+
+##### Art. 140 Kontrolle
+
+(Art. 78 Abs. 2 MWSTG)
+
+Ein Einfordern von umfassenden Unterlagen liegt vor, wenn die Geschäftsbücher eines Geschäftsjahres verlangt werden, sei es mit oder ohne die dazugehörigen Buchungsbelege.
+
+##### Art. 140a156 Vernichtungskosten
+
+(Art. 79
+*a*
+Abs. 4 MWSTG)
+
+Die Kosten für die von der ESTV verfügte Vernichtung der Gegenstände gehen zulasten der ESTV.
+
+## 4. Kapitel:  Verfügungs- und Rechtsmittelverfahren
+
+##### Art. 141 Beschwerdeverfahren
+
+(Art. 81 MWSTG)
+
+Die ESTV ist im Sinn von Artikel 89 Absatz 2 Buchstabe a des Bundesgerichtsgesetzes vom 17. Juni 2005
+zur Beschwerde an das Bundesgericht berechtigt.
+
+##### Art. 142 Betreibungskosten
+
+(Art. 86 MWSTG)
+
+Wird die Betreibung nach Artikel 86 Absatz 9 MWSTG zurückgezogen, so trägt die steuerpflichtige Person die angefallenen Betreibungskosten.
+
+# 6. Titel:  Entlastung von der Mehrwertsteuer für Begünstigte, die nach dem GSG von der Mehrwertsteuer befreit sind
+
+##### Art. 143 Anspruchsberechtigung für die Steuerentlastung
+
+(Art. 107 Abs. 1 Bst. a MWSTG)
+
+ Anspruch auf Entlastung von der Mehrwertsteuer haben institutionelle Begünstigte und begünstigte Personen.
+
+ Als institutionelle Begünstigte gelten:
+
+a.
+Begünstigte nach Artikel 2 Absatz 1 GSG
+, die aufgrund des Völkerrechts, einer mit dem Bundesrat abgeschlossenen Vereinbarung über die Befreiung von den indirekten Steuern oder eines Entscheids des Eidgenössischen Departements für auswärtige Angelegenheiten (EDA) nach Artikel 26 Absatz 3 GSG von den indirekten Steuern befreit sind;
+b.
+Begünstigte nach Artikel 2 Absatz 1 GSG mit Sitz im Ausland, sofern sie durch die Gründungsakte, ein Protokoll über die Vorrechte und Immunitäten oder sonstige völkerrechtliche Vereinbarungen von den indirekten Steuern befreit sind.
+
+ Als begünstigte Personen gelten:
+
+a.
+Staatsoberhäupter sowie Regierungschefs und Regierungschefinnen während der tatsächlichen Ausübung einer offiziellen Funktion in der Schweiz sowie die zu ihrer Begleitung berechtigten Personen, die den diplomatischen Status geniessen;
+b.
+diplomatische Vertreter und Vertreterinnen, Konsularbeamte und Konsularbeamtinnen sowie die zu ihrer Begleitung berechtigten Personen, sofern sie in der Schweiz denselben diplomatischen Status wie diese geniessen;
+c.
+hohe Beamte und Beamtinnen von institutionellen Begünstigten nach Absatz 2 Buchstabe a, die in der Schweiz diplomatischen Status geniessen, sowie die zu ihrer Begleitung berechtigten Personen, sofern sie denselben diplomatischen Status geniessen, wenn sie aufgrund einer Vereinbarung zwischen dem Bundesrat oder dem EDA und dem betreffenden institutionellen Begünstigten oder aufgrund eines einseitigen Entscheids des Bundesrates oder des EDA von den indirekten Steuern befreit sind;
+d.
+die Delegierten internationaler Konferenzen, die diplomatischen Status geniessen, wenn die internationale Konferenz, an der sie teilnehmen, in Übereinstimmung mit Absatz 2 Buchstabe a selbst von den indirekten Steuern befreit ist;
+e.
+die ein internationales Mandat ausübenden Persönlichkeiten nach Artikel 2 Absatz 2 Buchstabe b GSG, die in der Schweiz diplomatischen Status geniessen und aufgrund eines Entscheids des Bundesrates von den indirekten Steuern befreit sind, sowie die zu ihrer Begleitung berechtigten Personen, sofern sie denselben diplomatischen Status geniessen.
+
+ Keinen Anspruch auf Steuerentlastung haben Personen mit Schweizer Bürgerrecht.
+
+ Die Entlastung von der Mehrwertsteuer wird durch die Steuerbefreiung an der Quelle nach den Artikeln 144 und 145 und ausnahmsweise durch die Rückerstattung nach Artikel 146 bewirkt.
+
+##### Art. 144 Steuerbefreiung
+
+(Art. 107 Abs. 1 Bst. a MWSTG)
+
+ Von der Steuer befreit sind:
+
+a.
+die Lieferungen von Gegenständen und die Dienstleistungen im Inland durch steuerpflichtige Personen an institutionelle Begünstigte und begünstigte Personen;
+b.
+der Bezug von Leistungen von Unternehmen mit Sitz im Ausland durch institutionelle Begünstigte und begünstigte Personen.
+
+ Die Steuerbefreiung gilt nur für Lieferungen und Dienstleistungen:
+
+a.
+an begünstigte Personen, wenn sie ausschliesslich zum persönlichen Gebrauch bestimmt sind;
+b.
+an institutionelle Begünstigte, wenn sie ausschliesslich zum amtlichen Gebrauch bestimmt sind.
+
+##### Art. 145 Voraussetzungen für die Steuerbefreiung
+
+(Art. 107 Abs. 1 Bst. a MWSTG)
+
+ Ein institutioneller Begünstigter, der die Steuerbefreiung beanspruchen will, muss vor jedem Bezug von Leistungen auf dem amtlichen Formular bescheinigen, dass die bezogenen Leistungen zum amtlichen Gebrauch bestimmt sind.
+
+ Eine begünstigte Person, welche die Steuerbefreiung beanspruchen will, muss sich vor jedem Bezug von Leistungen von dem institutionellen Begünstigten, dem sie angehört, auf dem amtlichen Formular bescheinigen lassen, dass sie den Status nach Artikel 143 Absatz 3 geniesst, der sie zum steuerfreien Bezug berechtigt. Die begünstigte Person muss das eigenhändig unterzeichnete amtliche Formular dem Leistungserbringer oder der Leistungserbringerin übergeben und sich bei jedem Bezug von Leistungen mit der von der zuständigen eidgenössischen Behörde ausgestellten Legitimationskarte ausweisen.
+
+ Die Steuerbefreiung nach Artikel 144 Absatz 1 Buchstabe a kann nur in Anspruch genommen werden, wenn der effektive Bezugspreis der in der Rechnung oder einem gleichwertigen Dokument ausgewiesenen Leistungen insgesamt mindestens 100 Franken einschliesslich Steuer beträgt. Dieser Mindestbetrag gilt nicht für Telekommunikations- und elektronische Dienstleistungen nach Artikel 10 sowie für Lieferungen von Wasser in Leitungen, Gas und Elektrizität durch Versorgungsbetriebe.
+
+ Die Voraussetzungen nach den Absätzen 1–3 für die Beanspruchung einer Steuerbefreiung gelten nicht für Bezüge von Treibstoff, für die der institutionelle Begünstigte oder die begünstigte Person auf Grund der Artikel 26–28 der Mineralölsteuerverordnung vom 20. November 1996
+, der Artikel 30 und 31 der Verordnung vom 23. August 1989
+über Zollvorrechte der diplomatischen Missionen in Bern und der konsularischen Posten in der Schweiz sowie der Artikel 28 und 29 der Verordnung vom 13. November 1985
+über Zollvorrechte der internationalen Organisationen, der Staaten in ihren Beziehungen zu diesen Organisationen und der Sondermissionen fremder Staaten die Befreiung von der Mineralölsteuer beanspruchen kann. In diesem Fall muss der Leistungserbringer oder die Leistungserbringerin nachweisen können, dass das BAZG die Mineralölsteuer nicht erhoben oder rückvergütet hat.
+
+##### Art. 146 Steuerrückerstattung
+
+(Art. 107 Abs. 1 Bst. a MWSTG)
+
+ In begründeten Einzelfällen kann die ESTV auf Antrag bereits bezahlte Steuerbeträge, für die ein Anspruch auf Steuerentlastung besteht, zurückerstatten; sie kann dafür, im Einvernehmen mit dem EDA, eine Bearbeitungsgebühr erheben.
+
+ Für die Steuerrückerstattung gilt Artikel 145 Absatz 3 sinngemäss.
+
+ Ein institutioneller Begünstigter kann pro Kalenderjahr höchstens zwei Anträge auf Steuerrückerstattung stellen. Er muss dafür das amtliche Formular benutzen.
+
+ Begünstigte Personen können pro Kalenderjahr höchstens einen Antrag auf Steuerrückerstattung stellen. Die Anträge der begünstigten Personen sind durch die Einrichtung, der sie angehören, zur einmaligen jährlichen Einreichung zusammenzustellen.
+
+ Die ESTV kann, im Einvernehmen mit dem EDA, einen Mindestrückerstattungsbetrag pro Antrag festsetzen. Auf Rückerstattungsbeträgen wird kein Vergütungszins ausgerichtet.
+
+##### Art. 147 Aufbewahrungspflicht
+
+(Art. 107 Abs. 1 Bst. a MWSTG)
+
+Die steuerpflichtige Person muss die verwendeten amtlichen Formulare im Original zusammen mit den übrigen Belegen vollständig nach Artikel 70 Absatz 2 MWSTG aufbewahren. Bezüglich elektronisch übermittelter und aufbewahrter amtlicher Formulare gilt Artikel 122
+sinngemäss.
+
+Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 (
+
+##### Art. 148 Vorsteuerabzug
+
+(Art. 107 Abs. 1 Bst. a MWSTG)
+
+Die Steuer auf den Lieferungen und den Einfuhren von Gegenständen sowie den Dienstleistungen, die zur Bewirkung von steuerfreien Leistungen an institutionelle Begünstigte und begünstigte Personen verwendet werden, kann als Vorsteuer abgezogen werden.
+
+##### Art. 149 Steuernachbezug und Widerhandlungen
+
+(Art. 107 Abs. 1 Bst. a MWSTG)
+
+ Sind die Voraussetzungen der Steuerbefreiung nach den Artikeln 144 und 145 nicht gegeben oder entfallen sie nachträglich, so ist in Fällen der Steuerbefreiung nach Artikel 144 Absatz 1 Buchstabe a der institutionelle Begünstigte oder die begünstigte Person verpflichtet, der steuerpflichtigen Person den auf die Steuer entfallenden Betrag zu bezahlen. Wird dieser Betrag nicht bezahlt, so wird er von der steuerpflichtigen Person geschuldet, sofern diese ein Verschulden trifft. Beim Bezug von Dienstleistungen von Unternehmen mit Sitz im Ausland sind die institutionellen Begünstigten und begünstigten Personen verpflichtet, die Steuer nachzuentrichten.
+
+ Die Bestimmungen der Wiener Übereinkommen vom 18. April 1961
+über diplomatische Beziehungen und vom 24. April 1963
+über konsularische Beziehungen sowie der Sitzabkommen bleiben vorbehalten.
+
+##### Art. 150166 Freiwillige Versteuerung von ausgenommenen Leistungen
+
+(Art. 107 Abs. 1 Bst. a MWSTG)
+
+Die in Artikel 21 Absatz 2 Ziffern 20 und 21 MWSTG genannten Leistungen ohne den Wert des Bodens können freiwillig versteuert werden, sofern sie gegenüber institutionellen Begünstigten nach Artikel 143 Absatz 2 Buchstabe a erbracht werden, unabhängig davon, ob der institutionelle Begünstigte im Inland steuerpflichtig ist. Diese Option ist beschränkt auf Grundstücke und Grundstücksteile, die:
+
+a.
+administrativen Zwecken dienen, namentlich Büros, Konferenzsäle, Lager, Parkplätze; oder
+b.
+ausschliesslich für die Residenz des Chefs oder der Chefin einer diplomatischen Mission, einer ständigen Mission oder anderen Vertretung bei zwischenstaatlichen Organisationen oder eines konsularischen Postens bestimmt sind.
+
+# 7. Titel:  Vergütung der Mehrwertsteuer an Abnehmer und Abnehmerinnen mit Wohn- oder Geschäftssitz im Ausland
+
+##### Art. 151 Anspruchsberechtigte
+
+(Art. 107 Abs. 1 Bst. b MWSTG)
+
+ Anspruch auf Vergütung der angefallenen Steuern nach Artikel 28 Absatz 1 Buchstaben a und c MWSTG hat, wer Gegenstände einführt oder sich in der Schweiz Leistungen gegen Entgelt erbringen lässt und zudem:
+
+a.
+Wohnsitz, Geschäftssitz oder Betriebsstätte im Ausland hat;
+b.
+im Inland nicht steuerpflichtige Person ist;
+c.
+unter Vorbehalt von Absatz 2 im Inland keine Leistungen erbringt; und
+d.
+seine oder ihre Unternehmereigenschaft im Land des Wohnsitzes, des Geschäftssitzes oder der Betriebsstätte gegenüber der ESTV nachweist.
+
+ Der Anspruch auf Steuervergütung bleibt gewahrt, wenn:
+
+a.
+die Person nach Artikel 10 Absatz 2 Buchstabe b MWSTG von der Steuerpflicht befreit ist;
+b.
+sie nicht auf diese Befreiung verzichtet; und
+c.
+die Befreiung nicht ausschliesslich auf Artikel 10 Absatz 2 Buchstabe b Ziffer 1
+bis
+MWSTG zurückzuführen ist.
+
+ Die Steuervergütung setzt voraus, dass der Staat des Wohn- oder Geschäftssitzes beziehungsweise der Betriebsstätte des antragstellenden ausländischen Unternehmens ein entsprechendes Gegenrecht gewährt.
+
+##### Art. 152 Gegenrecht
+
+(Art. 107 Abs. 1 Bst. b MWSTG)
+
+ Gegenrecht gilt als gewährt, wenn:
+
+a.
+Unternehmen mit Wohn- oder Geschäftssitz in der Schweiz im betreffenden ausländischen Staat für die auf dort bezogenen Leistungen bezahlte Mehrwertsteuer ein Vergütungsanspruch zusteht, der bezüglich Umfang und Einschränkungen dem Vorsteuerabzugsrecht entspricht, das im ausländischen Staat ansässige Unternehmen geniessen;
+b.
+im betreffenden ausländischen Staat keine mit der schweizerischen Mehrwertsteuer vergleichbare Steuer erhoben wird; oder
+c.
+im betreffenden ausländischen Staat eine andere Art von Umsatzsteuer als die schweizerische Mehrwertsteuer erhoben wird, die Unternehmen mit Wohn- oder Geschäftssitz im ausländischen Staat gleich belastet wie Unternehmen mit Wohn- oder Geschäftssitz in der Schweiz.
+
+ Die ESTV führt eine Liste mit den Staaten, mit denen nach Absatz 1 Buchstabe a eine Gegenrechtserklärung ausgetauscht wurde.
+
+##### Art. 153 Umfang der Steuervergütung
+
+(Art. 107 Abs. 1 Bst. b MWSTG)
+
+ Die Steuervergütung entspricht bezüglich Umfang und Einschränkungen dem Vorsteuerabzugsrecht nach den Artikeln 28–30 und 33 Absatz 2 MWSTG. Eine Vergütung erfolgt höchstens in der Höhe des für die Leistung gesetzlich vorgesehenen Steuersatzes. Bezahlte Mehrwertsteuer auf Leistungen, die nach dem MWSTG nicht der Mehrwertsteuer unterliegen oder davon befreit sind, wird nicht vergütet.
+
+ Reisebüros mit Sitz im Ausland haben keinen Anspruch auf Vergütung der Steuern, die ihnen in der Schweiz beim Bezug von Lieferungen und Dienstleistungen, die sie den Kunden und Kundinnen weiterfakturieren, in Rechnung gestellt worden sind.
+
+ Rückzahlbare Steuern werden nur vergütet, wenn deren Betrag in einem Kalenderjahr mindestens 500 Franken erreicht.
+
+##### Art. 154171 Vergütungsperiode
+
+(Art. 107 Abs. 1 Bst. b MWSTG)
+
+ Die Vergütungsperiode entspricht dem Kalenderjahr. Der Antrag auf Vergütung ist innerhalb von sechs Monaten nach Ablauf des Kalenderjahrs zu stellen, in dem die Leistung in Rechnung gestellt wurde.
+
+ Wird der Leistungserbringer oder die Leistungserbringerin steuerpflichtig, so endet die Vergütungsperiode in diesem Zeitpunkt. Der Antrag auf Vergütung für diese Periode ist zusammen mit der ersten Mehrwertsteuerabrechnung einzureichen.
+
+##### Art. 155 Verfahren
+
+(Art. 107 Abs. 1 Bst. b MWSTG)
+
+ Der Antrag auf Steuervergütung ist mit den Rechnungen der Leistungserbringer und Leistungserbringerinnen oder mit den Veranlagungsverfügungen des BAZG an die ESTV zu richten. Die Rechnungen müssen die Anforderungen nach Artikel 26 Absatz 2 MWSTG erfüllen und auf den Namen des Antragstellers oder der Antragstellerin lauten.
+
+ Für den Antrag ist das Formular der ESTV zu verwenden.
+
+ Der Antragsteller oder die Antragstellerin muss eine Vertretung mit Wohn- oder Geschäftssitz in der Schweiz bestellen.
+
+ Die auf Kassenzetteln ausgewiesene Steuer kann nicht rückerstattet werden.
+
+ Die ESTV kann weitere Angaben und Unterlagen verlangen.
+
+##### Art. 156 Vergütungszins
+
+(Art. 107 Abs. 1 Bst. b MWSTG)
+
+Wird die Steuervergütung später als 180 Tage nach Eintreffen des vollständigen Antrags bei der ESTV ausgezahlt, so wird für die Zeit vom 181. Tag bis zur Auszahlung ein vom EFD festzusetzender Vergütungszins ausgerichtet, sofern der entsprechende Staat Gegenrecht gewährt.
+
+# 8. Titel:  Mehrwertsteuer-Konsultativgremium173
+
+##### Art. 157174 Stellung
+
+(Art. 109 MWSTG)
+
+Das Mehrwertsteuer-Konsultativgremium (Konsultativgremium) ist eine ausserparlamentarische Kommission nach Artikel 57
+*a*
+des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997
+
+##### Art. 158176 Zusammensetzung des Konsultativgremiums
+
+(Art. 109 MWSTG)
+
+Das Konsultativgremium setzt sich aus vierzehn ständigen Mitgliedern zusammen.
+
+##### Art. 159 Arbeitsweise und Sekretariat
+
+(Art. 109 MWSTG)
+
+ Das Konsultativgremium tagt nach Bedarf. Die Einladung erfolgt durch den Vorsitzenden oder die Vorsitzende.
+
+1bis
+ Die ESTV nimmt beratend an den Sitzungen des Konsultativgremiums teil.
+
+ Die ESTV übernimmt die administrativen Sekretariatsaufgaben und führt das Protokoll; dieses enthält die Empfehlungen des Konsultativgremiums und allfällige Mehrheits- und Minderheitsmeinungen.
+
+##### Art. 160179 Stellungnahmen und Empfehlungen
+
+(Art. 109 MWSTG)
+
+Das Konsultativgremium richtet seine Stellungnahmen und Empfehlungen an das EFD. Es kann darin die Mehrheits- und Minderheitsmeinungen kenntlich machen.
+
+##### Art. 161 Entscheidkompetenz
+
+(Art. 109 MWSTG)
+
+ Das Konsultativgremium hat keine Entscheidkompetenz.
+
+ Der Entscheid über die Festlegung der Praxis liegt bei der ESTV.
+
+##### Art. 162181 Information der Öffentlichkeit
+
+ Die Beratungen sowie die Dokumente, die dem Konsultativgremium vorgelegt oder von ihm erstellt werden, sind vertraulich. Davon ausgenommen sind Entwürfe von Praxisfestlegungen der ESTV; diese werden gleichzeitig mit dem Versand der Einladung zur Sitzung des Konsultativgremiums, an der sie voraussichtlich behandelt werden, auf der Website der ESTV
+veröffentlicht.
+
+ Mit Zustimmung der ESTV darf das Konsultativgremium über seine Geschäfte öffentlich informieren.
+
+# 9. Titel:  Schlussbestimmungen
+
+## 1. Kapitel:  Aufhebung und Änderung bisherigen Rechts
+
+##### Art. 163
+
+Die Verordnung vom 29. März 2000
+zum Bundesgesetz über die Mehrwertsteuer wird aufgehoben.
+
+[
+
+## 2. Kapitel:  Übergangsbestimmungen
+
+##### Art. 164 Subsidiäre Haftung bei der Zession
+
+(Art. 15 Abs. 4 MWSTG)
+
+Der Zessionar oder die Zessionarin haftet nur für die Mehrwertsteuer auf Forderungen, die er oder sie gestützt auf eine nach dem 1. Januar 2010 zustande gekommene Zession oder Globalzession erwirbt.
+
+##### Art. 165 Einlageentsteuerung
+
+(Art. 32 MWSTG)
+
+Die Bestimmungen über die Einlageentsteuerung sind nicht anwendbar bei:
+
+a.
+nicht als Entgelt geltenden Mittelflüssen (Art. 18 Abs. 2 MWSTG), die mit Inkrafttreten des neuen Rechts nach Artikel 33 Absatz 1 MWSTG nicht mehr zu einer Kürzung des Vorsteuerabzugs führen;
+b.
+im Rahmen des Baueigenverbrauchs nach Artikel 9 Absatz 2 des Mehrwertsteuergesetzes vom 2. September 1999
+besteuerten Eigenleistungen.
+
+##### Art. 166 Wahlmöglichkeiten
+
+(Art. 37 und 114 MWSTG)
+
+ Mit dem Inkrafttreten des MWSTG beginnen die Fristen nach Artikel 37 Absatz 4 MWSTG für die Wechsel von der effektiven Abrechnungsmethode zur Saldosteuersatzmethode und umgekehrt neu zu laufen.
+
+ Mit dem Inkrafttreten des MWSTG beginnen die Fristen nach Artikel 98 Absatz 2 dieser Verordnung für die Wechsel von der effektiven Abrechnungsmethode zur Pauschalsteuersatzmethode und umgekehrt neu zu laufen.
+
+ Für Fälle, in denen Artikel 114 Absatz 2 MWSTG eine Frist von 90 Tagen vorsieht, geht diese Frist der 60-Tage-Frist nach den Artikeln 79, 81 und 98 dieser Verordnung vor.
+
+##### Art. 166a187 Übergangsbestimmung zur Änderung vom 18. Oktober 2017
+
+(Art. 10 Abs. 1 Bst. a MWSTG)
+
+Für ausländische Unternehmen ohne Betriebsstätte im Inland, die in den zwölf Monaten vor Inkrafttreten dieser Verordnung steuerbare Leistungen im Inland erbracht haben, endet die Befreiung von der Steuerpflicht nach Artikel 9
+*a*
+mit Inkrafttreten dieser Verordnung, wenn sie in diesen zwölf Monaten die Umsatzgrenze nach Artikel 10 Absatz 2 Buchstabe a oder c MWSTG aus nicht von der Steuer ausgenommenen Leistungen im In- oder Ausland erreicht haben und anzunehmen ist, dass sie auch in den zwölf Monaten ab Inkrafttreten steuerbare Leistungen im Inland erbringen werden. Wurden die Leistungen nicht während der gesamten zwölf Monate vor Inkrafttreten erbracht, so ist der Umsatz auf ein volles Jahr umzurechnen.
+
+##### Art. 166b188 Übergangsbestimmung zur Änderung vom 15. August 2018
+
+(Art. 7 Abs. 3 Bst. b MWSTG)
+
+Werden Gegenstände aus dem Ausland ins Inland geliefert, die aufgrund des geringfügigen Steuerbetrags von der Einfuhrsteuer befreit sind, so beginnt die Steuerpflicht des Leistungserbringers oder der Leistungserbringerin mit Inkrafttreten der Änderung vom 15. August 2018, wenn er oder sie in den vorangegangenen zwölf Monaten mit der Lieferung solcher Gegenstände einen Umsatz von mindestens 100 000 Franken erzielt hat und anzunehmen ist, dass er oder sie auch in den zwölf Monaten ab Inkrafttreten solche Lieferungen ausführen wird.
+
+##### Art. 166c189 Übergangsbestimmungen zur Änderung vom 16. Juni 2023
+
+(Art. 65
+*a*
+MWSTG und Art. 123 der vorliegenden Verordnung)
+
+ Steuerpflichtige Personen, die die Abrechnungen vor dem Inkrafttreten der Änderung vom
+16. Juni 2023
+in Papierform eingereicht haben, können die Abrechnungen bis zum 31. Dezember 2024 weiterhin in Papierform einreichen.
+
+ Korrekturen von Abrechnungen, die in Papierform eingereicht wurden, sind ebenfalls in Papierform einzureichen.
+
+##### Art. 166d190 Übergangsbestimmung zur Änderung vom 21. August 2024
+
+(Art. 35 Abs. 1
+bis
+Bst. b MWSTG)
+
+Steuerpflichtige Personen, die im Zeitpunkt des Inkrafttretens der Änderung vom 21.
+* *
+August 2024 noch nicht ein ganzes Jahr im Mehrwertsteuerregister eingetragen sind, haben für die Abklärung, ob die Umsatzgrenze von Artikel 35 Absatz 1
+bis
+Buchstabe b MWSTG überschritten wird, ihren erzielten Umsatz auf ein volles Jahr umzurechnen.
+
+##### Art. 166e191 Übergangsbestimmung zur Änderung vom 21. August 2024
+
+**
+(Art. 37 MWSTG)
+
+ Die Fristen nach Artikel 37 Absatz 4 MWSTG für den Wechsel von der effektiven Abrechnungsmethode zur Saldosteuersatzmethode und umgekehrt beginnen mit Inkrafttreten der Änderung vom 21. August 2024 neu zu laufen.
+
+ Die Fristen nach Artikel 98 Absatz 2 für den Wechsel von der effektiven Abrechnungsmethode zur Pauschalsteuersatzmethode und umgekehrt beginnen mit Inkrafttreten der Änderung vom 21. August 2024 neu zu laufen.
+
+## 3. Kapitel:  Inkrafttreten
+
+##### Art. 167
+
+ Diese Verordnung tritt mit Ausnahme von Artikel 76 am 1. Januar 2010 in Kraft.
+
+ Artikel 76 wird zu einem späteren Zeitpunkt in Kraft gesetzt.
