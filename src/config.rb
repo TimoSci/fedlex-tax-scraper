@@ -1,9 +1,10 @@
 # Paths, endpoints, and tuning constants shared across all modules.
-OUTPUT_DIR   = File.join(__dir__, '..', 'output')
-LAWS_DIR     = File.join(OUTPUT_DIR, 'laws')
-LOG_FILE     = File.join(OUTPUT_DIR, 'scraper.log')
-STATE_FILE   = File.join(OUTPUT_DIR, 'state.json')
-MASTER_FILE  = File.join(OUTPUT_DIR, 'swiss_federal_tax_laws_FULLTEXT.md')
+OUTPUT_DIR           = File.join(__dir__, '..', 'output')
+LAWS_DIR             = File.join(OUTPUT_DIR, 'laws')
+LAWS_FORMATTED_DIR   = File.join(OUTPUT_DIR, 'laws_formatted')
+LOG_FILE             = File.join(OUTPUT_DIR, 'scraper.log')
+STATE_FILE           = File.join(OUTPUT_DIR, 'state.json')
+MASTER_FILE          = File.join(OUTPUT_DIR, 'swiss_federal_tax_laws_FULLTEXT.md')
 
 SPARQL_ENDPOINT = 'https://fedlex.data.admin.ch/sparqlendpoint'
 FEDLEX_BASE     = 'https://fedlex.data.admin.ch'

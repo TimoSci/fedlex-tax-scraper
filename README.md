@@ -73,6 +73,7 @@ All settings live in `src/config.rb`. Open the file and change the constants dir
 |----------|---------|-------------|
 | `OUTPUT_DIR` | `output/` | Root directory for all output files |
 | `LAWS_DIR` | `output/laws/` | Directory for individual law Markdown files |
+| `LAWS_FORMATTED_DIR` | `output/laws_formatted/` | Directory for cleaned/formatted law files |
 | `LOG_FILE` | `output/scraper.log` | Log file path |
 | `STATE_FILE` | `output/state.json` | Progress tracker (delete to re-scrape everything) |
 | `MASTER_FILE` | `output/swiss_federal_tax_laws_FULLTEXT.md` | Combined file with all laws |
