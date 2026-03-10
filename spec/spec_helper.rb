@@ -9,16 +9,25 @@ require 'nokogiri'
 # Disable all real HTTP connections in tests
 WebMock.disable_net_connect!
 
-SCRAPER_SOURCE = File.read(File.expand_path('../../src/fedlex_tax_scraper.rb', __FILE__))
+# Build a single source string from all the split source files.
+# Order matters: config and known_laws first, then modules, then Scraper class.
+SRC_DIR = File.expand_path('../../src', __FILE__)
+SCRAPER_SOURCE = [
+  'config.rb',
+  'known_laws.rb',
+  'log.rb',
+  'state.rb',
+  'http.rb',
+  'fedlex.rb',
+  'text_extractor.rb',
+  'scraper.rb',
+].map { |f| File.read(File.join(SRC_DIR, f)) }.join("\n")
 
 # Writes a modified copy of the scraper source to a temp file and loads it.
 # This avoids eval issues with retry/rescue in Ruby 4.0+ while still
 # allowing us to redirect output paths and disable delays for tests.
 def load_scraper_code(tmp_output_dir)
   modified = SCRAPER_SOURCE.dup
-
-  # Remove the entry point (everything after "# ENTRY POINT")
-  modified.sub!(/^# =+\n# ENTRY POINT.*\z/m, '')
 
   # Override OUTPUT_DIR and related constants
   modified.sub!(/^OUTPUT_DIR\s*=.*$/, "OUTPUT_DIR = '#{tmp_output_dir}'")
