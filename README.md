@@ -54,13 +54,33 @@ Or:
 
 The scraper can be interrupted with Ctrl+C at any time. Re-run the same command to resume where it left off.
 
+## Formatting scraped laws
+
+The raw scraped files contain footnote references, amendment notes, and conversion artifacts. The law formatter cleans these up and produces uniform Markdown:
+
+```sh
+ruby format_laws.rb
+```
+
+This reads from `output/laws/` and writes cleaned files to `output/laws_formatted/`. Both directories are configurable in `src/config.rb`.
+
+What the formatter does:
+
+- Fixes missing spaces from ligature artifacts (e.g. "Bundesgesetzüber" → "Bundesgesetz über")
+- Merges abbreviation subtitles into the main heading (e.g. `## (DBG)` → part of `# title`)
+- Removes footnote reference numbers and footnote blocks (SR/AS/BBl references, amendment notes)
+- Extracts missing titles into YAML front matter for files that had `(no title)`
+- Normalizes PDF-extracted content: converts `Art. N` lines to Markdown headings, joins multi-line titles, removes page headers/footers
+- Collapses excessive blank lines
+
 ## Output
 
 All output is written to the `output/` directory:
 
 | File | Description |
 |------|-------------|
-| `output/laws/*.md` | One Markdown file per law, with YAML front matter |
+| `output/laws/*.md` | One Markdown file per law, with YAML front matter (raw) |
+| `output/laws_formatted/*.md` | Cleaned and uniformly formatted version of each law |
 | `output/swiss_federal_tax_laws_FULLTEXT.md` | Single compiled file containing all laws |
 | `output/scraper.log` | Timestamped log |
 | `output/state.json` | Progress tracker (delete to re-scrape everything) |
