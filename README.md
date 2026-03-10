@@ -19,7 +19,7 @@ Beyond the hardcoded list, the scraper also runs a SPARQL discovery query to fin
 
 ## Installation
 
-Requires Ruby (tested with 4.x).
+Requires [Ruby](https://www.ruby-lang.org/en/) (tested with 4.x).
 
 ```sh
 bundle install
