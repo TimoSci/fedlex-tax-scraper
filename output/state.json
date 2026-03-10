@@ -1,0 +1,539 @@
+{
+  "completed": [
+    "DBG",
+    "DBV",
+    "Berufskostenverordnung",
+    "EFV",
+    "Patentboxverordnung",
+    "Zinssatzverordnung-DBG",
+    "StHG",
+    "StHV",
+    "MWSTG",
+    "MWSTV",
+    "MWSTV-EFD",
+    "VStG",
+    "VStV",
+    "StG",
+    "StV",
+    "BierStG",
+    "TbStG",
+    "TbStV",
+    "SpiritG",
+    "MinöStG",
+    "MinöStV",
+    "NSAG",
+    "SVAG",
+    "SVAV",
+    "CO2-Gesetz",
+    "StAhiG",
+    "StAhiV",
+    "AIAG",
+    "AIAV",
+    "StADG",
+    "VStrR",
+    "SR-313.041",
+    "SR-641.131",
+    "SR-641.153",
+    "SR-641.201.11",
+    "SR-641.201.31",
+    "SR-641.201.41",
+    "SR-641.201.49",
+    "SR-641.201.511",
+    "SR-641.201.511.1",
+    "SR-641.202",
+    "SR-641.202.2",
+    "SR-641.202.62",
+    "SR-641.203",
+    "SR-641.203.2",
+    "SR-641.203.3",
+    "SR-641.204",
+    "SR-641.207.1",
+    "SR-641.207.2",
+    "SR-641.310",
+    "SR-641.315",
+    "SR-641.316",
+    "SR-641.411.1",
+    "SR-641.413",
+    "SR-641.51",
+    "SR-641.511",
+    "SR-641.514",
+    "SR-641.611.21",
+    "SR-641.612",
+    "SR-641.613",
+    "SR-641.711",
+    "SR-641.711.1",
+    "SR-641.712",
+    "SR-641.712.2",
+    "SR-641.713",
+    "SR-641.714",
+    "SR-641.714.11",
+    "SR-641.72",
+    "SR-641.721",
+    "SR-641.811.22",
+    "SR-641.811.31",
+    "SR-641.811.423",
+    "SR-641.811.911",
+    "SR-641.811.912",
+    "SR-641.814.1",
+    "SR-641.91",
+    "SR-641.912.11",
+    "SR-641.912.21",
+    "SR-641.92",
+    "SR-642.110.8",
+    "SR-642.112",
+    "SR-642.113",
+    "SR-642.114",
+    "SR-642.115.325.1",
+    "SR-642.116.1",
+    "SR-642.116.2",
+    "SR-642.118.3",
+    "SR-642.119.2",
+    "SR-642.119.3",
+    "SR-642.121",
+    "SR-642.123",
+    "SR-642.124",
+    "SR-642.132",
+    "SR-642.142.1",
+    "SR-642.142.2",
+    "SR-642.15",
+    "SR-642.151",
+    "SR-642.212",
+    "SR-642.31",
+    "SR-653.241.6",
+    "SR-654.1",
+    "SR-654.11",
+    "SR-680.11",
+    "SR-680.114",
+    "SR-681.41",
+    "SR-689.3",
+    "SR-689.5",
+    "SR-689.7",
+    "SR-741.711",
+    "SR-741.712"
+  ],
+  "failed": {
+    "EStG": [
+      {
+        "time": "2026-03-09T23:42:49+01:00",
+        "reason": "Empty text returned"
+      },
+      {
+        "time": "2026-03-10T02:14:38+01:00",
+        "reason": "Empty text returned"
+      },
+      {
+        "time": "2026-03-10T13:43:27+01:00",
+        "reason": "Empty text returned"
+      },
+      {
+        "time": "2026-03-10T13:52:14+01:00",
+        "reason": "Empty text returned"
+      }
+    ],
+    "MindStV": [
+      {
+        "time": "2026-03-09T23:42:58+01:00",
+        "reason": "Empty text returned"
+      },
+      {
+        "time": "2026-03-10T02:14:47+01:00",
+        "reason": "Empty text returned"
+      }
+    ],
+    "SR-641.100": [
+      {
+        "time": "2026-03-09T23:55:53+01:00",
+        "reason": "Empty text returned"
+      },
+      {
+        "time": "2026-03-10T02:14:59+01:00",
+        "reason": "Empty text returned"
+      }
+    ],
+    "SR-641.105": [
+      {
+        "time": "2026-03-09T23:56:03+01:00",
+        "reason": "Empty text returned"
+      },
+      {
+        "time": "2026-03-10T02:15:09+01:00",
+        "reason": "Empty text returned"
+      }
+    ],
+    "SR-641.201.42": [
+      {
+        "time": "2026-03-09T23:56:52+01:00",
+        "reason": "Empty text returned"
+      },
+      {
+        "time": "2026-03-10T02:15:24+01:00",
+        "reason": "Empty text returned"
+      }
+    ],
+    "SR-641.201.43": [
+      {
+        "time": "2026-03-09T23:57:01+01:00",
+        "reason": "Empty text returned"
+      },
+      {
+        "time": "2026-03-10T02:15:33+01:00",
+        "reason": "Empty text returned"
+      }
+    ],
+    "SR-641.201.44": [
+      {
+        "time": "2026-03-09T23:57:11+01:00",
+        "reason": "Empty text returned"
+      },
+      {
+        "time": "2026-03-10T02:15:43+01:00",
+        "reason": "Empty text returned"
+      }
+    ],
+    "SR-641.201.45": [
+      {
+        "time": "2026-03-09T23:57:20+01:00",
+        "reason": "Empty text returned"
+      },
+      {
+        "time": "2026-03-10T02:15:52+01:00",
+        "reason": "Empty text returned"
+      }
+    ],
+    "SR-641.201.46": [
+      {
+        "time": "2026-03-09T23:57:29+01:00",
+        "reason": "Empty text returned"
+      },
+      {
+        "time": "2026-03-10T02:16:01+01:00",
+        "reason": "Empty text returned"
+      }
+    ],
+    "SR-641.211.1": [
+      {
+        "time": "2026-03-09T23:59:11+01:00",
+        "reason": "Empty text returned"
+      },
+      {
+        "time": "2026-03-10T02:16:22+01:00",
+        "reason": "Empty text returned"
+      }
+    ],
+    "SR-641.211.2": [
+      {
+        "time": "2026-03-09T23:59:21+01:00",
+        "reason": "Empty text returned"
+      },
+      {
+        "time": "2026-03-10T02:16:31+01:00",
+        "reason": "Empty text returned"
+      }
+    ],
+    "SR-641.211.3": [
+      {
+        "time": "2026-03-09T23:59:35+01:00",
+        "reason": "Empty text returned"
+      },
+      {
+        "time": "2026-03-10T02:16:46+01:00",
+        "reason": "Empty text returned"
+      }
+    ],
+    "SR-641.212": [
+      {
+        "time": "2026-03-10T02:17:11+01:00",
+        "reason": "Empty text returned"
+      }
+    ],
+    "SR-641.213": [
+      {
+        "time": "2026-03-10T02:17:20+01:00",
+        "reason": "Empty text returned"
+      }
+    ],
+    "SR-641.231": [
+      {
+        "time": "2026-03-10T02:17:35+01:00",
+        "reason": "Empty text returned"
+      }
+    ],
+    "SR-641.232": [
+      {
+        "time": "2026-03-10T02:17:49+01:00",
+        "reason": "Empty text returned"
+      }
+    ],
+    "SR-641.233": [
+      {
+        "time": "2026-03-10T02:18:09+01:00",
+        "reason": "Empty text returned"
+      }
+    ],
+    "SR-641.236": [
+      {
+        "time": "2026-03-10T02:18:19+01:00",
+        "reason": "Empty text returned"
+      }
+    ],
+    "SR-641.311.1": [
+      {
+        "time": "2026-03-10T02:18:35+01:00",
+        "reason": "Empty text returned"
+      }
+    ],
+    "SR-641.314.2": [
+      {
+        "time": "2026-03-10T02:18:45+01:00",
+        "reason": "Empty text returned"
+      }
+    ],
+    "SR-641.317.2": [
+      {
+        "time": "2026-03-10T02:19:07+01:00",
+        "reason": "Empty text returned"
+      }
+    ],
+    "SR-641.412": [
+      {
+        "time": "2026-03-10T02:19:24+01:00",
+        "reason": "Empty text returned"
+      }
+    ],
+    "SR-641.414": [
+      {
+        "time": "2026-03-10T02:19:41+01:00",
+        "reason": "Empty text returned"
+      }
+    ],
+    "SR-642.110.1": [
+      {
+        "time": "2026-03-10T02:22:39+01:00",
+        "reason": "Empty text returned"
+      }
+    ],
+    "SR-642.110.2": [
+      {
+        "time": "2026-03-10T02:22:48+01:00",
+        "reason": "Empty text returned"
+      }
+    ],
+    "SR-642.111": [
+      {
+        "time": "2026-03-10T02:23:09+01:00",
+        "reason": "Empty text returned"
+      }
+    ],
+    "SR-642.117.2": [
+      {
+        "time": "2026-03-10T02:23:56+01:00",
+        "reason": "Empty text returned"
+      }
+    ],
+    "SR-642.119.1": [
+      {
+        "time": "2026-03-10T02:24:12+01:00",
+        "reason": "Empty text returned"
+      }
+    ],
+    "SR-642.125": [
+      {
+        "time": "2026-03-10T02:24:54+01:00",
+        "reason": "Empty text returned"
+      }
+    ],
+    "SR-642.131": [
+      {
+        "time": "2026-03-10T02:25:03+01:00",
+        "reason": "Empty text returned"
+      }
+    ],
+    "SR-642.311": [
+      {
+        "time": "2026-03-10T02:26:06+01:00",
+        "reason": "Empty text returned"
+      }
+    ],
+    "SR-642.32": [
+      {
+        "time": "2026-03-10T02:26:15+01:00",
+        "reason": "Empty text returned"
+      }
+    ],
+    "SR-642.91": [
+      {
+        "time": "2026-03-10T02:26:24+01:00",
+        "reason": "Empty text returned"
+      }
+    ],
+    "SR-642.911": [
+      {
+        "time": "2026-03-10T02:26:34+01:00",
+        "reason": "Empty text returned"
+      }
+    ],
+    "SR-651": [
+      {
+        "time": "2026-03-10T02:26:43+01:00",
+        "reason": "Empty text returned"
+      }
+    ],
+    "SR-680.0": [
+      {
+        "time": "2026-03-10T02:27:11+01:00",
+        "reason": "Empty text returned"
+      }
+    ],
+    "SR-680.1": [
+      {
+        "time": "2026-03-10T02:27:21+01:00",
+        "reason": "Empty text returned"
+      }
+    ],
+    "SR-681": [
+      {
+        "time": "2026-03-10T02:27:42+01:00",
+        "reason": "Empty text returned"
+      }
+    ],
+    "SR-681.42": [
+      {
+        "time": "2026-03-10T02:28:21+01:00",
+        "reason": "Empty text returned"
+      }
+    ],
+    "SR-681.53": [
+      {
+        "time": "2026-03-10T02:28:47+01:00",
+        "reason": "Empty text returned"
+      }
+    ],
+    "SR-681.61": [
+      {
+        "time": "2026-03-10T02:29:27+01:00",
+        "reason": "Empty text returned"
+      }
+    ],
+    "SR-682.21": [
+      {
+        "time": "2026-03-10T02:29:52+01:00",
+        "reason": "Empty text returned"
+      }
+    ],
+    "SR-682.211": [
+      {
+        "time": "2026-03-10T02:30:23+01:00",
+        "reason": "Empty text returned"
+      }
+    ],
+    "SR-682.212": [
+      {
+        "time": "2026-03-10T02:30:33+01:00",
+        "reason": "Empty text returned"
+      }
+    ],
+    "SR-682.213": [
+      {
+        "time": "2026-03-10T02:30:42+01:00",
+        "reason": "Empty text returned"
+      }
+    ],
+    "SR-682.214": [
+      {
+        "time": "2026-03-10T02:30:51+01:00",
+        "reason": "Empty text returned"
+      }
+    ],
+    "SR-682.216": [
+      {
+        "time": "2026-03-10T02:31:07+01:00",
+        "reason": "Empty text returned"
+      }
+    ],
+    "SR-682.218": [
+      {
+        "time": "2026-03-10T02:31:16+01:00",
+        "reason": "Empty text returned"
+      }
+    ],
+    "SR-682.22": [
+      {
+        "time": "2026-03-10T02:31:31+01:00",
+        "reason": "Empty text returned"
+      }
+    ],
+    "SR-683.11": [
+      {
+        "time": "2026-03-10T02:31:40+01:00",
+        "reason": "Empty text returned"
+      }
+    ],
+    "SR-683.21": [
+      {
+        "time": "2026-03-10T02:32:54+01:00",
+        "reason": "Empty text returned"
+      }
+    ],
+    "SR-683.22": [
+      {
+        "time": "2026-03-10T02:33:52+01:00",
+        "reason": "Empty text returned"
+      }
+    ],
+    "SR-683.23": [
+      {
+        "time": "2026-03-10T02:34:55+01:00",
+        "reason": "Empty text returned"
+      }
+    ],
+    "SR-683.24": [
+      {
+        "time": "2026-03-10T02:35:58+01:00",
+        "reason": "Empty text returned"
+      }
+    ],
+    "SR-683.25": [
+      {
+        "time": "2026-03-10T02:36:12+01:00",
+        "reason": "Empty text returned"
+      }
+    ],
+    "SR-683.26": [
+      {
+        "time": "2026-03-10T02:36:21+01:00",
+        "reason": "Empty text returned"
+      }
+    ],
+    "SR-683.27": [
+      {
+        "time": "2026-03-10T02:36:31+01:00",
+        "reason": "Empty text returned"
+      }
+    ],
+    "SR-686.11": [
+      {
+        "time": "2026-03-10T02:36:40+01:00",
+        "reason": "Empty text returned"
+      }
+    ],
+    "SR-689.12": [
+      {
+        "time": "2026-03-10T02:36:49+01:00",
+        "reason": "Empty text returned"
+      }
+    ],
+    "SR-689.13": [
+      {
+        "time": "2026-03-10T02:37:04+01:00",
+        "reason": "Empty text returned"
+      }
+    ],
+    "SR-689.2": [
+      {
+        "time": "2026-03-10T02:37:18+01:00",
+        "reason": "Empty text returned"
+      }
+    ]
+  },
+  "started_at": "2026-03-09T23:40:01+01:00"
+}
