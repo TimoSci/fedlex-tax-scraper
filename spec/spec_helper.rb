@@ -50,7 +50,7 @@ end
 # Helper to clean up constants/modules between tests so each spec
 # gets a fresh set of definitions pointing at its own temp directory.
 def unload_scraper_constants!
-  %w[OUTPUT_DIR LAWS_DIR LOG_FILE STATE_FILE MASTER_FILE
+  %w[OUTPUT_DIR LAWS_DIR LAWS_FORMATTED_DIR LOG_FILE STATE_FILE MASTER_FILE
      REQUEST_DELAY HTTP_TIMEOUT MAX_RETRIES SPARQL_ENDPOINT
      FEDLEX_BASE KNOWN_LAWS].each do |c|
     Object.send(:remove_const, c) if Object.const_defined?(c)
